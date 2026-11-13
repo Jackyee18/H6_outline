@@ -1,0 +1,3099 @@
+[
+  {
+    "passage_id": "H6_1_1",
+    "unit": 1,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "旅店住宿与房间设施 (Hotel Stay & Room Facilities)",
+    "text_type": "dialogue",
+    "title": "入住小镇旅店 (Checking In at a Small Town Inn)",
+    "scenario": "A tired traveler arrives at a family-run inn, asks about hot water and the air conditioning, and hands over a tip while the owner shows him the room.",
+    "new_words": [
+      "旅店",
+      "小费",
+      "热水",
+      "冷水",
+      "冷气",
+      "台灯"
+    ]
+  },
+  {
+    "passage_id": "H6_1_2",
+    "unit": 1,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "旅店住宿与房间设施 (Hotel Stay & Room Facilities)",
+    "text_type": "dialogue",
+    "title": "家电出了故障 (When the Appliances Break Down)",
+    "scenario": "A tenant calls the landlord because the water heater and the microwave have stopped working, and they look for the switch and the manual together.",
+    "new_words": [
+      "电器",
+      "家电",
+      "微波炉",
+      "热水器",
+      "开关",
+      "故障",
+      "说明书"
+    ]
+  },
+  {
+    "passage_id": "H6_1_3",
+    "unit": 1,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "旅店住宿与房间设施 (Hotel Stay & Room Facilities)",
+    "text_type": "passage",
+    "title": "老楼要拆迁了 (The Old Block Is Being Demolished)",
+    "scenario": "An old resident describes the building he has lived in for forty years — the corridor, the wooden floor, the basement — and the news that the whole block will be pulled down.",
+    "new_words": [
+      "住宅",
+      "楼房",
+      "楼道",
+      "地板",
+      "地下室",
+      "平方米",
+      "拆迁"
+    ]
+  },
+  {
+    "passage_id": "H6_2_1",
+    "unit": 2,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "家务与一日生活琐事 (Housework & Everyday Chores)",
+    "text_type": "dialogue",
+    "title": "周末大扫除 (The Weekend Clean-Up)",
+    "scenario": "A couple divides the housework on Saturday morning: one washes clothes, the other wipes the surfaces, and they argue mildly about who should add more water to the bucket.",
+    "new_words": [
+      "洗衣粉",
+      "清洗",
+      "清洁",
+      "除",
+      "添",
+      "撑",
+      "托"
+    ]
+  },
+  {
+    "passage_id": "H6_2_2",
+    "unit": 2,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "家务与一日生活琐事 (Housework & Everyday Chores)",
+    "text_type": "dialogue",
+    "title": "小区突然停水 (When the Water Suddenly Stops)",
+    "scenario": "Neighbours stand in the courtyard after the water supply is cut, guessing whether the pipe or the old well is the problem, while a repairman mixes cement.",
+    "new_words": [
+      "泡",
+      "自来水",
+      "管道",
+      "井",
+      "水泥",
+      "泥"
+    ]
+  },
+  {
+    "passage_id": "H6_2_3",
+    "unit": 2,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "家务与一日生活琐事 (Housework & Everyday Chores)",
+    "text_type": "passage",
+    "title": "老家的小院 (The Little Courtyard Back Home)",
+    "scenario": "A woman revisits her parents' courtyard: cotton quilts airing in the sun, a vegetable plot, a newly planted tree, and the vase her mother has kept for decades.",
+    "new_words": [
+      "棉",
+      "园",
+      "田",
+      "绿化",
+      "枝",
+      "花瓶"
+    ]
+  },
+  {
+    "passage_id": "H6_3_1",
+    "unit": 3,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "租房搬家与小区生活 (Renting, Moving & Neighbourhood Life)",
+    "text_type": "dialogue",
+    "title": "租房签合约 (Signing a Rental Contract)",
+    "scenario": "A young couple checks the monthly rent and the expiry date, asks about the deposit and the agency fee, and the agent explains how their credit record affects the deal.",
+    "new_words": [
+      "租金",
+      "合约",
+      "到期",
+      "金额",
+      "手续费",
+      "信用",
+      "账"
+    ]
+  },
+  {
+    "passage_id": "H6_3_2",
+    "unit": 3,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "租房搬家与小区生活 (Renting, Moving & Neighbourhood Life)",
+    "text_type": "dialogue",
+    "title": "搬家前收拾东西 (Packing Up Before the Move)",
+    "scenario": "Two friends sort through years of belongings, decide what to store in the warehouse, what to keep as a collection, and what to simply carry away.",
+    "new_words": [
+      "物品",
+      "用品",
+      "储存",
+      "仓库",
+      "拿走",
+      "书房"
+    ]
+  },
+  {
+    "passage_id": "H6_3_3",
+    "unit": 3,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "租房搬家与小区生活 (Renting, Moving & Neighbourhood Life)",
+    "text_type": "dialogue",
+    "title": "在小区里问路 (Asking the Way Around the Neighbourhood)",
+    "scenario": "A visitor asks an elderly resident how to reach the market along the main avenue, which corner to turn at, and what stands on both sides of the street.",
+    "new_words": [
+      "街头",
+      "大街",
+      "大道",
+      "拐",
+      "沿",
+      "两侧"
+    ]
+  },
+  {
+    "passage_id": "H6_4_1",
+    "unit": 4,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "衣着、首饰与文具 (Clothing, Jewellery & Stationery)",
+    "text_type": "dialogue",
+    "title": "换季收拾衣柜 (Changing Over the Wardrobe)",
+    "scenario": "A mother and daughter sort clothes for the new season: the winter coat, the vest, the underwear, and which sandals and slippers can be kept.",
+    "new_words": [
+      "外衣",
+      "背心",
+      "内衣",
+      "凉鞋",
+      "拖鞋",
+      "雨衣"
+    ]
+  },
+  {
+    "passage_id": "H6_4_2",
+    "unit": 4,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "衣着、首饰与文具 (Clothing, Jewellery & Stationery)",
+    "text_type": "dialogue",
+    "title": "逛商场看橱窗 (Window-Shopping in the Mall)",
+    "scenario": "Two friends admire a fashion display: the jewellery in the window, the exquisite high-grade pieces on the ranking list, and the look of the whole shop.",
+    "new_words": [
+      "时装",
+      "珠宝",
+      "高档",
+      "精美",
+      "外观",
+      "排行榜"
+    ]
+  },
+  {
+    "passage_id": "H6_4_3",
+    "unit": 4,
+    "module": "Module 1: Home, Hospitality & Daily Living (居家生活与热情待客)",
+    "unit_title": "衣着、首饰与文具 (Clothing, Jewellery & Stationery)",
+    "text_type": "dialogue",
+    "title": "文具店 (At the Stationery Shop)",
+    "scenario": "A student buys supplies for the new term: a pocket-sized dictionary, a disposable pen, a ballpoint pen, pencils and a bottle of ink.",
+    "new_words": [
+      "袖珍",
+      "一次性",
+      "圆珠笔",
+      "铅笔",
+      "墨水",
+      "窗口"
+    ]
+  },
+  {
+    "passage_id": "H6_5_1",
+    "unit": 5,
+    "module": "Module 2: Food, Dining & Cooking (饮食与烹饪)",
+    "unit_title": "早餐与家常菜 (Breakfast & Home Cooking)",
+    "text_type": "dialogue",
+    "title": "早餐桌上 (At the Breakfast Table)",
+    "scenario": "A mother urges her son to finish his steamed bun and porridge, spreads jam on bread, and reminds him to drink his milk because his appetite has been poor.",
+    "new_words": [
+      "馒头",
+      "粥",
+      "大米",
+      "果酱",
+      "奶粉",
+      "乳制品",
+      "食欲"
+    ]
+  },
+  {
+    "passage_id": "H6_5_2",
+    "unit": 5,
+    "module": "Module 2: Food, Dining & Cooking (饮食与烹饪)",
+    "unit_title": "早餐与家常菜 (Breakfast & Home Cooking)",
+    "text_type": "dialogue",
+    "title": "学做一道家常菜 (Learning to Cook a Home Dish)",
+    "scenario": "A daughter follows her father's instructions: fry the aubergine first, add tomato, then a splash of soy sauce and vinegar before letting it simmer.",
+    "new_words": [
+      "番茄",
+      "茄子",
+      "酱油",
+      "醋",
+      "炸",
+      "炒",
+      "煮"
+    ]
+  },
+  {
+    "passage_id": "H6_5_3",
+    "unit": 5,
+    "module": "Module 2: Food, Dining & Cooking (饮食与烹饪)",
+    "unit_title": "早餐与家常菜 (Breakfast & Home Cooking)",
+    "text_type": "dialogue",
+    "title": "超市买零食 (Buying Snacks at the Supermarket)",
+    "scenario": "Two students shop for a picnic — chips, fries, sandwiches and peanuts — and argue over which sauce and which drinks to bring.",
+    "new_words": [
+      "薯片",
+      "薯条",
+      "三明治",
+      "花生",
+      "酱",
+      "酒水"
+    ]
+  },
+  {
+    "passage_id": "H6_6_1",
+    "unit": 6,
+    "module": "Module 2: Food, Dining & Cooking (饮食与烹饪)",
+    "unit_title": "请客、赴宴与待客之道 (Hosting, Banquets & Hospitality)",
+    "text_type": "dialogue",
+    "title": "家里办宴会 (A Banquet at Home)",
+    "scenario": "A family welcomes honoured guests for dinner, greets them at the door, escorts them to the table, offers the best seat and proposes a toast.",
+    "new_words": [
+      "宴会",
+      "嘉宾",
+      "诸位",
+      "迎来",
+      "陪同",
+      "让座",
+      "祝愿"
+    ]
+  },
+  {
+    "passage_id": "H6_6_2",
+    "unit": 6,
+    "module": "Module 2: Food, Dining & Cooking (饮食与烹饪)",
+    "unit_title": "请客、赴宴与待客之道 (Hosting, Banquets & Hospitality)",
+    "text_type": "dialogue",
+    "title": "到车站送朋友 (Seeing a Friend Off at the Station)",
+    "scenario": "Two old friends say goodbye on the platform, exchange a small gift, and the traveller apologises for a past misunderstanding before thanking the other for years of care.",
+    "new_words": [
+      "送行",
+      "送礼",
+      "道歉",
+      "关爱",
+      "掌声",
+      "仪式"
+    ]
+  },
+  {
+    "passage_id": "H6_6_3",
+    "unit": 6,
+    "module": "Module 2: Food, Dining & Cooking (饮食与烹饪)",
+    "unit_title": "请客、赴宴与待客之道 (Hosting, Banquets & Hospitality)",
+    "text_type": "dialogue",
+    "title": "饭后收拾餐桌 (Clearing the Table After Dinner)",
+    "scenario": "Mother and son clear the dishes, talk about what went into the soup and whether it had enough vitamins, and the boy swallows the last mouthful too fast.",
+    "new_words": [
+      "餐",
+      "勺",
+      "壶",
+      "吞",
+      "成分",
+      "维生素"
+    ]
+  },
+  {
+    "passage_id": "H6_7_1",
+    "unit": 7,
+    "module": "Module 3: Health, Body & Medicine (健康与医疗)",
+    "unit_title": "看病与治疗 (Seeing a Doctor & Treatment)",
+    "text_type": "dialogue",
+    "title": "感冒去看医生 (At the Doctor's for a Cold)",
+    "scenario": "A patient describes his headache and symptoms, the doctor says it is flu that came on suddenly, prescribes medicine and predicts a week to recover.",
+    "new_words": [
+      "症状",
+      "病情",
+      "流感",
+      "头疼",
+      "发病",
+      "药品",
+      "康复"
+    ]
+  },
+  {
+    "passage_id": "H6_7_2",
+    "unit": 7,
+    "module": "Module 3: Health, Body & Medicine (健康与医疗)",
+    "unit_title": "看病与治疗 (Seeing a Doctor & Treatment)",
+    "text_type": "dialogue",
+    "title": "急诊室的一夜 (A Night in the Emergency Room)",
+    "scenario": "A man is rushed in after a fall; the surgeon cleans the wound, the patient complains of the pain, and a nurse leads him to the ward past other injured people.",
+    "new_words": [
+      "急救",
+      "伤口",
+      "疼痛",
+      "外科",
+      "病房",
+      "伤员",
+      "晕"
+    ]
+  },
+  {
+    "passage_id": "H6_7_3",
+    "unit": 7,
+    "module": "Module 3: Health, Body & Medicine (健康与医疗)",
+    "unit_title": "看病与治疗 (Seeing a Doctor & Treatment)",
+    "text_type": "passage",
+    "title": "心脏与血管 (The Heart and the Blood Vessels)",
+    "scenario": "A health column explains how the heart pumps blood through the vessels, why the lungs and liver matter, and what swelling can signal.",
+    "new_words": [
+      "心脏",
+      "心脏病",
+      "血液",
+      "血管",
+      "肺",
+      "肝",
+      "肿"
+    ]
+  },
+  {
+    "passage_id": "H6_8_1",
+    "unit": 8,
+    "module": "Module 3: Health, Body & Medicine (健康与医疗)",
+    "unit_title": "体检、保健与身体信号 (Check-Ups, Wellbeing & Body Signals)",
+    "text_type": "dialogue",
+    "title": "体检报告出来了 (The Check-Up Report Comes Back)",
+    "scenario": "Two colleagues read a medical report together: short-sightedness, a chronic illness, the doctor's advice on balance and strength, and a note on where to buy medicine.",
+    "new_words": [
+      "近视",
+      "疾病",
+      "患者",
+      "保健",
+      "强壮",
+      "平衡",
+      "医药"
+    ]
+  },
+  {
+    "passage_id": "H6_8_2",
+    "unit": 8,
+    "module": "Module 3: Health, Body & Medicine (健康与医疗)",
+    "unit_title": "体检、保健与身体信号 (Check-Ups, Wellbeing & Body Signals)",
+    "text_type": "dialogue",
+    "title": "带孩子看儿科 (Taking a Child to the Paediatrics Department)",
+    "scenario": "A mother brings her feverish son in; the doctor checks the inflammation, gives him an injection, explains how the body resists infection and how to treat it at home.",
+    "new_words": [
+      "儿科",
+      "发炎",
+      "扎",
+      "治病",
+      "抵抗",
+      "途径"
+    ]
+  },
+  {
+    "passage_id": "H6_8_3",
+    "unit": 8,
+    "module": "Module 3: Health, Body & Medicine (健康与医疗)",
+    "unit_title": "体检、保健与身体信号 (Check-Ups, Wellbeing & Body Signals)",
+    "text_type": "passage",
+    "title": "身体发出的小信号 (Small Signals from the Body)",
+    "scenario": "A short article on everyday health: the tongue and fingers as warning signs, two hands that tremble, why blind and disabled passengers need consideration, and how carsickness starts.",
+    "new_words": [
+      "舌头",
+      "指头",
+      "两手",
+      "残疾",
+      "盲人",
+      "残疾人",
+      "晕车"
+    ]
+  },
+  {
+    "passage_id": "H6_9_1",
+    "unit": 9,
+    "module": "Module 4: Emotions & Personality (情感与性格)",
+    "unit_title": "情绪的起伏 (The Rise and Fall of Emotions)",
+    "text_type": "dialogue",
+    "title": "他今天心情不好 (He Is in a Bad Mood Today)",
+    "scenario": "A colleague comes back from a meeting furious, sighs, keeps his head down and mutters to himself while everyone else pretends not to notice.",
+    "new_words": [
+      "愉快",
+      "愤怒",
+      "发怒",
+      "叹气",
+      "低头",
+      "自言自语"
+    ]
+  },
+  {
+    "passage_id": "H6_9_2",
+    "unit": 9,
+    "module": "Module 4: Emotions & Personality (情感与性格)",
+    "unit_title": "情绪的起伏 (The Rise and Fall of Emotions)",
+    "text_type": "dialogue",
+    "title": "安慰一个失意的朋友 (Comforting a Discouraged Friend)",
+    "scenario": "Over tea, one friend admits how lonely the past year has been, says he regrets it, and is finally persuaded to forgive himself.",
+    "new_words": [
+      "孤独",
+      "遗憾",
+      "抱歉",
+      "原谅",
+      "打动",
+      "心灵",
+      "笑容"
+    ]
+  },
+  {
+    "passage_id": "H6_9_3",
+    "unit": 9,
+    "module": "Module 4: Emotions & Personality (情感与性格)",
+    "unit_title": "情绪的起伏 (The Rise and Fall of Emotions)",
+    "text_type": "passage",
+    "title": "写在脸上的情绪 (Emotions Written on the Face)",
+    "scenario": "A short piece on reading a room: the laughter in a corridor, the smiling faces at a dinner, how the mood shifts, and the moment you cannot help saying wow.",
+    "new_words": [
+      "笑脸",
+      "笑声",
+      "情绪",
+      "气氛",
+      "不禁",
+      "哇",
+      "想不到"
+    ]
+  },
+  {
+    "passage_id": "H6_10_1",
+    "unit": 10,
+    "module": "Module 4: Emotions & Personality (情感与性格)",
+    "unit_title": "性格与为人 (Character & How People Judge It)",
+    "text_type": "dialogue",
+    "title": "新来的同事 (The New Colleague)",
+    "scenario": "Two colleagues size up the newcomer: modest but a little proud, quick to learn yet lazy about details, and refreshingly straightforward.",
+    "new_words": [
+      "骄傲",
+      "谦虚",
+      "懒",
+      "用心",
+      "顽皮",
+      "爽"
+    ]
+  },
+  {
+    "passage_id": "H6_10_2",
+    "unit": 10,
+    "module": "Module 4: Emotions & Personality (情感与性格)",
+    "unit_title": "性格与为人 (Character & How People Judge It)",
+    "text_type": "dialogue",
+    "title": "这个任务交给谁 (Who Should Take This Task)",
+    "scenario": "A manager weighs two candidates — one forceful, one steady and stubborn — and asks who dares to take on the hardest client.",
+    "new_words": [
+      "强势",
+      "狠",
+      "敢于",
+      "踏实",
+      "顽强",
+      "酷"
+    ]
+  },
+  {
+    "passage_id": "H6_10_3",
+    "unit": 10,
+    "module": "Module 4: Emotions & Personality (情感与性格)",
+    "unit_title": "性格与为人 (Character & How People Judge It)",
+    "text_type": "passage",
+    "title": "同事眼中的他 (How His Colleagues See Him)",
+    "scenario": "A profile of a respected team leader: loyal for twenty years, admired rather than feared, whose self-discipline and good sense made him someone people looked up to.",
+    "new_words": [
+      "忠心",
+      "崇拜",
+      "看得起",
+      "感人",
+      "自我",
+      "理智",
+      "素质"
+    ]
+  },
+  {
+    "passage_id": "H6_11_1",
+    "unit": 11,
+    "module": "Module 4: Emotions & Personality (情感与性格)",
+    "unit_title": "心愿、担忧与难忘的事 (Wishes, Worries & Unforgettable Moments)",
+    "text_type": "dialogue",
+    "title": "新年的心愿 (A New Year's Wish)",
+    "scenario": "A family writes down their wishes for the year — one wants passion back in her work, another hopes for a surprise, and the grandmother says she has learned to be content.",
+    "new_words": [
+      "心愿",
+      "意愿",
+      "盼望",
+      "激情",
+      "惊喜",
+      "觉悟",
+      "一番"
+    ]
+  },
+  {
+    "passage_id": "H6_11_2",
+    "unit": 11,
+    "module": "Module 4: Emotions & Personality (情感与性格)",
+    "unit_title": "心愿、担忧与难忘的事 (Wishes, Worries & Unforgettable Moments)",
+    "text_type": "passage",
+    "title": "出门在外的不便 (The Inconvenience of Being Away from Home)",
+    "scenario": "A traveler lists what he dislikes about life on the road: the small inconveniences, the constant worrying, and the tendency to treat strangers as problems.",
+    "new_words": [
+      "不便",
+      "担忧",
+      "嫌",
+      "当成",
+      "倾向",
+      "幻想"
+    ]
+  },
+  {
+    "passage_id": "H6_11_3",
+    "unit": 11,
+    "module": "Module 4: Emotions & Personality (情感与性格)",
+    "unit_title": "心愿、担忧与难忘的事 (Wishes, Worries & Unforgettable Moments)",
+    "text_type": "passage",
+    "title": "一件难忘的事 (An Unforgettable Incident)",
+    "scenario": "A witness recalls the night of the accident: how cruel and miserable it looked, how shocking the scene was, and how ferocious the driver became.",
+    "new_words": [
+      "难忘",
+      "惨",
+      "悲惨",
+      "残酷",
+      "惊人",
+      "凶"
+    ]
+  },
+  {
+    "passage_id": "H6_12_1",
+    "unit": 12,
+    "module": "Module 5: Family, Relationships & Social Life (家庭与人际交往)",
+    "unit_title": "家人与亲属 (Family & Relatives)",
+    "text_type": "dialogue",
+    "title": "一家人吃年夜饭 (New Year's Eve Dinner at Home)",
+    "scenario": "Three generations sit at one table: grandfather and grandmother, an aunt visiting from the south, and a father and daughter who have not met for a year.",
+    "new_words": [
+      "祖父",
+      "祖母",
+      "姑姑",
+      "亲属",
+      "父子",
+      "母女"
+    ]
+  },
+  {
+    "passage_id": "H6_12_2",
+    "unit": 12,
+    "module": "Module 5: Family, Relationships & Social Life (家庭与人际交往)",
+    "unit_title": "家人与亲属 (Family & Relatives)",
+    "text_type": "passage",
+    "title": "收养的孩子 (The Adopted Child)",
+    "scenario": "A couple adopt an orphan girl; the article follows the mother and child, the father and daughter, and how the child slowly feels like a compatriot of the family rather than a guest.",
+    "new_words": [
+      "孤儿",
+      "收养",
+      "母",
+      "母子",
+      "父女",
+      "同胞"
+    ]
+  },
+  {
+    "passage_id": "H6_12_3",
+    "unit": 12,
+    "module": "Module 5: Family, Relationships & Social Life (家庭与人际交往)",
+    "unit_title": "家人与亲属 (Family & Relatives)",
+    "text_type": "dialogue",
+    "title": "亲戚之间的往来 (Keeping Up with Relatives)",
+    "scenario": "Two cousins discuss who visits whom at festival time, how close the two families are, and how much they still depend on each other.",
+    "new_words": [
+      "往来",
+      "要好",
+      "增进",
+      "依赖",
+      "挨着",
+      "关联"
+    ]
+  },
+  {
+    "passage_id": "H6_13_1",
+    "unit": 13,
+    "module": "Module 5: Family, Relationships & Social Life (家庭与人际交往)",
+    "unit_title": "朋友、同事与邻里 (Friends, Colleagues & Neighbours)",
+    "text_type": "dialogue",
+    "title": "新来的搭档 (The New Partner)",
+    "scenario": "Two people are paired on a project: they agree to join hands, help each other out, and the newcomer slowly feels accepted by the team.",
+    "new_words": [
+      "搭档",
+      "同行",
+      "联手",
+      "协助",
+      "互动",
+      "认同",
+      "融入"
+    ]
+  },
+  {
+    "passage_id": "H6_13_2",
+    "unit": 13,
+    "module": "Module 5: Family, Relationships & Social Life (家庭与人际交往)",
+    "unit_title": "朋友、同事与邻里 (Friends, Colleagues & Neighbours)",
+    "text_type": "passage",
+    "title": "怎样融入新集体 (How to Fit into a New Group)",
+    "scenario": "Advice for a new employee: keep in contact with people, ask about matters that concern you, and remember that what you say about others will travel.",
+    "new_words": [
+      "融合",
+      "来往",
+      "有关",
+      "涉及",
+      "至于",
+      "与",
+      "因"
+    ]
+  },
+  {
+    "passage_id": "H6_13_3",
+    "unit": 13,
+    "module": "Module 5: Family, Relationships & Social Life (家庭与人际交往)",
+    "unit_title": "朋友、同事与邻里 (Friends, Colleagues & Neighbours)",
+    "text_type": "dialogue",
+    "title": "邻居之间 (Between Neighbours)",
+    "scenario": "An old resident introduces the newcomer to the building: the neighbour who once helped him when he was ill, the people from his hometown, and the visitors who come every spring.",
+    "new_words": [
+      "对外",
+      "恩人",
+      "老乡",
+      "新人",
+      "游人",
+      "妇女"
+    ]
+  },
+  {
+    "passage_id": "H6_14_1",
+    "unit": 14,
+    "module": "Module 6: Education & Study (教育与学习)",
+    "unit_title": "考试与升学 (Exams & Advancing Through School)",
+    "text_type": "dialogue",
+    "title": "高考前的复习 (Revising Before the College Entrance Exam)",
+    "scenario": "Two classmates plan their last month: which subjects are compulsory, which classes to make up, and whether to study on their own or pay for extra lessons.",
+    "new_words": [
+      "高考",
+      "升学",
+      "报考",
+      "必修",
+      "补课",
+      "补习",
+      "自学"
+    ]
+  },
+  {
+    "passage_id": "H6_14_2",
+    "unit": 14,
+    "module": "Module 6: Education & Study (教育与学习)",
+    "unit_title": "考试与升学 (Exams & Advancing Through School)",
+    "text_type": "dialogue",
+    "title": "考场上的意外 (A Mishap in the Exam Room)",
+    "scenario": "A student arrives late, misreads one question, sits the written paper but fears the oral test, and asks the teacher whether a resit is possible.",
+    "new_words": [
+      "考场",
+      "笔试",
+      "口试",
+      "考题",
+      "补考",
+      "纠正"
+    ]
+  },
+  {
+    "passage_id": "H6_14_3",
+    "unit": 14,
+    "module": "Module 6: Education & Study (教育与学习)",
+    "unit_title": "考试与升学 (Exams & Advancing Through School)",
+    "text_type": "passage",
+    "title": "从小学到大学 (From Primary School to University)",
+    "scenario": "A teacher explains the path: elementary and higher education, enrolment, how private schools are run, and a ministry rule on literacy.",
+    "new_words": [
+      "初等",
+      "高等",
+      "入学",
+      "办学",
+      "教育部",
+      "识字"
+    ]
+  },
+  {
+    "passage_id": "H6_15_1",
+    "unit": 15,
+    "module": "Module 6: Education & Study (教育与学习)",
+    "unit_title": "课堂、师徒与资料 (Classrooms, Mentors & Research)",
+    "text_type": "dialogue",
+    "title": "一堂公开课 (An Open Class)",
+    "scenario": "A young teacher lectures to a room of trainees, explains each step, answers their questions, and is told there are only two places left in the course.",
+    "new_words": [
+      "讲课",
+      "学员",
+      "解说",
+      "回应",
+      "学会",
+      "名额"
+    ]
+  },
+  {
+    "passage_id": "H6_15_2",
+    "unit": 15,
+    "module": "Module 6: Education & Study (教育与学习)",
+    "unit_title": "课堂、师徒与资料 (Classrooms, Mentors & Research)",
+    "text_type": "passage",
+    "title": "师徒之间 (Between Master and Apprentice)",
+    "scenario": "An old craftsman takes on an apprentice; the two discuss the trade, borrow methods from older workshops, and explore what practice alone cannot teach.",
+    "new_words": [
+      "徒弟",
+      "师父",
+      "借鉴",
+      "实践",
+      "探讨",
+      "探索"
+    ]
+  },
+  {
+    "passage_id": "H6_15_3",
+    "unit": 15,
+    "module": "Module 6: Education & Study (教育与学习)",
+    "unit_title": "课堂、师徒与资料 (Classrooms, Mentors & Research)",
+    "text_type": "dialogue",
+    "title": "去图书馆查资料 (Looking Things Up in the Library)",
+    "scenario": "A student asks a librarian for books on the subject, gets a short introduction to the shelves, a chapter reference, and access to the old files in the archive.",
+    "new_words": [
+      "图书",
+      "简介",
+      "章",
+      "档",
+      "档案",
+      "收藏"
+    ]
+  },
+  {
+    "passage_id": "H6_16_1",
+    "unit": 16,
+    "module": "Module 7: Work, Career & Workplace (职场与职业)",
+    "unit_title": "求职与入职 (Job Hunting & Starting Work)",
+    "text_type": "dialogue",
+    "title": "求职面试 (The Job Interview)",
+    "scenario": "A candidate applies for a post, meets the recruiter, is asked what the duties are, and discovers the company wants someone with real expertise.",
+    "new_words": [
+      "求职",
+      "招聘",
+      "聘请",
+      "岗位",
+      "职责",
+      "高手"
+    ]
+  },
+  {
+    "passage_id": "H6_16_2",
+    "unit": 16,
+    "module": "Module 7: Work, Career & Workplace (职场与职业)",
+    "unit_title": "求职与入职 (Job Hunting & Starting Work)",
+    "text_type": "dialogue",
+    "title": "第一天上班 (The First Day at Work)",
+    "scenario": "A new white-collar worker arrives at the office building, meets the blue-collar staff who keep it running, and learns how the work is divided.",
+    "new_words": [
+      "白领",
+      "蓝领",
+      "写字楼",
+      "办公",
+      "分工",
+      "清洁工"
+    ]
+  },
+  {
+    "passage_id": "H6_16_3",
+    "unit": 16,
+    "module": "Module 7: Work, Career & Workplace (职场与职业)",
+    "unit_title": "求职与入职 (Job Hunting & Starting Work)",
+    "text_type": "dialogue",
+    "title": "加班到深夜 (Working Late into the Night)",
+    "scenario": "A director checks the stock figures, supervises the night shift, keeps an eye on the warehouse, and tells everyone to stop working overtime.",
+    "new_words": [
+      "开夜车",
+      "监督",
+      "看管",
+      "整治",
+      "总监",
+      "协调"
+    ]
+  },
+  {
+    "passage_id": "H6_17_1",
+    "unit": 17,
+    "module": "Module 7: Work, Career & Workplace (职场与职业)",
+    "unit_title": "职位、权力与职责 (Positions, Authority & Duty)",
+    "text_type": "dialogue",
+    "title": "谁能升上去 (Who Will Be Promoted)",
+    "scenario": "Senior staff discuss the next appointment: the department head, the general manager, and who is ready to make decisions at the top.",
+    "new_words": [
+      "高层",
+      "首席",
+      "总经理",
+      "处长",
+      "决策",
+      "会长"
+    ]
+  },
+  {
+    "passage_id": "H6_17_2",
+    "unit": 17,
+    "module": "Module 7: Work, Career & Workplace (职场与职业)",
+    "unit_title": "职位、权力与职责 (Positions, Authority & Duty)",
+    "text_type": "passage",
+    "title": "领导的职责 (What Leaders Are For)",
+    "scenario": "An essay on leadership: the head of state, the prime minister, the ambassador, and why a leader must be a pioneer rather than a follower of policy.",
+    "new_words": [
+      "领袖",
+      "首脑",
+      "首相",
+      "大使",
+      "先锋",
+      "政策"
+    ]
+  },
+  {
+    "passage_id": "H6_17_3",
+    "unit": 17,
+    "module": "Module 7: Work, Career & Workplace (职场与职业)",
+    "unit_title": "职位、权力与职责 (Positions, Authority & Duty)",
+    "text_type": "dialogue",
+    "title": "公司年会上 (At the Company Annual Party)",
+    "scenario": "At the annual dinner the host introduces colleagues' other lives: one sings like a star, one plays football, one used to be an astronaut, and the canteen chef gets the loudest applause.",
+    "new_words": [
+      "主持人",
+      "歌星",
+      "球员",
+      "宇航员",
+      "厨师",
+      "设计师"
+    ]
+  },
+  {
+    "passage_id": "H6_18_1",
+    "unit": 18,
+    "module": "Module 8: Business, Trade & Industry (商务与产业)",
+    "unit_title": "开店、创业与上市 (Opening a Business, Founding & Listing)",
+    "text_type": "dialogue",
+    "title": "开一家加盟店 (Opening a Franchise Store)",
+    "scenario": "Two friends compare opening a shop in a shopping mall against joining an established chain, and argue about the channel and how to set prices.",
+    "new_words": [
+      "开设",
+      "加盟",
+      "商城",
+      "渠道",
+      "定价",
+      "精品"
+    ]
+  },
+  {
+    "passage_id": "H6_18_2",
+    "unit": 18,
+    "module": "Module 8: Business, Trade & Industry (商务与产业)",
+    "unit_title": "开店、创业与上市 (Opening a Business, Founding & Listing)",
+    "text_type": "dialogue",
+    "title": "公司准备上市 (Preparing to Go Public)",
+    "scenario": "A finance director explains a listing to the founder: the share price, the market index, how wildly it fluctuates, and whether the economy is recovering.",
+    "new_words": [
+      "上市",
+      "股",
+      "指数",
+      "波动",
+      "复苏",
+      "金融"
+    ]
+  },
+  {
+    "passage_id": "H6_18_3",
+    "unit": 18,
+    "module": "Module 8: Business, Trade & Industry (商务与产业)",
+    "unit_title": "开店、创业与上市 (Opening a Business, Founding & Listing)",
+    "text_type": "passage",
+    "title": "老厂的技术改造 (Retooling an Old Factory)",
+    "scenario": "A factory replaces imported machines with domestic ones, adopts high technology, and raises output while keeping quality high.",
+    "new_words": [
+      "革新",
+      "升级",
+      "国产",
+      "高科技",
+      "产量",
+      "优质"
+    ]
+  },
+  {
+    "passage_id": "H6_19_1",
+    "unit": 19,
+    "module": "Module 8: Business, Trade & Industry (商务与产业)",
+    "unit_title": "品牌、团队与企业总部 (Brands, Teams & Headquarters)",
+    "text_type": "dialogue",
+    "title": "组建一个新团队 (Building a New Team)",
+    "scenario": "A manager sets up a small office: who joins the team, how the body is staffed, and how the branch will actually operate.",
+    "new_words": [
+      "团队",
+      "构建",
+      "运作",
+      "编制",
+      "机关",
+      "办事处"
+    ]
+  },
+  {
+    "passage_id": "H6_19_2",
+    "unit": 19,
+    "module": "Module 8: Business, Trade & Industry (商务与产业)",
+    "unit_title": "品牌、团队与企业总部 (Brands, Teams & Headquarters)",
+    "text_type": "dialogue",
+    "title": "品牌与市场 (Brand and Market)",
+    "scenario": "A brand manager studies a rising competitor, the manufacturer behind it, house prices in the district, and the tax the shop must pay.",
+    "new_words": [
+      "品牌",
+      "厂商",
+      "新兴",
+      "兴旺",
+      "房价",
+      "税"
+    ]
+  },
+  {
+    "passage_id": "H6_19_3",
+    "unit": 19,
+    "module": "Module 8: Business, Trade & Industry (商务与产业)",
+    "unit_title": "品牌、团队与企业总部 (Brands, Teams & Headquarters)",
+    "text_type": "passage",
+    "title": "总部派来的一行人 (The Delegation from Headquarters)",
+    "scenario": "A group arrives from headquarters overseas, receives the branch's draft report, and inspects how the alliance of local partners is working.",
+    "new_words": [
+      "总部",
+      "一行",
+      "海外",
+      "接收",
+      "稿子",
+      "联盟"
+    ]
+  },
+  {
+    "passage_id": "H6_20_1",
+    "unit": 20,
+    "module": "Module 8: Business, Trade & Industry (商务与产业)",
+    "unit_title": "经营与决策 (Running the Business)",
+    "text_type": "passage",
+    "title": "一家老厂的转型 (An Old Factory Reinvents Itself)",
+    "scenario": "A factory's managers restructure the business: they position the brand, set a new strategy, launch a pilot scheme and tidy up the workshop floor.",
+    "new_words": [
+      "成品",
+      "配置",
+      "定位",
+      "策略",
+      "整顿",
+      "出台",
+      "试点"
+    ]
+  },
+  {
+    "passage_id": "H6_20_2",
+    "unit": 20,
+    "module": "Module 8: Business, Trade & Industry (商务与产业)",
+    "unit_title": "经营与决策 (Running the Business)",
+    "text_type": "passage",
+    "title": "行业协会开会 (The Trade Association Meets)",
+    "scenario": "An industry association meets: the sector's team, the chamber of commerce, a founding member, and the share of the market they already hold.",
+    "new_words": [
+      "协会",
+      "队伍",
+      "工商",
+      "发起",
+      "占据",
+      "供给",
+      "副"
+    ]
+  },
+  {
+    "passage_id": "H6_20_3",
+    "unit": 20,
+    "module": "Module 8: Business, Trade & Industry (商务与产业)",
+    "unit_title": "经营与决策 (Running the Business)",
+    "text_type": "passage",
+    "title": "一个品牌是怎么炒热的 (How a Brand Gets Hyped)",
+    "scenario": "A marketing column describes the hype cycle: the plan, the buzz, the pirated copies, and the very mixed public response.",
+    "new_words": [
+      "策划",
+      "炒作",
+      "热点",
+      "盗版",
+      "反响",
+      "盛行",
+      "昌盛"
+    ]
+  },
+  {
+    "passage_id": "H6_21_1",
+    "unit": 21,
+    "module": "Module 9: Money, Finance & Banking (金钱与金融)",
+    "unit_title": "银行、工资与理财 (Banking, Wages & Managing Money)",
+    "text_type": "dialogue",
+    "title": "在银行办业务 (At the Bank)",
+    "scenario": "A customer withdraws cash at the machine, changes foreign currency, and asks about bonds while the clerk explains the debt products on offer.",
+    "new_words": [
+      "取款",
+      "取款机",
+      "外币",
+      "券",
+      "债",
+      "股票"
+    ]
+  },
+  {
+    "passage_id": "H6_21_2",
+    "unit": 21,
+    "module": "Module 9: Money, Finance & Banking (金钱与金融)",
+    "unit_title": "银行、工资与理财 (Banking, Wages & Managing Money)",
+    "text_type": "dialogue",
+    "title": "第一份工资 (The First Paycheck)",
+    "scenario": "A graduate compares his salary with the cost of living, sends money home to poorer relatives, and works out how much he can put aside each month.",
+    "new_words": [
+      "薪水",
+      "生活费",
+      "富人",
+      "贫困",
+      "补助",
+      "省钱"
+    ]
+  },
+  {
+    "passage_id": "H6_21_3",
+    "unit": 21,
+    "module": "Module 9: Money, Finance & Banking (金钱与金融)",
+    "unit_title": "银行、工资与理财 (Banking, Wages & Managing Money)",
+    "text_type": "passage",
+    "title": "钱能带来什么 (What Money Can and Cannot Buy)",
+    "scenario": "A short essay on wealth: foreign investment pouring in, shareholders waiting for value to grow, and the difference between being rich and being content.",
+    "new_words": [
+      "外资",
+      "股东",
+      "利",
+      "增值",
+      "富有",
+      "金钱"
+    ]
+  },
+  {
+    "passage_id": "H6_22_1",
+    "unit": 22,
+    "module": "Module 10: Law, Crime & Justice (法律与治安)",
+    "unit_title": "官司与案件 (Lawsuits & Cases)",
+    "text_type": "dialogue",
+    "title": "打一场官司 (Going to Court)",
+    "scenario": "A tenant sues a landlord: the plaintiff files the case, the defendant answers in court, and the two sides disagree over who broke the agreement.",
+    "new_words": [
+      "官司",
+      "打官司",
+      "起诉",
+      "原告",
+      "被告",
+      "法庭"
+    ]
+  },
+  {
+    "passage_id": "H6_22_2",
+    "unit": 22,
+    "module": "Module 10: Law, Crime & Justice (法律与治安)",
+    "unit_title": "官司与案件 (Lawsuits & Cases)",
+    "text_type": "dialogue",
+    "title": "到派出所报案 (Reporting a Crime at the Station)",
+    "scenario": "A shopkeeper describes the robber to the police, gives a description of the murderer seen on camera, and learns what will be confiscated as evidence.",
+    "new_words": [
+      "民警",
+      "强盗",
+      "凶手",
+      "犯罪",
+      "捉",
+      "没收"
+    ]
+  },
+  {
+    "passage_id": "H6_22_3",
+    "unit": 22,
+    "module": "Module 10: Law, Crime & Justice (法律与治安)",
+    "unit_title": "官司与案件 (Lawsuits & Cases)",
+    "text_type": "passage",
+    "title": "合同上的约定 (What the Contract Stipulates)",
+    "scenario": "A legal column explains what a contract permits, how a dispute can be cancelled, and why an agreement signed in the company's name still has limits.",
+    "new_words": [
+      "约定",
+      "允许",
+      "纠纷",
+      "撤销",
+      "名义",
+      "罪恶"
+    ]
+  },
+  {
+    "passage_id": "H6_23_1",
+    "unit": 23,
+    "module": "Module 10: Law, Crime & Justice (法律与治安)",
+    "unit_title": "犯罪与治安 (Crime & Public Order)",
+    "text_type": "dialogue",
+    "title": "社区禁毒宣传 (A Drug Awareness Campaign)",
+    "scenario": "A community officer warns teenagers about drugs, gambling and smuggling, and explains what happens to those who end up in prison.",
+    "new_words": [
+      "吸毒",
+      "毒品",
+      "赌博",
+      "走私",
+      "犯",
+      "牢"
+    ]
+  },
+  {
+    "passage_id": "H6_23_2",
+    "unit": 23,
+    "module": "Module 10: Law, Crime & Justice (法律与治安)",
+    "unit_title": "犯罪与治安 (Crime & Public Order)",
+    "text_type": "passage",
+    "title": "一次抓捕行动 (A Raid)",
+    "scenario": "Police trace a gang across the border: they hide and watch, find out where the money went, uncover the go-between, and move in at dawn.",
+    "new_words": [
+      "捕",
+      "藏",
+      "揭",
+      "查出",
+      "出动",
+      "蒙"
+    ]
+  },
+  {
+    "passage_id": "H6_23_3",
+    "unit": 23,
+    "module": "Module 10: Law, Crime & Justice (法律与治安)",
+    "unit_title": "犯罪与治安 (Crime & Public Order)",
+    "text_type": "passage",
+    "title": "为什么要有法律 (Why Law Exists)",
+    "scenario": "An essay arguing that law is not there to punish but to protect: fair judgement, the right to be heard, justice against violence.",
+    "new_words": [
+      "判",
+      "正当",
+      "权",
+      "暴力",
+      "罪",
+      "人权"
+    ]
+  },
+  {
+    "passage_id": "H6_24_1",
+    "unit": 24,
+    "module": "Module 11: Politics, Government & Diplomacy (政治与外交)",
+    "unit_title": "选举、政党与外交 (Elections, Parties & Diplomacy)",
+    "text_type": "dialogue",
+    "title": "大选之夜 (Election Night)",
+    "scenario": "Supporters watch the results: the vote, the democratic process, public opinion, and which party will take power and go on stage.",
+    "new_words": [
+      "选举",
+      "投票",
+      "民主",
+      "民意",
+      "政权",
+      "上台"
+    ]
+  },
+  {
+    "passage_id": "H6_24_2",
+    "unit": 24,
+    "module": "Module 11: Politics, Government & Diplomacy (政治与外交)",
+    "unit_title": "选举、政党与外交 (Elections, Parties & Diplomacy)",
+    "text_type": "passage",
+    "title": "政党的角色 (The Role of a Party)",
+    "scenario": "A civics text explains how a party is organised, how power is shared with congress, and what counts as the mainstream position.",
+    "new_words": [
+      "党",
+      "政党",
+      "权力",
+      "国会",
+      "公",
+      "主流"
+    ]
+  },
+  {
+    "passage_id": "H6_24_3",
+    "unit": 24,
+    "module": "Module 11: Politics, Government & Diplomacy (政治与外交)",
+    "unit_title": "选举、政党与外交 (Elections, Parties & Diplomacy)",
+    "text_type": "dialogue",
+    "title": "峰会与出访 (A Summit and an Official Visit)",
+    "scenario": "A reporter follows the delegation abroad: the summit, the official visit, the meeting with the host, and the topics on the agenda.",
+    "new_words": [
+      "峰会",
+      "出访",
+      "会见",
+      "发言人",
+      "议题",
+      "通报"
+    ]
+  },
+  {
+    "passage_id": "H6_25_1",
+    "unit": 25,
+    "module": "Module 12: Military & Defense (军事与国防)",
+    "unit_title": "军队、战场与装备 (The Armed Forces, the Battlefield & Equipment)",
+    "text_type": "passage",
+    "title": "三军与国防 (The Three Services and National Defence)",
+    "scenario": "An introduction to the armed forces: the army, navy and air force, how troops are stationed, and why military affairs concern every citizen.",
+    "new_words": [
+      "军队",
+      "空军",
+      "海军",
+      "陆军",
+      "部队",
+      "军事"
+    ]
+  },
+  {
+    "passage_id": "H6_25_2",
+    "unit": 25,
+    "module": "Module 12: Military & Defense (军事与国防)",
+    "unit_title": "军队、战场与装备 (The Armed Forces, the Battlefield & Equipment)",
+    "text_type": "dialogue",
+    "title": "老兵回忆战场 (A Veteran Remembers the Battlefield)",
+    "scenario": "An old soldier tells a student about his commander, his comrades-in-arms, the strategy and tactics of one long night, and how the fighting ended.",
+    "new_words": [
+      "战场",
+      "战友",
+      "将军",
+      "作战",
+      "战略",
+      "战术"
+    ]
+  },
+  {
+    "passage_id": "H6_25_3",
+    "unit": 25,
+    "module": "Module 12: Military & Defense (军事与国防)",
+    "unit_title": "军队、战场与装备 (The Armed Forces, the Battlefield & Equipment)",
+    "text_type": "passage",
+    "title": "现代战争与装备 (Modern Warfare and Equipment)",
+    "scenario": "A defence column describes a warship, a rocket, a bomb and the equipment behind them, and how an attack is launched and later withdrawn.",
+    "new_words": [
+      "军舰",
+      "火箭",
+      "炸弹",
+      "装备",
+      "驻",
+      "攻击"
+    ]
+  },
+  {
+    "passage_id": "H6_26_1",
+    "unit": 26,
+    "module": "Module 13: Science, Technology & Innovation (科技与创新)",
+    "unit_title": "数字生活、能源与实验室 (Digital Life, Energy & the Lab)",
+    "text_type": "dialogue",
+    "title": "网页打不开 (The Web Page Won't Load)",
+    "scenario": "A student in an internet café cannot open a page on the old screen, and a friend helps him log into the account again on another platform.",
+    "new_words": [
+      "网页",
+      "屏幕",
+      "平台",
+      "账户",
+      "网吧",
+      "多媒体"
+    ]
+  },
+  {
+    "passage_id": "H6_26_2",
+    "unit": 26,
+    "module": "Module 13: Science, Technology & Innovation (科技与创新)",
+    "unit_title": "数字生活、能源与实验室 (Digital Life, Energy & the Lab)",
+    "text_type": "passage",
+    "title": "电从哪里来 (Where Electricity Comes From)",
+    "scenario": "An explainer on power: how electricity is generated, why solar panels and efficiency matter, and how an old petrol car can be converted to electric drive.",
+    "new_words": [
+      "电力",
+      "发电",
+      "太阳能",
+      "节能",
+      "电动",
+      "改装"
+    ]
+  },
+  {
+    "passage_id": "H6_26_3",
+    "unit": 26,
+    "module": "Module 13: Science, Technology & Innovation (科技与创新)",
+    "unit_title": "数字生活、能源与实验室 (Digital Life, Energy & the Lab)",
+    "text_type": "passage",
+    "title": "实验室里的一天 (A Day in the Laboratory)",
+    "scenario": "A researcher sets up instruments before dawn, measures samples, monitors the readings hour by hour, and authenticates the result in a high-tech lab.",
+    "new_words": [
+      "科研",
+      "仪器",
+      "元素",
+      "监测",
+      "测定",
+      "鉴定"
+    ]
+  },
+  {
+    "passage_id": "H6_27_1",
+    "unit": 27,
+    "module": "Module 14: Nature, Environment & Geography (自然与环境)",
+    "unit_title": "山川、海岸与城乡 (Mountains, Coasts, Town and Country)",
+    "text_type": "passage",
+    "title": "山里的村庄 (A Village in the Mountains)",
+    "scenario": "A teacher describes the village where she grew up: the peak behind it, the valley, the hillside of fruit trees, and the slope the children walk down to school.",
+    "new_words": [
+      "山峰",
+      "山谷",
+      "山坡",
+      "坡",
+      "村庄",
+      "果树"
+    ]
+  },
+  {
+    "passage_id": "H6_27_2",
+    "unit": 27,
+    "module": "Module 14: Nature, Environment & Geography (自然与环境)",
+    "unit_title": "山川、海岸与城乡 (Mountains, Coasts, Town and Country)",
+    "text_type": "passage",
+    "title": "沿海与内地 (The Coast and the Interior)",
+    "scenario": "A geography column contrasts the coastal cities with the inland provinces: the bay, the busy port, the island ferry, and the small towns in between.",
+    "new_words": [
+      "沿海",
+      "内地",
+      "海湾",
+      "港口",
+      "岛",
+      "城镇"
+    ]
+  },
+  {
+    "passage_id": "H6_27_3",
+    "unit": 27,
+    "module": "Module 14: Nature, Environment & Geography (自然与环境)",
+    "unit_title": "山川、海岸与城乡 (Mountains, Coasts, Town and Country)",
+    "text_type": "passage",
+    "title": "城乡之间 (Between Town and Country)",
+    "scenario": "A young couple argues about where to live: the metropolitan district with its jobs, the small town with its quiet streets, and how place names tell you where you are.",
+    "new_words": [
+      "城乡",
+      "城区",
+      "都市",
+      "镇",
+      "地名",
+      "处处"
+    ]
+  },
+  {
+    "passage_id": "H6_28_1",
+    "unit": 28,
+    "module": "Module 14: Nature, Environment & Geography (自然与环境)",
+    "unit_title": "海洋、天气与田园 (The Sea, the Weather & the Farm)",
+    "text_type": "passage",
+    "title": "出海 (Out to Sea)",
+    "scenario": "A fisherman describes leaving the harbour before light: the open sea, the waves against the hull, the other vessels, and the crew who work the nets.",
+    "new_words": [
+      "海洋",
+      "海浪",
+      "波浪",
+      "海底",
+      "船只",
+      "船员"
+    ]
+  },
+  {
+    "passage_id": "H6_28_2",
+    "unit": 28,
+    "module": "Module 14: Nature, Environment & Geography (自然与环境)",
+    "unit_title": "海洋、天气与田园 (The Sea, the Weather & the Farm)",
+    "text_type": "dialogue",
+    "title": "暴风雨来了 (The Storm Arrives)",
+    "scenario": "Neighbours hurry to bring in the washing as black clouds gather, the wind starts to blow, the blue sky disappears and a rainstorm breaks over the roofs.",
+    "new_words": [
+      "暴风雨",
+      "暴雨",
+      "风暴",
+      "乌云",
+      "蓝天",
+      "刮"
+    ]
+  },
+  {
+    "passage_id": "H6_28_3",
+    "unit": 28,
+    "module": "Module 14: Nature, Environment & Geography (自然与环境)",
+    "unit_title": "海洋、天气与田园 (The Sea, the Weather & the Farm)",
+    "text_type": "passage",
+    "title": "农场与果园 (The Farm and the Orchard)",
+    "scenario": "A city child spends a summer on a farm: dairy cows, hens and a rooster, a pet dog, the wild animals at the edge of the field, and how the animals breed.",
+    "new_words": [
+      "奶牛",
+      "母鸡",
+      "公鸡",
+      "宠物",
+      "野生",
+      "繁殖"
+    ]
+  },
+  {
+    "passage_id": "H6_29_1",
+    "unit": 29,
+    "module": "Module 15: Travel, Transport & Places (交通与出行)",
+    "unit_title": "买票、乘车与出行 (Tickets, Trains & Getting Around)",
+    "text_type": "dialogue",
+    "title": "在售票窗口 (At the Ticket Window)",
+    "scenario": "A passenger asks about the express and the slow train, compares the passenger coach with the fast one, and returns a ticket because the departure platform changed.",
+    "new_words": [
+      "退票",
+      "站台",
+      "客车",
+      "快车",
+      "慢车",
+      "特快"
+    ]
+  },
+  {
+    "passage_id": "H6_29_2",
+    "unit": 29,
+    "module": "Module 15: Travel, Transport & Places (交通与出行)",
+    "unit_title": "买票、乘车与出行 (Tickets, Trains & Getting Around)",
+    "text_type": "dialogue",
+    "title": "过安检 (Going Through Security)",
+    "scenario": "At the station entrance a traveller puts his bag through the check, asks which line is open to motor vehicles, and whether the new trolleybus route has started running.",
+    "new_words": [
+      "安检",
+      "通行",
+      "线路",
+      "开通",
+      "机动车",
+      "电车"
+    ]
+  },
+  {
+    "passage_id": "H6_29_3",
+    "unit": 29,
+    "module": "Module 15: Travel, Transport & Places (交通与出行)",
+    "unit_title": "买票、乘车与出行 (Tickets, Trains & Getting Around)",
+    "text_type": "dialogue",
+    "title": "出行前的准备 (Preparing for a Trip)",
+    "scenario": "Two travellers plan a journey by carriage to a nearby town: the schedule, the arrival time, what they will pass on the way, and what to pack for along the road.",
+    "new_words": [
+      "出行",
+      "行程",
+      "抵达",
+      "路过",
+      "一路上",
+      "马车"
+    ]
+  },
+  {
+    "passage_id": "H6_30_1",
+    "unit": 30,
+    "module": "Module 15: Travel, Transport & Places (交通与出行)",
+    "unit_title": "问路、方位与观光 (Directions, Position & Sightseeing)",
+    "text_type": "dialogue",
+    "title": "第一次来这里 (First Time Here)",
+    "scenario": "A visitor asks a local where he is: this place on the edge of town, the outside of the old quarter, and the building facing him up ahead.",
+    "new_words": [
+      "此处",
+      "外头",
+      "外部",
+      "边缘",
+      "前方",
+      "面向",
+      "顺"
+    ]
+  },
+  {
+    "passage_id": "H6_30_2",
+    "unit": 30,
+    "module": "Module 15: Travel, Transport & Places (交通与出行)",
+    "unit_title": "问路、方位与观光 (Directions, Position & Sightseeing)",
+    "text_type": "dialogue",
+    "title": "在地图上看方向 (Reading Directions on a Map)",
+    "scenario": "A guide shows a group how to read the map: the road running across, the side streets, which way leans north, and the open ground on all four sides.",
+    "new_words": [
+      "横",
+      "侧",
+      "偏",
+      "四外",
+      "场地",
+      "前来"
+    ]
+  },
+  {
+    "passage_id": "H6_30_3",
+    "unit": 30,
+    "module": "Module 15: Travel, Transport & Places (交通与出行)",
+    "unit_title": "问路、方位与观光 (Directions, Position & Sightseeing)",
+    "text_type": "dialogue",
+    "title": "计划一次旅行 (Planning a Trip)",
+    "scenario": "A family plans the long holiday: which scenic spots and famous sites to visit, how much walking they can manage, and when to set off.",
+    "new_words": [
+      "景点",
+      "观光",
+      "游玩",
+      "名胜",
+      "长假",
+      "假日"
+    ]
+  },
+  {
+    "passage_id": "H6_31_1",
+    "unit": 31,
+    "module": "Module 16: Media, Art & Entertainment (媒体与文艺)",
+    "unit_title": "媒体、演出与娱乐 (Media, Performance & Entertainment)",
+    "text_type": "dialogue",
+    "title": "早间新闻栏目 (The Morning News Programme)",
+    "scenario": "A producer and a host discuss the day's programme: the newspaper column they follow, a short film from the media company, a recording, and an animated segment.",
+    "new_words": [
+      "栏目",
+      "报刊",
+      "传媒",
+      "短片",
+      "录像",
+      "动画",
+      "集"
+    ]
+  },
+  {
+    "passage_id": "H6_31_2",
+    "unit": 31,
+    "module": "Module 16: Media, Art & Entertainment (媒体与文艺)",
+    "unit_title": "媒体、演出与娱乐 (Media, Performance & Entertainment)",
+    "text_type": "passage",
+    "title": "海报贴出来以后 (After the Poster Goes Up)",
+    "scenario": "A cultural centre advertises its season: the poster on the wall, the audio-visual room, the games consoles for teenagers, the card tables, and the fireworks on the last night.",
+    "new_words": [
+      "海报",
+      "音像",
+      "娱乐",
+      "游戏机",
+      "打牌",
+      "烟花"
+    ]
+  },
+  {
+    "passage_id": "H6_31_3",
+    "unit": 31,
+    "module": "Module 16: Media, Art & Entertainment (媒体与文艺)",
+    "unit_title": "媒体、演出与娱乐 (Media, Performance & Entertainment)",
+    "text_type": "passage",
+    "title": "一场戏的上演 (A Play Opens)",
+    "scenario": "A film fan queues for the first night: the play is staged, the lead actor walks on, and the cast come out for a second bow.",
+    "new_words": [
+      "影迷",
+      "上演",
+      "剧",
+      "出场",
+      "主角",
+      "艺人"
+    ]
+  },
+  {
+    "passage_id": "H6_32_1",
+    "unit": 32,
+    "module": "Module 17: Sports & Competition (体育与竞赛)",
+    "unit_title": "比赛、训练与奖牌 (Competition, Training & Medals)",
+    "text_type": "dialogue",
+    "title": "报名参加比赛 (Signing Up for a Tournament)",
+    "scenario": "A club coach registers his players for the contest, explains the selection trial, and warns them about the teams they will have to fight for a place against.",
+    "new_words": [
+      "参赛",
+      "大赛",
+      "赛场",
+      "选拔",
+      "争夺",
+      "赛",
+      "球星"
+    ]
+  },
+  {
+    "passage_id": "H6_32_2",
+    "unit": 32,
+    "module": "Module 17: Sports & Competition (体育与竞赛)",
+    "unit_title": "比赛、训练与奖牌 (Competition, Training & Medals)",
+    "text_type": "dialogue",
+    "title": "半决赛那天 (Semi-Final Day)",
+    "scenario": "Two players prepare for the league semi-final: one enters the singles, the other the doubles, and a late bus means they nearly miss the warm-up and the bronze medal match.",
+    "new_words": [
+      "半决赛",
+      "联赛",
+      "双打",
+      "单打",
+      "赶不上",
+      "铜牌"
+    ]
+  },
+  {
+    "passage_id": "H6_32_3",
+    "unit": 32,
+    "module": "Module 17: Sports & Competition (体育与竞赛)",
+    "unit_title": "比赛、训练与奖牌 (Competition, Training & Medals)",
+    "text_type": "passage",
+    "title": "田径场上的坚持 (Endurance on the Track)",
+    "scenario": "A school sports day: the long-distance race on the track, the diving competition at the pool, the rubber ball and the racket, and a boy who kicks the ball too hard.",
+    "new_words": [
+      "田径",
+      "长跑",
+      "跳水",
+      "球拍",
+      "皮球",
+      "踢"
+    ]
+  },
+  {
+    "passage_id": "H6_33_1",
+    "unit": 33,
+    "module": "Module 18: Culture, History & Religion (文化与历史)",
+    "unit_title": "传统艺术与节日 (Traditional Arts & Festivals)",
+    "text_type": "dialogue",
+    "title": "学一种乐器 (Learning an Instrument)",
+    "scenario": "A grandfather teaches his grandson a tune on the erhu: the rhythm, the lyrics of the old song, and how to sing it in the right voice.",
+    "new_words": [
+      "演奏",
+      "奏",
+      "乐曲",
+      "节奏",
+      "歌词",
+      "歌唱"
+    ]
+  },
+  {
+    "passage_id": "H6_33_2",
+    "unit": 33,
+    "module": "Module 18: Culture, History & Religion (文化与历史)",
+    "unit_title": "传统艺术与节日 (Traditional Arts & Festivals)",
+    "text_type": "passage",
+    "title": "民歌里的中国 (China in Its Folk Songs)",
+    "scenario": "A music teacher explains why a folk song and the national anthem move people differently, and how dance, painting and opera share the same stage.",
+    "new_words": [
+      "民歌",
+      "国歌",
+      "舞蹈",
+      "绘画",
+      "文娱",
+      "戏曲"
+    ]
+  },
+  {
+    "passage_id": "H6_33_3",
+    "unit": 33,
+    "module": "Module 18: Culture, History & Religion (文化与历史)",
+    "unit_title": "传统艺术与节日 (Traditional Arts & Festivals)",
+    "text_type": "dialogue",
+    "title": "节日里的城市 (The City in Festival Season)",
+    "scenario": "Two colleagues compare holidays: the tomb-sweeping day, the dragon boat festival, Christmas in the shopping district, and what is genuinely local.",
+    "new_words": [
+      "清明节",
+      "端午节",
+      "圣诞节",
+      "节假日",
+      "本土",
+      "中华"
+    ]
+  },
+  {
+    "passage_id": "H6_34_1",
+    "unit": 34,
+    "module": "Module 18: Culture, History & Religion (文化与历史)",
+    "unit_title": "宗教、信仰与王朝 (Religion, Belief & Dynasties)",
+    "text_type": "passage",
+    "title": "寺庙与教堂 (Temples and Churches)",
+    "scenario": "A traveller visits three buildings in one city: a Buddhist temple with its statue of the Buddha, a Daoist shrine, and a church — and reflects on religion in daily life.",
+    "new_words": [
+      "寺",
+      "教堂",
+      "佛",
+      "佛教",
+      "道教",
+      "宗教"
+    ]
+  },
+  {
+    "passage_id": "H6_34_2",
+    "unit": 34,
+    "module": "Module 18: Culture, History & Religion (文化与历史)",
+    "unit_title": "宗教、信仰与王朝 (Religion, Belief & Dynasties)",
+    "text_type": "passage",
+    "title": "上帝与天堂 (God and Heaven)",
+    "scenario": "A philosophy student writes about Christianity: the idea of God, the promise of heaven, the nature of belief, and why wisdom is not the same as faith.",
+    "new_words": [
+      "基督教",
+      "上帝",
+      "天堂",
+      "信仰",
+      "哲学",
+      "智慧"
+    ]
+  },
+  {
+    "passage_id": "H6_34_3",
+    "unit": 34,
+    "module": "Module 18: Culture, History & Religion (文化与历史)",
+    "unit_title": "宗教、信仰与王朝 (Religion, Belief & Dynasties)",
+    "text_type": "passage",
+    "title": "从皇帝到国王 (From Emperor to King)",
+    "scenario": "A history column walks through a palace: the emperor's throne room, a king and his queen, the prince and princess, and the court rituals of earlier years.",
+    "new_words": [
+      "皇帝",
+      "国王",
+      "王后",
+      "王子",
+      "公主",
+      "宫"
+    ]
+  },
+  {
+    "passage_id": "H6_35_1",
+    "unit": 35,
+    "module": "Module 20: Social Issues & Public Life (社会与公共事务)",
+    "unit_title": "公益、救援与互助 (Charity, Rescue & Mutual Help)",
+    "text_type": "dialogue",
+    "title": "一次捐款活动 (A Fundraising Drive)",
+    "scenario": "Colleagues organise help for a flooded county: they donate money and goods, ask a company for support, and explain where the aid will go.",
+    "new_words": [
+      "捐",
+      "捐款",
+      "捐助",
+      "捐赠",
+      "援助",
+      "支援"
+    ]
+  },
+  {
+    "passage_id": "H6_35_2",
+    "unit": 35,
+    "module": "Module 20: Social Issues & Public Life (社会与公共事务)",
+    "unit_title": "公益、救援与互助 (Charity, Rescue & Mutual Help)",
+    "text_type": "dialogue",
+    "title": "地震后的救援 (Rescue After the Earthquake)",
+    "scenario": "Rescue teams search the rubble, a neighbour shouts for help, the injured are carried out, and the report counts the dead and wounded.",
+    "new_words": [
+      "救助",
+      "救援",
+      "救命",
+      "应急",
+      "伤亡",
+      "牺牲"
+    ]
+  },
+  {
+    "passage_id": "H6_35_3",
+    "unit": 35,
+    "module": "Module 20: Social Issues & Public Life (社会与公共事务)",
+    "unit_title": "公益、救援与互助 (Charity, Rescue & Mutual Help)",
+    "text_type": "passage",
+    "title": "谁来养老 (Who Cares for the Elderly)",
+    "scenario": "An essay on an ageing society: who looks after the old, what one generation owes another, and the quiet contribution of ordinary people at home.",
+    "new_words": [
+      "养老",
+      "活着",
+      "贡献",
+      "英雄",
+      "一代",
+      "家园"
+    ]
+  },
+  {
+    "passage_id": "H6_36_1",
+    "unit": 36,
+    "module": "Module 20: Social Issues & Public Life (社会与公共事务)",
+    "unit_title": "公共生活与危机 (Public Life & Crisis)",
+    "text_type": "passage",
+    "title": "城市里的普通人 (Ordinary People in the City)",
+    "scenario": "A reporter spends a day with the people who keep a city running: residents, the general public, migrant workers, and families from several ethnic groups.",
+    "new_words": [
+      "市民",
+      "公众",
+      "民工",
+      "族",
+      "内外",
+      "中外"
+    ]
+  },
+  {
+    "passage_id": "H6_36_2",
+    "unit": 36,
+    "module": "Module 20: Social Issues & Public Life (社会与公共事务)",
+    "unit_title": "公共生活与危机 (Public Life & Crisis)",
+    "text_type": "dialogue",
+    "title": "街头的抗议 (A Protest in the Street)",
+    "scenario": "A journalist interviews bystanders during a march: why the workers are on strike, what the discussion meeting achieved, and what the mainstream press says.",
+    "new_words": [
+      "游行",
+      "抗议",
+      "罢工",
+      "座谈会",
+      "播",
+      "天下"
+    ]
+  },
+  {
+    "passage_id": "H6_36_3",
+    "unit": 36,
+    "module": "Module 20: Social Issues & Public Life (社会与公共事务)",
+    "unit_title": "公共生活与危机 (Public Life & Crisis)",
+    "text_type": "passage",
+    "title": "危机来了 (When the Crisis Comes)",
+    "scenario": "A manager faces a threat to the factory: the crisis deepens, the conflict turns into a struggle, and the shop floor falls into confusion.",
+    "new_words": [
+      "危机",
+      "威胁",
+      "斗争",
+      "混乱",
+      "混",
+      "障碍"
+    ]
+  },
+  {
+    "passage_id": "H6_37_1",
+    "unit": 37,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "值不值：评价与选择 (Worth It or Not: Judging and Choosing)",
+    "text_type": "dialogue",
+    "title": "这手机值不值 (Is This Phone Worth It)",
+    "scenario": "Two colleagues weigh a purchase: whether it is worth the money, how to measure the difference, what the reviews say, and which model was voted the best.",
+    "new_words": [
+      "不值",
+      "算是",
+      "衡量",
+      "评",
+      "评选",
+      "最佳"
+    ]
+  },
+  {
+    "passage_id": "H6_37_2",
+    "unit": 37,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "值不值：评价与选择 (Worth It or Not: Judging and Choosing)",
+    "text_type": "dialogue",
+    "title": "老款还是新款 (The Old Model or the New One)",
+    "scenario": "A customer compares an outdated model with a brand-new one, asks whether the classic design still suits him, and settles for something ordinary rather than outstanding.",
+    "new_words": [
+      "过时",
+      "全新",
+      "古典",
+      "中等",
+      "平凡",
+      "杰出"
+    ]
+  },
+  {
+    "passage_id": "H6_37_3",
+    "unit": 37,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "值不值：评价与选择 (Worth It or Not: Judging and Choosing)",
+    "text_type": "passage",
+    "title": "异常的信号 (An Unusual Signal)",
+    "scenario": "A technician notices something wrong with the machine: the reading is abnormal, the repair was ineffective, and the wiring hanging there is dangerous.",
+    "new_words": [
+      "异常",
+      "无效",
+      "险",
+      "悬",
+      "净",
+      "清"
+    ]
+  },
+  {
+    "passage_id": "H6_38_1",
+    "unit": 38,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "大小、方式与程度 (Size, Manner & Degree)",
+    "text_type": "passage",
+    "title": "城市有多大 (How Big the City Is)",
+    "scenario": "A newcomer describes the scale of the place: the vast plain, the wide avenue, a single extra-large shipment of goods arriving at the market.",
+    "new_words": [
+      "广阔",
+      "宽阔",
+      "阔",
+      "无边",
+      "特大",
+      "大批"
+    ]
+  },
+  {
+    "passage_id": "H6_38_2",
+    "unit": 38,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "大小、方式与程度 (Size, Manner & Degree)",
+    "text_type": "passage",
+    "title": "说话的分寸 (The Measure of What You Say)",
+    "scenario": "A teacher coaches a student before a speech: choose the appropriate words, stay flexible when questioned, and answer cleverly without sounding clever.",
+    "new_words": [
+      "适当",
+      "恰当",
+      "灵活",
+      "巧妙",
+      "妙",
+      "扎实"
+    ]
+  },
+  {
+    "passage_id": "H6_38_3",
+    "unit": 38,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "大小、方式与程度 (Size, Manner & Degree)",
+    "text_type": "passage",
+    "title": "别走极端 (Don't Go to Extremes)",
+    "scenario": "An essay on balance: extreme positions, mechanical thinking, the sharp point of an argument, and a room so cluttered and dim that nobody can think.",
+    "new_words": [
+      "极端",
+      "机械",
+      "尖",
+      "猛",
+      "昏",
+      "杂"
+    ]
+  },
+  {
+    "passage_id": "H6_39_1",
+    "unit": 39,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "相同、不同与实话 (Same, Different & Plain Speaking)",
+    "text_type": "passage",
+    "title": "有关系还是没关系 (Related or Not)",
+    "scenario": "A researcher separates what is relevant from what is not: the same result, the difference between two samples, their length, and a figure less than the threshold.",
+    "new_words": [
+      "无关",
+      "本身",
+      "同一",
+      "差异",
+      "长短",
+      "小于"
+    ]
+  },
+  {
+    "passage_id": "H6_39_2",
+    "unit": 39,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "相同、不同与实话 (Same, Different & Plain Speaking)",
+    "text_type": "passage",
+    "title": "一模一样的两件衣服 (Two Identical Dresses)",
+    "scenario": "A shop assistant insists two dresses are exactly alike; the customer still wants them treated the same way and compared side by side.",
+    "new_words": [
+      "一模一样",
+      "同",
+      "如",
+      "若",
+      "照样",
+      "恰好"
+    ]
+  },
+  {
+    "passage_id": "H6_39_3",
+    "unit": 39,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "相同、不同与实话 (Same, Different & Plain Speaking)",
+    "text_type": "dialogue",
+    "title": "说实话 (Frankly Speaking)",
+    "scenario": "Two friends finally speak plainly: one says forget it, the other says it is only a small thing anyway, and both laugh at how long they avoided the subject.",
+    "new_words": [
+      "说实话",
+      "算了",
+      "罢了",
+      "便是",
+      "啦",
+      "嘛"
+    ]
+  },
+  {
+    "passage_id": "H6_40_1",
+    "unit": 40,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "钱怎么进来，怎么出去 (Money In, Money Out)",
+    "text_type": "passage",
+    "title": "一个月挣多少 (What You Earn in a Month)",
+    "scenario": "A young couple go through their month: what they earn, what they spend, and how much they can put aside.",
+    "new_words": [
+      "赚",
+      "赚钱",
+      "花费",
+      "理财",
+      "炒股",
+      "升值"
+    ]
+  },
+  {
+    "passage_id": "H6_40_2",
+    "unit": 40,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "钱怎么进来，怎么出去 (Money In, Money Out)",
+    "text_type": "passage",
+    "title": "工资单上的每一笔 (Every Line on the Pay Slip)",
+    "scenario": "A clerk explains a pay slip: the allowance granted, the fee collected, the deduction, and the percentage point by which the total rose.",
+    "new_words": [
+      "领取",
+      "收取",
+      "发放",
+      "给予",
+      "扣",
+      "百分点"
+    ]
+  },
+  {
+    "passage_id": "H6_40_3",
+    "unit": 40,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "钱怎么进来，怎么出去 (Money In, Money Out)",
+    "text_type": "passage",
+    "title": "旺季与总量 (Peak Season and Total Volume)",
+    "scenario": "A shop owner reports a good year: the peak season, the total volume of goods, and the many sides of the business he had to manage.",
+    "new_words": [
+      "高峰",
+      "总量",
+      "多方面",
+      "足",
+      "道道",
+      "超"
+    ]
+  },
+  {
+    "passage_id": "H6_41_1",
+    "unit": 41,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "本质、要素与出路 (Essence, Elements & a Way Out)",
+    "text_type": "passage",
+    "title": "一件事的本质 (The Essence of a Matter)",
+    "scenario": "A teacher pushes students to look past appearances: what the core of the question is, which elements matter, and where the potential really lies.",
+    "new_words": [
+      "本质",
+      "核心",
+      "要素",
+      "层面",
+      "潜力",
+      "因素"
+    ]
+  },
+  {
+    "passage_id": "H6_41_2",
+    "unit": 41,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "本质、要素与出路 (Essence, Elements & a Way Out)",
+    "text_type": "passage",
+    "title": "缺陷与原因 (The Flaw and the Reason)",
+    "scenario": "An engineer explains why a project failed: a defect at one end of the design, the reason behind it, and the starting point for fixing it.",
+    "new_words": [
+      "缺陷",
+      "缘故",
+      "起点",
+      "焦点",
+      "端",
+      "界"
+    ]
+  },
+  {
+    "passage_id": "H6_41_3",
+    "unit": 41,
+    "module": "Module 21: Qualities, Degree & Evaluation (性质、程度与评价)",
+    "unit_title": "本质、要素与出路 (Essence, Elements & a Way Out)",
+    "text_type": "passage",
+    "title": "总得有条出路 (There Has to Be a Way Out)",
+    "scenario": "An essay on creativity: the shape a solution takes, the form it takes in practice, and why most people never find a way out.",
+    "new_words": [
+      "出路",
+      "创意",
+      "大师",
+      "形",
+      "样",
+      "命",
+      "绝大多数"
+    ]
+  },
+  {
+    "passage_id": "H6_42_1",
+    "unit": 42,
+    "module": "Module 22: Change, Process & Cause (变化、过程与因果)",
+    "unit_title": "重组、修复与新生 (Restructuring, Repair & Rebirth)",
+    "text_type": "passage",
+    "title": "公司为什么重组 (Why the Company Restructured)",
+    "scenario": "A business column explains a reorganisation: the changes to the structure, the transition period, and the signs that things are improving.",
+    "new_words": [
+      "重组",
+      "变更",
+      "变换",
+      "过渡",
+      "好转",
+      "巩固"
+    ]
+  },
+  {
+    "passage_id": "H6_42_2",
+    "unit": 42,
+    "module": "Module 22: Change, Process & Cause (变化、过程与因果)",
+    "unit_title": "重组、修复与新生 (Restructuring, Repair & Rebirth)",
+    "text_type": "passage",
+    "title": "东西坏了以后 (After Something Breaks)",
+    "scenario": "A repairman deals with a bent frame, a warped panel and a cracked casing, and decides whether the thing can be rebuilt or should be thrown out.",
+    "new_words": [
+      "变形",
+      "弯曲",
+      "扁",
+      "裂",
+      "毁",
+      "重建"
+    ]
+  },
+  {
+    "passage_id": "H6_42_3",
+    "unit": 42,
+    "module": "Module 22: Change, Process & Cause (变化、过程与因果)",
+    "unit_title": "重组、修复与新生 (Restructuring, Repair & Rebirth)",
+    "text_type": "passage",
+    "title": "一个品牌的诞生 (The Birth of a Brand)",
+    "scenario": "The story of a start-up: how it was founded, who started it, the first product it launched, and how the founders built it from nothing.",
+    "new_words": [
+      "诞生",
+      "开创",
+      "创办",
+      "创建",
+      "推出",
+      "打造"
+    ]
+  },
+  {
+    "passage_id": "H6_43_1",
+    "unit": 43,
+    "module": "Module 22: Change, Process & Cause (变化、过程与因果)",
+    "unit_title": "循环、协商与推进 (Cycles, Negotiation & Moving Forward)",
+    "text_type": "passage",
+    "title": "四季的循环 (The Cycle of the Seasons)",
+    "scenario": "A nature essay follows the year round: the cycle of seasons, the transition from spring to summer, and how a habit repeated every year becomes custom.",
+    "new_words": [
+      "循环",
+      "时节",
+      "常年",
+      "一贯",
+      "常规",
+      "定时"
+    ]
+  },
+  {
+    "passage_id": "H6_43_2",
+    "unit": 43,
+    "module": "Module 22: Change, Process & Cause (变化、过程与因果)",
+    "unit_title": "循环、协商与推进 (Cycles, Negotiation & Moving Forward)",
+    "text_type": "dialogue",
+    "title": "谈判桌上 (Across the Negotiating Table)",
+    "scenario": "Two sides negotiate a contract: they consult, submit a revised draft, adopt part of it, and deepen the cooperation step by step.",
+    "new_words": [
+      "协商",
+      "采纳",
+      "提交",
+      "深化",
+      "强化",
+      "提升"
+    ]
+  },
+  {
+    "passage_id": "H6_43_3",
+    "unit": 43,
+    "module": "Module 22: Change, Process & Cause (变化、过程与因果)",
+    "unit_title": "循环、协商与推进 (Cycles, Negotiation & Moving Forward)",
+    "text_type": "passage",
+    "title": "灾难之后 (After the Disaster)",
+    "scenario": "A town recovers from a flood: the split in the community, the slow rebuilding, and the small signs that life is returning to normal.",
+    "new_words": [
+      "洪水",
+      "撤离",
+      "分裂",
+      "全力",
+      "埋",
+      "死亡"
+    ]
+  },
+  {
+    "passage_id": "H6_44_1",
+    "unit": 44,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "语气的分寸 (Tone, Emphasis & Attitude)",
+    "text_type": "dialogue",
+    "title": "你这么说就不对了 (That's Not Quite Right)",
+    "scenario": "Two colleagues disagree politely: one insists it is not just a small problem, the other says he has stopped caring and there is no way to fix it now.",
+    "new_words": [
+      "不仅仅",
+      "不再",
+      "不怎么",
+      "不成",
+      "便",
+      "必将"
+    ]
+  },
+  {
+    "passage_id": "H6_44_2",
+    "unit": 44,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "语气的分寸 (Tone, Emphasis & Attitude)",
+    "text_type": "dialogue",
+    "title": "没想到会这样 (I Didn't Expect This)",
+    "scenario": "A friend reports an outcome nobody foresaw: it will not come to that, he says, and it was exactly the person we least suspected who spoke up.",
+    "new_words": [
+      "不料",
+      "不至于",
+      "恰恰",
+      "刚好",
+      "却是",
+      "另"
+    ]
+  },
+  {
+    "passage_id": "H6_44_3",
+    "unit": 44,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "语气的分寸 (Tone, Emphasis & Attitude)",
+    "text_type": "passage",
+    "title": "特别的照顾 (Special Treatment)",
+    "scenario": "A hotel guest is treated with particular care: the staff make a special trip, do it on purpose, and the manager himself sees to it.",
+    "new_words": [
+      "特",
+      "特地",
+      "特意",
+      "更是",
+      "只顾",
+      "只管"
+    ]
+  },
+  {
+    "passage_id": "H6_45_1",
+    "unit": 45,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "让步、条件与解释 (Concession, Condition & Explanation)",
+    "text_type": "passage",
+    "title": "就算失败也要试 (Even If It Fails, Try)",
+    "scenario": "A coach's pep talk: even if we lose, we go; although the odds are poor, anyone who wants to play gets a chance, otherwise we will never know.",
+    "new_words": [
+      "就算",
+      "虽",
+      "凡是",
+      "要不然",
+      "要么",
+      "再说"
+    ]
+  },
+  {
+    "passage_id": "H6_45_2",
+    "unit": 45,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "让步、条件与解释 (Concession, Condition & Explanation)",
+    "text_type": "dialogue",
+    "title": "免得白跑一趟 (So You Don't Waste a Trip)",
+    "scenario": "A colleague explains a procedure step by step: what this means, what that kind of document is for, and how to file it so as to avoid a wasted trip.",
+    "new_words": [
+      "就是说",
+      "这就是说",
+      "之类",
+      "免得",
+      "为此",
+      "为何"
+    ]
+  },
+  {
+    "passage_id": "H6_45_3",
+    "unit": 45,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "让步、条件与解释 (Concession, Condition & Explanation)",
+    "text_type": "passage",
+    "title": "一个样 (All the Same)",
+    "scenario": "An essay on generalisations: all kinds of people, things that seem alike, and one example that is enough to prove the point.",
+    "new_words": [
+      "种种",
+      "好似",
+      "仿佛",
+      "如一",
+      "足以",
+      "依次",
+      "只得"
+    ]
+  },
+  {
+    "passage_id": "H6_46_1",
+    "unit": 46,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "数量、程度与先后 (Quantity, Degree & Order)",
+    "text_type": "passage",
+    "title": "一趟远门 (One Long Trip)",
+    "scenario": "A traveller counts his journeys: how many times he went, one trip after another, and how much he spent each time.",
+    "new_words": [
+      "趟",
+      "次数",
+      "番",
+      "一道",
+      "一同",
+      "一齐"
+    ]
+  },
+  {
+    "passage_id": "H6_46_2",
+    "unit": 46,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "数量、程度与先后 (Quantity, Degree & Order)",
+    "text_type": "passage",
+    "title": "多半是这样 (Most Likely So)",
+    "scenario": "A columnist hedges: most likely it is so, not much good either way, and by far the best thing is to put real effort into it.",
+    "new_words": [
+      "多半",
+      "不怎么样",
+      "大力",
+      "尽",
+      "远远",
+      "深深"
+    ]
+  },
+  {
+    "passage_id": "H6_46_3",
+    "unit": 46,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "数量、程度与先后 (Quantity, Degree & Order)",
+    "text_type": "passage",
+    "title": "第一眼看见 (At First Sight)",
+    "scenario": "A witness describes the moment: he watched with his own eyes, saw it from afar, and knew at once that something was wrong.",
+    "new_words": [
+      "眼看",
+      "亲眼",
+      "望见",
+      "看得见",
+      "一时",
+      "早晚"
+    ]
+  },
+  {
+    "passage_id": "H6_47_1",
+    "unit": 47,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "看法、判断与开口 (Opinion, Judgement & Speaking Up)",
+    "text_type": "dialogue",
+    "title": "你看好这个项目吗 (Are You Optimistic About This Project)",
+    "scenario": "Two investors weigh a project: one is optimistic, one treats it as a gamble, and both say what they expect the outcome to be.",
+    "new_words": [
+      "看好",
+      "看作",
+      "当作",
+      "企图",
+      "肯",
+      "赖"
+    ]
+  },
+  {
+    "passage_id": "H6_47_2",
+    "unit": 47,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "看法、判断与开口 (Opinion, Judgement & Speaking Up)",
+    "text_type": "dialogue",
+    "title": "别打断我 (Don't Interrupt Me)",
+    "scenario": "An argument at a meeting: one person keeps interrupting, another asks to be heard out, and a third points at the chart to make his case.",
+    "new_words": [
+      "打断",
+      "听取",
+      "指着",
+      "指定",
+      "露",
+      "顾"
+    ]
+  },
+  {
+    "passage_id": "H6_47_3",
+    "unit": 47,
+    "module": "Module 23: Language, Logic & Discourse (语言与表达)",
+    "unit_title": "看法、判断与开口 (Opinion, Judgement & Speaking Up)",
+    "text_type": "passage",
+    "title": "把话说清楚 (Getting It Said Clearly)",
+    "scenario": "A mediator explains how a quarrel was settled: she solved the misunderstanding, protected both sides, and supported the weaker one until the matter closed.",
+    "new_words": [
+      "解",
+      "化解",
+      "护",
+      "支撑",
+      "此事",
+      "最终",
+      "开头"
+    ]
+  },
+  {
+    "passage_id": "H6_48_1",
+    "unit": 48,
+    "module": "Module 24: Movement & Physical Action (动作与身体)",
+    "unit_title": "手上的动作 (What the Hands Do)",
+    "text_type": "passage",
+    "title": "院子里的活 (Work in the Yard)",
+    "scenario": "A man spends Sunday in the yard: he digs, picks things up, pulls a cart, spreads a mat and hangs up the washing.",
+    "new_words": [
+      "挖",
+      "捡",
+      "拖",
+      "铺",
+      "吊",
+      "搭"
+    ]
+  },
+  {
+    "passage_id": "H6_48_2",
+    "unit": 48,
+    "module": "Module 24: Movement & Physical Action (动作与身体)",
+    "unit_title": "手上的动作 (What the Hands Do)",
+    "text_type": "passage",
+    "title": "口袋里的东西 (What Is in the Pocket)",
+    "scenario": "A boy empties his pockets: he digs out a coin, squeezes a note into his bag, strings beads together and pulls his sister along by the hand.",
+    "new_words": [
+      "掏",
+      "塞",
+      "串",
+      "牵",
+      "磨",
+      "织"
+    ]
+  },
+  {
+    "passage_id": "H6_48_3",
+    "unit": 48,
+    "module": "Module 24: Movement & Physical Action (动作与身体)",
+    "unit_title": "手上的动作 (What the Hands Do)",
+    "text_type": "passage",
+    "title": "水边的孩子 (Children by the Water)",
+    "scenario": "Children spend a summer afternoon by the river: floating on their backs, spinning round, running and falling on the bank.",
+    "new_words": [
+      "浮",
+      "旋转",
+      "奔跑",
+      "跌",
+      "入",
+      "闭"
+    ]
+  },
+  {
+    "passage_id": "H6_49_1",
+    "unit": 49,
+    "module": "Module 24: Movement & Physical Action (动作与身体)",
+    "unit_title": "走、跪与穿越 (Walking, Kneeling & Crossing)",
+    "text_type": "passage",
+    "title": "山路难走 (The Hard Mountain Path)",
+    "scenario": "Hikers cross a stream, climb a slope, step over a ditch and crouch to rest, while one of them kneels to tie a shoe.",
+    "new_words": [
+      "跨",
+      "渡",
+      "踏",
+      "蹲",
+      "跪",
+      "踩"
+    ]
+  },
+  {
+    "passage_id": "H6_49_2",
+    "unit": 49,
+    "module": "Module 24: Movement & Physical Action (动作与身体)",
+    "unit_title": "走、跪与穿越 (Walking, Kneeling & Crossing)",
+    "text_type": "passage",
+    "title": "赶最后一班车 (Catching the Last Bus)",
+    "scenario": "A commuter rushes out, runs after the bus, just catches it, and stays away from the crowded front door.",
+    "new_words": [
+      "赶上",
+      "赶忙",
+      "外出",
+      "远离",
+      "出入",
+      "出面"
+    ]
+  },
+  {
+    "passage_id": "H6_49_3",
+    "unit": 49,
+    "module": "Module 24: Movement & Physical Action (动作与身体)",
+    "unit_title": "走、跪与穿越 (Walking, Kneeling & Crossing)",
+    "text_type": "passage",
+    "title": "钻进人群 (Into the Crowd)",
+    "scenario": "A reporter pushes into the crowd, rushes at the speaker with a microphone, drills through the questions, and finally stops and closes his notebook.",
+    "new_words": [
+      "钻",
+      "扑",
+      "止",
+      "灭",
+      "招",
+      "派出"
+    ]
+  },
+  {
+    "passage_id": "H6_50_1",
+    "unit": 50,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "聊天、留言与电话 (Chatting, Messages & Phone Calls)",
+    "text_type": "dialogue",
+    "title": "给你留个言 (Leaving You a Message)",
+    "scenario": "A friend calls but gets no answer, leaves a message on the hotline, and later they talk face to face about what the company's newsletter said.",
+    "new_words": [
+      "聊",
+      "聊天儿",
+      "留言",
+      "通话",
+      "热线",
+      "通讯"
+    ]
+  },
+  {
+    "passage_id": "H6_50_2",
+    "unit": 50,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "聊天、留言与电话 (Chatting, Messages & Phone Calls)",
+    "text_type": "dialogue",
+    "title": "听说你要搬家 (I Heard You're Moving)",
+    "scenario": "Two colleagues gossip about a rumour going round the office, one lets slip a piece of news, and the other's face shows he already knew.",
+    "new_words": [
+      "传言",
+      "透露",
+      "显出",
+      "反问",
+      "应对",
+      "很难说"
+    ]
+  },
+  {
+    "passage_id": "H6_50_3",
+    "unit": 50,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "聊天、留言与电话 (Chatting, Messages & Phone Calls)",
+    "text_type": "dialogue",
+    "title": "这附近有没有 (Is There One Around Here)",
+    "scenario": "A visitor asks whether there is a bank nearby, whether it is open now, whether he can pay by card, and turns the volume down on his phone.",
+    "new_words": [
+      "有没有",
+      "有事",
+      "能否",
+      "据",
+      "音量",
+      "响声"
+    ]
+  },
+  {
+    "passage_id": "H6_51_1",
+    "unit": 51,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "说明、承诺与查证 (Explaining, Promising & Checking)",
+    "text_type": "dialogue",
+    "title": "这个怎么用 (How Do You Use This)",
+    "scenario": "A customer asks what a device is for, whether it is worth using, and the shop assistant explains the instructions and what it is good for.",
+    "new_words": [
+      "用法",
+      "用处",
+      "用得着",
+      "讲攻",
+      "此致",
+      "预约"
+    ]
+  },
+  {
+    "passage_id": "H6_51_2",
+    "unit": 51,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "说明、承诺与查证 (Explaining, Promising & Checking)",
+    "text_type": "passage",
+    "title": "名声是怎么来的 (How a Reputation Is Made)",
+    "scenario": "An essay on reputation: how a name is built over years, what people know about you, and why a promise kept matters more than praise.",
+    "new_words": [
+      "名誉",
+      "承诺",
+      "晓得",
+      "识",
+      "觉",
+      "理"
+    ]
+  },
+  {
+    "passage_id": "H6_51_3",
+    "unit": 51,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "说明、承诺与查证 (Explaining, Promising & Checking)",
+    "text_type": "passage",
+    "title": "查清楚再说话 (Check Before You Speak)",
+    "scenario": "A researcher distinguishes fact from impression: she separates two similar cases, ignores the noise, examines the files, and consults the people involved.",
+    "new_words": [
+      "区分",
+      "忽略",
+      "审查",
+      "调研",
+      "查看",
+      "咨询"
+    ]
+  },
+  {
+    "passage_id": "H6_52_1",
+    "unit": 52,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "会场、车展与老街 (Venues, Motor Shows & Old Streets)",
+    "text_type": "dialogue",
+    "title": "在车展上 (At the Motor Show)",
+    "scenario": "Two friends walk round the exhibition hall, compare registration numbers and plates, and argue over which model looks best on the stand.",
+    "new_words": [
+      "车展",
+      "车号",
+      "车牌",
+      "参展",
+      "场馆",
+      "场景"
+    ]
+  },
+  {
+    "passage_id": "H6_52_2",
+    "unit": 52,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "会场、车展与老街 (Venues, Motor Shows & Old Streets)",
+    "text_type": "passage",
+    "title": "会场布置 (Setting Up the Hall)",
+    "scenario": "Staff prepare an auditorium for a conference: the desks, the printer, the recorder, and a last check of the toilets before the doors open.",
+    "new_words": [
+      "礼堂",
+      "写字台",
+      "打印机",
+      "录音机",
+      "厕所",
+      "柱子"
+    ]
+  },
+  {
+    "passage_id": "H6_52_3",
+    "unit": 52,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "会场、车展与老街 (Venues, Motor Shows & Old Streets)",
+    "text_type": "passage",
+    "title": "老街上的塔和桥 (The Pagoda and Bridge on the Old Street)",
+    "scenario": "A walk through an old quarter: the pagoda, the stone bridge, a wooden pole, a garden plot, a grave behind the plum tree, and wheat fields beyond.",
+    "new_words": [
+      "塔",
+      "桥梁",
+      "杆",
+      "园地",
+      "墓",
+      "梅花",
+      "小麦"
+    ]
+  },
+  {
+    "passage_id": "H6_53_1",
+    "unit": 53,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "信号、隐私与采访 (Signals, Privacy & an Interview)",
+    "text_type": "passage",
+    "title": "信号是怎么传过来的 (How the Signal Gets Through)",
+    "scenario": "A technician explains a network: how a signal is transmitted outward, how the cable carries it, why the line stays clear, and what to do when a number will not connect.",
+    "new_words": [
+      "传输",
+      "传出",
+      "畅通",
+      "拨打",
+      "操纵",
+      "作",
+      "作废"
+    ]
+  },
+  {
+    "passage_id": "H6_53_2",
+    "unit": 53,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "信号、隐私与采访 (Signals, Privacy & an Interview)",
+    "text_type": "passage",
+    "title": "谁在听我们说话 (Who Is Listening)",
+    "scenario": "A privacy column: what a company may hold about you, the shadow this casts, and how an ordinary afternoon of browsing is quietly recorded.",
+    "new_words": [
+      "隐私",
+      "阴影",
+      "持有",
+      "意想不到",
+      "专用",
+      "打发",
+      "表面上"
+    ]
+  },
+  {
+    "passage_id": "H6_53_3",
+    "unit": 53,
+    "module": "Module 25: Communication & Information (沟通与信息)",
+    "unit_title": "信号、隐私与采访 (Signals, Privacy & an Interview)",
+    "text_type": "passage",
+    "title": "一次采访 (An Interview)",
+    "scenario": "A reporter describes meeting a film star face to face, the footprints left outside the studio, and the lucky colour she chose to wear.",
+    "new_words": [
+      "面对面",
+      "影星",
+      "脚印",
+      "搭配",
+      "吉利",
+      "吉祥",
+      "遍地"
+    ]
+  },
+  {
+    "passage_id": "H6_54_1",
+    "unit": 54,
+    "module": "Module 26: Time, Frequency & Sequence (时间与频率)",
+    "unit_title": "一天的时段与日期 (Times of Day & Dates)",
+    "text_type": "passage",
+    "title": "从早到晚 (From Morning to Night)",
+    "scenario": "A nurse describes a shift that runs day and night: dusk, darkness, the same day repeating, and tomorrow's roster already posted.",
+    "new_words": [
+      "傍晚",
+      "黑夜",
+      "日夜",
+      "当天",
+      "明日",
+      "本期"
+    ]
+  },
+  {
+    "passage_id": "H6_54_2",
+    "unit": 54,
+    "module": "Module 26: Time, Frequency & Sequence (时间与频率)",
+    "unit_title": "一天的时段与日期 (Times of Day & Dates)",
+    "text_type": "passage",
+    "title": "同一时期的两个城市 (Two Cities in the Same Period)",
+    "scenario": "A comparison of two cities in the same period: the mid-term figures, what happened afterwards, and what the report said after the event.",
+    "new_words": [
+      "同期",
+      "中期",
+      "事后",
+      "过后",
+      "待会儿",
+      "往后"
+    ]
+  },
+  {
+    "passage_id": "H6_54_3",
+    "unit": 54,
+    "module": "Module 26: Time, Frequency & Sequence (时间与频率)",
+    "unit_title": "一天的时段与日期 (Times of Day & Dates)",
+    "text_type": "passage",
+    "title": "截止日期 (The Deadline)",
+    "scenario": "An office reminds everyone of the deadline: applications close on that date, the first round has passed, and this time the rules are stricter.",
+    "new_words": [
+      "截至",
+      "截止",
+      "近日",
+      "此前",
+      "此次",
+      "首次",
+      "时期"
+    ]
+  },
+  {
+    "passage_id": "H6_55_1",
+    "unit": 55,
+    "module": "Module 26: Time, Frequency & Sequence (时间与频率)",
+    "unit_title": "年龄、季节与错过 (Age, Seasons & Missing Out)",
+    "text_type": "passage",
+    "title": "上了岁数 (Getting On in Years)",
+    "scenario": "An old man talks about age: how many years he has seen, how things were in former years, and how hard it was to get where he is.",
+    "new_words": [
+      "岁数",
+      "往年",
+      "长久",
+      "长远",
+      "好不容易",
+      "钟头"
+    ]
+  },
+  {
+    "passage_id": "H6_55_2",
+    "unit": 55,
+    "module": "Module 26: Time, Frequency & Sequence (时间与频率)",
+    "unit_title": "年龄、季节与错过 (Age, Seasons & Missing Out)",
+    "text_type": "passage",
+    "title": "时不时的电话 (The Occasional Phone Call)",
+    "scenario": "A daughter calls her parents now and then, sometimes in the morning, sometimes late, and regrets the chances she let slip.",
+    "new_words": [
+      "时时",
+      "时而",
+      "从不",
+      "错过",
+      "自在",
+      "活跃"
+    ]
+  },
+  {
+    "passage_id": "H6_55_3",
+    "unit": 55,
+    "module": "Module 26: Time, Frequency & Sequence (时间与频率)",
+    "unit_title": "年龄、季节与错过 (Age, Seasons & Missing Out)",
+    "text_type": "passage",
+    "title": "小小的心愿 (A Small Wish)",
+    "scenario": "A grandmother's quiet life: a harmonious household, a grandchild who loves study, and the marvellous, glorious thing about ordinary days.",
+    "new_words": [
+      "和谐",
+      "好学",
+      "奇妙",
+      "宏大",
+      "光辉",
+      "仰"
+    ]
+  },
+  {
+    "passage_id": "H6_56_1",
+    "unit": 56,
+    "module": "Module 26: Time, Frequency & Sequence (时间与频率)",
+    "unit_title": "经历过才知道 (You Only Know Once You've Been Through It)",
+    "text_type": "passage",
+    "title": "倒霉的一周 (A Run of Bad Luck)",
+    "scenario": "A man recounts a disastrous week: what he ran into, what he suffered, the loss he had to carry, and the bad news he never expected.",
+    "new_words": [
+      "遭遇",
+      "遭受",
+      "遭到",
+      "负",
+      "从没",
+      "原",
+      "背着"
+    ]
+  },
+  {
+    "passage_id": "H6_56_2",
+    "unit": 56,
+    "module": "Module 26: Time, Frequency & Sequence (时间与频率)",
+    "unit_title": "经历过才知道 (You Only Know Once You've Been Through It)",
+    "text_type": "passage",
+    "title": "街边的赌局 (The Game on the Street Corner)",
+    "scenario": "A passer-by is drawn into a street bet, loses his money, and offers a donation to the officer who warned him in time.",
+    "new_words": [
+      "赌",
+      "奉献",
+      "去掉",
+      "切实",
+      "公安",
+      "司长",
+      "于"
+    ]
+  },
+  {
+    "passage_id": "H6_56_3",
+    "unit": 56,
+    "module": "Module 26: Time, Frequency & Sequence (时间与频率)",
+    "unit_title": "经历过才知道 (You Only Know Once You've Been Through It)",
+    "text_type": "passage",
+    "title": "远方的那片山 (The Mountains Far Away)",
+    "scenario": "A traveler describes a landscape far from home: the magnificent view, the sunlight on the rock, the mine and its ore, and the car he had to repair.",
+    "new_words": [
+      "远方",
+      "壮观",
+      "照耀",
+      "景",
+      "矿",
+      "料",
+      "修车"
+    ]
+  },
+  {
+    "passage_id": "H6_57_1",
+    "unit": 57,
+    "module": "Module 27: Risk, Conflict & Safety (风险、冲突与安全)",
+    "unit_title": "冲突与对抗 (Conflict & Confrontation)",
+    "text_type": "passage",
+    "title": "两家的矛盾 (A Feud Between Two Families)",
+    "scenario": "A village dispute escalates: one side bullies the other, the weaker family is beaten, an outsider interferes, and the matter is finally investigated.",
+    "new_words": [
+      "欺负",
+      "挨打",
+      "挨",
+      "干涉",
+      "追究",
+      "对抗"
+    ]
+  },
+  {
+    "passage_id": "H6_57_2",
+    "unit": 57,
+    "module": "Module 27: Risk, Conflict & Safety (风险、冲突与安全)",
+    "unit_title": "冲突与对抗 (Conflict & Confrontation)",
+    "text_type": "passage",
+    "title": "不肯低头 (Refusing to Give In)",
+    "scenario": "A workers' protest: they resist the pressure, refuse to be pushed, seize back what was taken, and a plot is uncovered behind it all.",
+    "new_words": [
+      "反抗",
+      "压迫",
+      "逼",
+      "夺取",
+      "夺",
+      "阴谋"
+    ]
+  },
+  {
+    "passage_id": "H6_57_3",
+    "unit": 57,
+    "module": "Module 27: Risk, Conflict & Safety (风险、冲突与安全)",
+    "unit_title": "冲突与对抗 (Conflict & Confrontation)",
+    "text_type": "passage",
+    "title": "上当之后 (After Being Taken In)",
+    "scenario": "A shopper realises he was cheated: he misread the label, the mistake cost him, something went wrong with the order, and he broke the rules trying to fix it.",
+    "new_words": [
+      "上当",
+      "误",
+      "出事",
+      "犯规",
+      "侵犯",
+      "冲击"
+    ]
+  },
+  {
+    "passage_id": "H6_58_1",
+    "unit": 58,
+    "module": "Module 27: Risk, Conflict & Safety (风险、冲突与安全)",
+    "unit_title": "爆炸、防范与失控 (Explosions, Precautions & Losing Control)",
+    "text_type": "passage",
+    "title": "一声巨响 (A Loud Bang)",
+    "scenario": "An accident at a site: something explodes, a second blast follows, and the stored explosives and an old cannon are found in the shed.",
+    "new_words": [
+      "爆炸",
+      "爆发",
+      "爆",
+      "炸药",
+      "炮",
+      "箭"
+    ]
+  },
+  {
+    "passage_id": "H6_58_2",
+    "unit": 58,
+    "module": "Module 27: Risk, Conflict & Safety (风险、冲突与安全)",
+    "unit_title": "爆炸、防范与失控 (Explosions, Precautions & Losing Control)",
+    "text_type": "passage",
+    "title": "夜里的守卫 (The Night Watch)",
+    "scenario": "A guard's routine: he keeps watch, defends the gate, checks that nothing has been exposed, and walks the ground where the cracks are everywhere.",
+    "new_words": [
+      "防范",
+      "防守",
+      "暴露",
+      "布满",
+      "剑",
+      "隐藏"
+    ]
+  },
+  {
+    "passage_id": "H6_58_3",
+    "unit": 58,
+    "module": "Module 27: Risk, Conflict & Safety (风险、冲突与安全)",
+    "unit_title": "爆炸、防范与失控 (Explosions, Precautions & Losing Control)",
+    "text_type": "passage",
+    "title": "失去与陷入 (Loss and Being Trapped)",
+    "scenario": "A businessman's decline: the money disappears, the road is blocked, he loses everything, and falls into a debt he cannot escape.",
+    "new_words": [
+      "不见",
+      "不通",
+      "丧失",
+      "陷入",
+      "消耗",
+      "超出"
+    ]
+  },
+  {
+    "passage_id": "H6_59_1",
+    "unit": 59,
+    "module": "Module 27: Risk, Conflict & Safety (风险、冲突与安全)",
+    "unit_title": "疾病、身体与自救 (Illness, the Body & Saving Yourself)",
+    "text_type": "passage",
+    "title": "细胞与细菌 (Cells and Bacteria)",
+    "scenario": "A biology column explains the body's defences: the cell, its membrane, the bacteria that attack it, and how tissue regenerates.",
+    "new_words": [
+      "细胞",
+      "细菌",
+      "膜",
+      "再生",
+      "精",
+      "消灭"
+    ]
+  },
+  {
+    "passage_id": "H6_59_2",
+    "unit": 59,
+    "module": "Module 27: Risk, Conflict & Safety (风险、冲突与安全)",
+    "unit_title": "疾病、身体与自救 (Illness, the Body & Saving Yourself)",
+    "text_type": "passage",
+    "title": "氧气与低温 (Oxygen and Low Temperatures)",
+    "scenario": "A rescue doctor describes a mountain case: thin oxygen, low temperature, a reddened face, and the drop of blood on the snow.",
+    "new_words": [
+      "氧气",
+      "低温",
+      "通红",
+      "滴",
+      "天然",
+      "野"
+    ]
+  },
+  {
+    "passage_id": "H6_59_3",
+    "unit": 59,
+    "module": "Module 27: Risk, Conflict & Safety (风险、冲突与安全)",
+    "unit_title": "疾病、身体与自救 (Illness, the Body & Saving Yourself)",
+    "text_type": "passage",
+    "title": "扭伤以后 (After a Sprain)",
+    "scenario": "A patient comes in with a twisted ankle, is told to spend less time outdoors, and is given a mixture to rub in before the nurse prints the form.",
+    "new_words": [
+      "扭",
+      "户外",
+      "混合",
+      "印",
+      "美容",
+      "研发"
+    ]
+  },
+  {
+    "passage_id": "H6_60_1",
+    "unit": 60,
+    "module": "Module 29: Identity, Language & Homeland (身份、语言与家国)",
+    "unit_title": "国籍、身份与家国 (Nationality, Status & Homeland)",
+    "text_type": "passage",
+    "title": "三种外语 (Three Foreign Languages)",
+    "scenario": "A language school advertises French, Japanese and Spanish, and a student explains why she chose the one she did.",
+    "new_words": [
+      "法语",
+      "日语",
+      "西班牙语",
+      "洋",
+      "外来",
+      "本地"
+    ]
+  },
+  {
+    "passage_id": "H6_60_2",
+    "unit": 60,
+    "module": "Module 29: Identity, Language & Homeland (身份、语言与家国)",
+    "unit_title": "国籍、身份与家国 (Nationality, Status & Homeland)",
+    "text_type": "passage",
+    "title": "远行的人 (The One Who Went Far Away)",
+    "scenario": "A migrant worker writes home: the ship's captain he met, the pilot in the next seat, the sleeper berth he booked, and the helicopter he saw over the valley.",
+    "new_words": [
+      "船长",
+      "飞行员",
+      "飞船",
+      "轨道",
+      "直升机",
+      "卧铺"
+    ]
+  },
+  {
+    "passage_id": "H6_60_3",
+    "unit": 60,
+    "module": "Module 29: Identity, Language & Homeland (身份、语言与家国)",
+    "unit_title": "国籍、身份与家国 (Nationality, Status & Homeland)",
+    "text_type": "passage",
+    "title": "故乡的样子 (What Home Looks Like)",
+    "scenario": "A returning student describes her country: the flag, the motherland she missed, the teachers who taught her, and how a whole generation became famous abroad.",
+    "new_words": [
+      "国旗",
+      "祖国",
+      "师生",
+      "出名",
+      "少儿",
+      "娃娃",
+      "服"
+    ]
+  }
+]

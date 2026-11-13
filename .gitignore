@@ -1,0 +1,15 @@
+# Dependencies and cloned repos
+my_chinese/
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,2966 @@
+[
+  {
+    "passage_id": "H6_1_1",
+    "unit": 1,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "厨房烹饪与家常美味 (Kitchen Cooking & Home-Style Delicacies)",
+    "text_type": "dialogue",
+    "title": "向大厨请教家常菜做法 (Learning Home-Style Cooking from a Chef)",
+    "scenario": "A home cook asks a professional chef for tips on stir-frying vegetables and boiling soup, learning how to balance soy sauce, vinegar, and a spoonful of savory paste.",
+    "new_words": [
+      "厨师",
+      "炒",
+      "煮",
+      "酱油",
+      "醋",
+      "酱",
+      "勺"
+    ]
+  },
+  {
+    "passage_id": "H6_1_2",
+    "unit": 1,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "厨房烹饪与家常美味 (Kitchen Cooking & Home-Style Delicacies)",
+    "text_type": "dialogue",
+    "title": "丰盛的中西式早餐准备 (Preparing a Hearty Chinese and Western Breakfast)",
+    "scenario": "Two roommates prepare breakfast in the kitchen, heating steamed buns and porridge in the microwave while making a sandwich with jam and fried snacks for their meal.",
+    "new_words": [
+      "馒头",
+      "粥",
+      "微波炉",
+      "三明治",
+      "果酱",
+      "炸",
+      "餐"
+    ]
+  },
+  {
+    "passage_id": "H6_1_3",
+    "unit": 1,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "厨房烹饪与家常美味 (Kitchen Cooking & Home-Style Delicacies)",
+    "text_type": "passage",
+    "title": "日常食材与休闲零食的采购 (Stocking Up on Daily Ingredients and Casual Snacks)",
+    "scenario": "A household food guide introduces how families stock up on staples like rice and wheat alongside fresh tomatoes, eggplants, peanuts, potato chips, and french fries.",
+    "new_words": [
+      "大米",
+      "小麦",
+      "番茄",
+      "茄子",
+      "花生",
+      "薯片",
+      "薯条"
+    ]
+  },
+  {
+    "passage_id": "H6_2_1",
+    "unit": 2,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "饮品冲泡与营养膳食 (Beverages, Brewing & Nutritious Diets)",
+    "text_type": "dialogue",
+    "title": "用热水壶冲泡奶粉与饮品 (Brewing Milk Powder and Drinks with a Kettle)",
+    "scenario": "A parent boils tap water in a kettle to brew warm milk powder for the baby, reminding a guest not to drink unboiled cold water and offering beverages instead.",
+    "new_words": [
+      "自来水",
+      "冷水",
+      "热水",
+      "壶",
+      "泡",
+      "奶粉",
+      "酒水"
+    ]
+  },
+  {
+    "passage_id": "H6_2_2",
+    "unit": 2,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "饮品冲泡与营养膳食 (Beverages, Brewing & Nutritious Diets)",
+    "text_type": "dialogue",
+    "title": "日常饮食搭配与胃口调理 (Daily Dietary Pairing and Appetite Care)",
+    "scenario": "A nutritionist advises a client with a poor appetite to combine dairy products and vitamins in their meals and inspect the nutritional composition for appropriate healthcare.",
+    "new_words": [
+      "食欲",
+      "搭配",
+      "乳制品",
+      "维生素",
+      "成分",
+      "保健",
+      "适当"
+    ]
+  },
+  {
+    "passage_id": "H6_2_3",
+    "unit": 2,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "饮品冲泡与营养膳食 (Beverages, Brewing & Nutritious Diets)",
+    "text_type": "passage",
+    "title": "居家净水与厨卫清洁习惯 (Household Water Purity and Kitchen & Bathroom Hygiene)",
+    "scenario": "A practical housekeeping guide explains how to wash dishes and clean the bathroom using laundry detergent and cleaners so that water and surfaces remain spotless.",
+    "new_words": [
+      "清",
+      "净",
+      "清洁",
+      "清洗",
+      "洗衣粉",
+      "厕所",
+      "除"
+    ]
+  },
+  {
+    "passage_id": "H6_3_1",
+    "unit": 3,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "房屋租售与居家布置 (Housing, Appliances & Home Furnishing)",
+    "text_type": "dialogue",
+    "title": "实地看房与核算租金房价 (Viewing an Apartment and Calculating Rent and Housing Prices)",
+    "scenario": "A young couple inspects a multi-story residential building with a spacious floor area in square meters, comparing the monthly rent, housing price, and living expenses to save money.",
+    "new_words": [
+      "住宅",
+      "楼房",
+      "平方米",
+      "房价",
+      "租金",
+      "生活费",
+      "省钱"
+    ]
+  },
+  {
+    "passage_id": "H6_3_2",
+    "unit": 3,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "房屋租售与居家布置 (Housing, Appliances & Home Furnishing)",
+    "text_type": "dialogue",
+    "title": "添置节能家电与设备安装 (Buying Energy-Saving Appliances and Installation)",
+    "scenario": "Homeowners shop for energy-efficient household appliances, testing the air conditioning, water heater, and power switch in the apartment and checking the basement storage.",
+    "new_words": [
+      "电器",
+      "家电",
+      "节能",
+      "冷气",
+      "热水器",
+      "开关",
+      "地下室"
+    ]
+  },
+  {
+    "passage_id": "H6_3_3",
+    "unit": 3,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "房屋租售与居家布置 (Housing, Appliances & Home Furnishing)",
+    "text_type": "passage",
+    "title": "温馨书房与居室细节布置 (Arranging a Cozy Study Room and Interior Details)",
+    "scenario": "An interior design passage describes laying wooden flooring, placing a desk lamp and flower vase on the writing desk in the study room, and keeping the corridor tidy.",
+    "new_words": [
+      "书房",
+      "写字台",
+      "台灯",
+      "花瓶",
+      "地板",
+      "铺",
+      "楼道"
+    ]
+  },
+  {
+    "passage_id": "H6_4_1",
+    "unit": 4,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "日常穿着与日用百货 (Daily Attire, Footwear & Household Goods)",
+    "text_type": "dialogue",
+    "title": "换季衣物整理与手工编织 (Sorting Seasonal Clothes and Hand Knitting)",
+    "scenario": "A mother and daughter sort through cotton undergarments, vests, and outer coats for the changing season while knitting a scarf and fastening buttons.",
+    "new_words": [
+      "服",
+      "外衣",
+      "内衣",
+      "背心",
+      "棉",
+      "织",
+      "扣"
+    ]
+  },
+  {
+    "passage_id": "H6_4_2",
+    "unit": 4,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "日常穿着与日用百货 (Daily Attire, Footwear & Household Goods)",
+    "text_type": "dialogue",
+    "title": "出行鞋履与雨天随身物品 (Footwear for Going Out and Rainy-Day Essentials)",
+    "scenario": "Before heading out on a rainy afternoon, family members swap their indoor slippers and summer sandals for raincoats and pack pocket-sized disposable daily supplies.",
+    "new_words": [
+      "拖鞋",
+      "凉鞋",
+      "雨衣",
+      "物品",
+      "用品",
+      "一次性",
+      "袖珍"
+    ]
+  },
+  {
+    "passage_id": "H6_4_3",
+    "unit": 4,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "日常穿着与日用百货 (Daily Attire, Footwear & Household Goods)",
+    "text_type": "passage",
+    "title": "物尽其用的居家收纳之道 (Making the Best Use of Household Items and Storage)",
+    "scenario": "A home organization article explains how to evaluate whether miscellaneous household items are still useful, taking away outdated clutter while adding practical tools.",
+    "new_words": [
+      "用处",
+      "用得着",
+      "用法",
+      "过时",
+      "杂",
+      "添",
+      "拿走"
+    ]
+  },
+  {
+    "passage_id": "H6_5_1",
+    "unit": 5,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "家族亲情与长辈关怀 (Extended Family, Kinship & Elder Care)",
+    "text_type": "dialogue",
+    "title": "探望祖父母与姑姑的家常聚会 (Visiting Grandparents and Aunt for a Family Gathering)",
+    "scenario": "During a weekend reunion, relatives visit their paternal grandfather, grandmother, and aunt, talking about the grandparents' age and how to care for the elderly.",
+    "new_words": [
+      "祖父",
+      "祖母",
+      "姑姑",
+      "亲属",
+      "岁数",
+      "养老",
+      "顾"
+    ]
+  },
+  {
+    "passage_id": "H6_5_2",
+    "unit": 5,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "家族亲情与长辈关怀 (Extended Family, Kinship & Elder Care)",
+    "text_type": "dialogue",
+    "title": "父母子女间的陪伴与养育 (Companionship and Upbringing Between Parents and Children)",
+    "scenario": "Two parents discuss the warm bond between father and son, father and daughter, and mother and child, laughing at a naughty toddler hugging a doll.",
+    "new_words": [
+      "父子",
+      "父女",
+      "母女",
+      "母子",
+      "母",
+      "娃娃",
+      "顽皮"
+    ]
+  },
+  {
+    "passage_id": "H6_5_3",
+    "unit": 5,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "家族亲情与长辈关怀 (Extended Family, Kinship & Elder Care)",
+    "text_type": "passage",
+    "title": "收养孤儿与守护温馨家园 (Adopting Orphans and Protecting a Warm Home)",
+    "scenario": "A heartwarming feature story describes how a couple legally adopted an orphan, offering loving care and building a harmonious family home across generations.",
+    "new_words": [
+      "孤儿",
+      "收养",
+      "关爱",
+      "家园",
+      "一代",
+      "和谐",
+      "妇女"
+    ]
+  },
+  {
+    "passage_id": "H6_6_1",
+    "unit": 6,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "邻里社交与待客之道 (Neighborhood Socializing, Pets & Etiquette)",
+    "text_type": "dialogue",
+    "title": "老乡串门与闲聊家常 (Fellow Townsfolk Dropping By for a Casual Chat)",
+    "scenario": "Two close friends from the same hometown drop by to chat over tea, bringing a gift to deepen their friendship and catching up on their recent contacts.",
+    "new_words": [
+      "老乡",
+      "要好",
+      "来往",
+      "往来",
+      "送礼",
+      "聊",
+      "聊天儿"
+    ]
+  },
+  {
+    "passage_id": "H6_6_2",
+    "unit": 6,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "邻里社交与待客之道 (Neighborhood Socializing, Pets & Etiquette)",
+    "text_type": "dialogue",
+    "title": "社区溜宠与邻里互助 (Walking Pets in the Community and Neighborly Help)",
+    "scenario": "Neighbors walking their pets in the community garden greet each other with warm smiles and laughter, offering to look after a dog while the owner has urgent business.",
+    "new_words": [
+      "宠物",
+      "看管",
+      "园地",
+      "笑容",
+      "笑脸",
+      "笑声",
+      "有事"
+    ]
+  },
+  {
+    "passage_id": "H6_6_3",
+    "unit": 6,
+    "module": "Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)",
+    "unit_title": "邻里社交与待客之道 (Neighborhood Socializing, Pets & Etiquette)",
+    "text_type": "passage",
+    "title": "盛大宴会上的嘉宾与欢聚气氛 (Honored Guests and Joyful Atmosphere at a Grand Banquet)",
+    "scenario": "An event recap describes a lively celebratory banquet where the host welcomes honored guests and everyone present, creating a cheerful and unforgettable atmosphere.",
+    "new_words": [
+      "宴会",
+      "嘉宾",
+      "诸位",
+      "气氛",
+      "愉快",
+      "难忘",
+      "陪同"
+    ]
+  },
+  {
+    "passage_id": "H6_7_1",
+    "unit": 7,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "常见病症与医院就诊 (Common Symptoms & Hospital Visits)",
+    "text_type": "dialogue",
+    "title": "流感季节的发炎与头疼症状 (Inflammation and Headache Symptoms During Flu Season)",
+    "scenario": "A patient visits a clinic complaining of a severe headache, dizziness, and an inflamed throat during flu season, while the doctor examines their tongue and symptoms.",
+    "new_words": [
+      "流感",
+      "发病",
+      "症状",
+      "头疼",
+      "晕",
+      "发炎",
+      "舌头"
+    ]
+  },
+  {
+    "passage_id": "H6_7_2",
+    "unit": 7,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "常见病症与医院就诊 (Common Symptoms & Hospital Visits)",
+    "text_type": "dialogue",
+    "title": "外科伤口处理与住院护理 (Surgical Wound Care and Inpatient Nursing)",
+    "scenario": "In the surgical ward, a nurse pricks a finger for a blood test and dresses a swollen, painful wound on the patient's hands.",
+    "new_words": [
+      "外科",
+      "病房",
+      "伤口",
+      "肿",
+      "疼痛",
+      "扎",
+      "指头"
+    ]
+  },
+  {
+    "passage_id": "H6_7_3",
+    "unit": 7,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "常见病症与医院就诊 (Common Symptoms & Hospital Visits)",
+    "text_type": "passage",
+    "title": "儿科医疗与患者康复指南 (Pediatric Medical Care and Patient Recovery Guide)",
+    "scenario": "A hospital brochure outlines how pediatricians and medical staff provide medicine and treatment to patients, helping their condition improve until full recovery.",
+    "new_words": [
+      "儿科",
+      "患者",
+      "医药",
+      "药品",
+      "治病",
+      "病情",
+      "康复"
+    ]
+  },
+  {
+    "passage_id": "H6_8_1",
+    "unit": 8,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "人体机能与生命科学 (Human Anatomy, Immunity & Life Sciences)",
+    "text_type": "dialogue",
+    "title": "体检报告中的心肺与肝功能 (Heart, Lung, and Liver Functions in a Physical Exam)",
+    "scenario": "A physician reviews a physical checkup report with a patient, explaining how blood circulates through blood vessels to the heart, lungs, and liver to prevent heart disease.",
+    "new_words": [
+      "心脏",
+      "心脏病",
+      "肺",
+      "肝",
+      "血液",
+      "血管",
+      "疾病"
+    ]
+  },
+  {
+    "passage_id": "H6_8_2",
+    "unit": 8,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "人体机能与生命科学 (Human Anatomy, Immunity & Life Sciences)",
+    "text_type": "dialogue",
+    "title": "细胞免疫与抵抗细菌感染 (Cellular Immunity and Resisting Bacterial Infections)",
+    "scenario": "In a biology lab, two researchers discuss how human cells, cell membranes, and oxygen supply help the body resist invading bacteria and support tissue regeneration.",
+    "new_words": [
+      "细胞",
+      "膜",
+      "氧气",
+      "细菌",
+      "抵抗",
+      "再生",
+      "繁殖"
+    ]
+  },
+  {
+    "passage_id": "H6_8_3",
+    "unit": 8,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "人体机能与生命科学 (Human Anatomy, Immunity & Life Sciences)",
+    "text_type": "passage",
+    "title": "视力保护与强健体魄养成 (Vision Protection and Building a Robust Physique)",
+    "scenario": "A health column discusses preventing nearsightedness by resting the eyes and building a strong, well-balanced body through regular exercise with both hands and feet.",
+    "new_words": [
+      "近视",
+      "闭",
+      "两手",
+      "强壮",
+      "平衡",
+      "精",
+      "活着"
+    ]
+  },
+  {
+    "passage_id": "H6_9_1",
+    "unit": 9,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "急救互助与无障碍关怀 (First Aid, Disability Support & Public Care)",
+    "text_type": "dialogue",
+    "title": "突发事故现场的急救与救援 (First Aid and Rescue at an Emergency Scene)",
+    "scenario": "When an accident occurs, bystanders cry for help and rush to administer first aid to the wounded, working to prevent casualties and death before the rescue team arrives.",
+    "new_words": [
+      "出事",
+      "救命",
+      "急救",
+      "救援",
+      "伤员",
+      "伤亡",
+      "死亡"
+    ]
+  },
+  {
+    "passage_id": "H6_9_2",
+    "unit": 9,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "急救互助与无障碍关怀 (First Aid, Disability Support & Public Care)",
+    "text_type": "dialogue",
+    "title": "关爱盲人与残障人士出行 (Supporting Blind and Disabled People in Daily Travel)",
+    "scenario": "On a city bus, passengers yield their seats and assist a blind person and a disabled commuter, removing obstacles that cause inconvenience in public spaces.",
+    "new_words": [
+      "残疾",
+      "残疾人",
+      "盲人",
+      "不便",
+      "障碍",
+      "让座",
+      "协助"
+    ]
+  },
+  {
+    "passage_id": "H6_9_3",
+    "unit": 9,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "急救互助与无障碍关怀 (First Aid, Disability Support & Public Care)",
+    "text_type": "passage",
+    "title": "社会救助与慈善捐款行动 (Social Aid and Charitable Donation Campaigns)",
+    "scenario": "A community report highlights how citizens donate money and goods to assist impoverished families, expressing gratitude to benefactors who dedicate themselves to charity.",
+    "new_words": [
+      "救助",
+      "援助",
+      "捐",
+      "捐款",
+      "捐赠",
+      "捐助",
+      "恩人"
+    ]
+  },
+  {
+    "passage_id": "H6_10_1",
+    "unit": 10,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "情绪调节与人际化解 (Emotional Regulation & Resolving Misunderstandings)",
+    "text_type": "dialogue",
+    "title": "平复愤怒情绪与保持理智 (Calming Anger and Maintaining Rationality)",
+    "scenario": "After a heated argument at work, a friend advises a colleague not to get angry or lose their temper, urging them to stay rational, let go of frustration, and resolve the bad mood.",
+    "new_words": [
+      "情绪",
+      "愤怒",
+      "发怒",
+      "理智",
+      "化解",
+      "叹气",
+      "算了"
+    ]
+  },
+  {
+    "passage_id": "H6_10_2",
+    "unit": 10,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "情绪调节与人际化解 (Emotional Regulation & Resolving Misunderstandings)",
+    "text_type": "dialogue",
+    "title": "真诚道歉与请求朋友原谅 (Sincere Apology and Asking a Friend for Forgiveness)",
+    "scenario": "Realizing his mistake, a young man bows his head in embarrassment with a blushing face, apologizes sincerely for overlooking his friend's feelings, and asks for forgiveness.",
+    "new_words": [
+      "抱歉",
+      "道歉",
+      "原谅",
+      "低头",
+      "通红",
+      "忽略",
+      "误"
+    ]
+  },
+  {
+    "passage_id": "H6_10_3",
+    "unit": 10,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "情绪调节与人际化解 (Emotional Regulation & Resolving Misunderstandings)",
+    "text_type": "passage",
+    "title": "走出心灵阴影与排解孤独 (Stepping Out of Mental Shadows and Overcoming Loneliness)",
+    "scenario": "A psychological essay explores how people immersed in solitary worry and past shadows can heal their minds, let go of regrets, and rediscover inner ease.",
+    "new_words": [
+      "心灵",
+      "孤独",
+      "阴影",
+      "陷入",
+      "担忧",
+      "遗憾",
+      "自在"
+    ]
+  },
+  {
+    "passage_id": "H6_11_1",
+    "unit": 11,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "性格品行与人际态度 (Personality Traits, Attitude & Character)",
+    "text_type": "dialogue",
+    "title": "谦虚踏实与戒骄戒躁 (Staying Modest and Steady vs. Being Arrogant and Lazy)",
+    "scenario": "A mentor praises a young professional for being modest, attentive, and dependable, contrasting those qualities with people who are conceited, lazy, or picky.",
+    "new_words": [
+      "谦虚",
+      "踏实",
+      "用心",
+      "骄傲",
+      "懒",
+      "嫌",
+      "素质"
+    ]
+  },
+  {
+    "passage_id": "H6_11_2",
+    "unit": 11,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "性格品行与人际态度 (Personality Traits, Attitude & Character)",
+    "text_type": "dialogue",
+    "title": "尊重他人与克服偏见 (Respecting Others and Overcoming Prejudice)",
+    "scenario": "Two friends talk frankly about why one should never bully the weak or act ruthlessly, emphasizing the importance of respecting everyone and staying loyal.",
+    "new_words": [
+      "看得起",
+      "欺负",
+      "凶",
+      "狠",
+      "偏",
+      "忠心",
+      "说实话"
+    ]
+  },
+  {
+    "passage_id": "H6_11_3",
+    "unit": 11,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "性格品行与人际态度 (Personality Traits, Attitude & Character)",
+    "text_type": "passage",
+    "title": "自我认知与个人心愿的实现 (Self-Awareness and Fulfilling One's Heart's Desire)",
+    "scenario": "A reflective passage discusses how understanding one's true self, holding onto passion and wishes, and looking forward to goals bring a refreshing sense of fulfillment.",
+    "new_words": [
+      "自我",
+      "觉",
+      "心愿",
+      "意愿",
+      "盼望",
+      "激情",
+      "爽"
+    ]
+  },
+  {
+    "passage_id": "H6_12_1",
+    "unit": 12,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "惊喜奇遇与情感共鸣 (Unexpected Surprises & Emotional Resonance)",
+    "text_type": "dialogue",
+    "title": "意想不到的生日惊喜 (An Unexpected Birthday Surprise)",
+    "scenario": "Walking into the room, a student exclaims in amazement at a surprise party specially prepared by friends, admitting she never expected such a thoughtful gift.",
+    "new_words": [
+      "哇",
+      "惊喜",
+      "想不到",
+      "意想不到",
+      "不料",
+      "特意",
+      "特地"
+    ]
+  },
+  {
+    "passage_id": "H6_12_2",
+    "unit": 12,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "惊喜奇遇与情感共鸣 (Unexpected Surprises & Emotional Resonance)",
+    "text_type": "dialogue",
+    "title": "亲眼目睹奇观与内心崇拜 (Witnessing a Wonder with One's Own Eyes and Admiration)",
+    "scenario": "Two friends talk about witnessing an astonishing feat with their own eyes, expressing deep admiration and murmuring to themselves in awe at how wonderful it was.",
+    "new_words": [
+      "亲眼",
+      "惊人",
+      "崇拜",
+      "仰",
+      "不禁",
+      "自言自语",
+      "奇妙"
+    ]
+  },
+  {
+    "passage_id": "H6_12_3",
+    "unit": 12,
+    "module": "Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)",
+    "unit_title": "惊喜奇遇与情感共鸣 (Unexpected Surprises & Emotional Resonance)",
+    "text_type": "passage",
+    "title": "感人故事引发的深深共鸣 (Deep Resonance Sparked by a Touching Story)",
+    "scenario": "A book review describes how a tragic yet moving story about indomitable perseverance in brutal circumstances deeply touches readers.",
+    "new_words": [
+      "感人",
+      "打动",
+      "深深",
+      "悲惨",
+      "惨",
+      "残酷",
+      "顽强"
+    ]
+  },
+  {
+    "passage_id": "H6_13_1",
+    "unit": 13,
+    "module": "Module 3: Education, Academic Growth & Language Learning (教育求学与语言研习)",
+    "unit_title": "基础教育与升学考试 (Schooling, College Entrance & Examinations)",
+    "text_type": "dialogue",
+    "title": "从初等教育到高等学府的升学路 (From Elementary Education to Higher Education)",
+    "scenario": "An educational counselor explains the progression from literacy and elementary schooling to secondary and higher education under Ministry of Education guidelines.",
+    "new_words": [
+      "教育部",
+      "办学",
+      "识字",
+      "初等",
+      "中等",
+      "高等",
+      "入学"
+    ]
+  },
+  {
+    "passage_id": "H6_13_2",
+    "unit": 13,
+    "module": "Module 3: Education, Academic Growth & Language Learning (教育求学与语言研习)",
+    "unit_title": "基础教育与升学考试 (Schooling, College Entrance & Examinations)",
+    "text_type": "dialogue",
+    "title": "高考报名与考场规则叮嘱 (Registering for the Gaokao and Exam Room Reminders)",
+    "scenario": "A high school teacher reminds students registering for the college entrance exam to check their exam room location and prepare for both written and oral tests.",
+    "new_words": [
+      "升学",
+      "高考",
+      "报考",
+      "考场",
+      "考题",
+      "笔试",
+      "口试"
+    ]
+  },
+  {
+    "passage_id": "H6_13_3",
+    "unit": 13,
+    "module": "Module 3: Education, Academic Growth & Language Learning (教育求学与语言研习)",
+    "unit_title": "基础教育与升学考试 (Schooling, College Entrance & Examinations)",
+    "text_type": "passage",
+    "title": "必修课程复习与补课补考安排 (Compulsory Course Review, Make-Up Classes, and Resits)",
+    "scenario": "An academic notice outlines how students who miss compulsory classes can take extra tutoring lessons to solidify their foundation and avoid having to sit a make-up exam.",
+    "new_words": [
+      "必修",
+      "补课",
+      "补习",
+      "补考",
+      "巩固",
+      "扎实",
+      "免得"
+    ]
+  },
+  {
+    "passage_id": "H6_14_1",
+    "unit": 14,
+    "module": "Module 3: Education, Academic Growth & Language Learning (教育求学与语言研习)",
+    "unit_title": "课堂教学与师生传承 (Classroom Teaching, Mentorship & Self-Study)",
+    "text_type": "dialogue",
+    "title": "名师讲课与师生课堂互动 (A Master Teacher's Lecture and Classroom Interaction)",
+    "scenario": "During a lively seminar, teachers and students interact closely as the lecturer explains complex chapters, asks rhetorical questions, and corrects misconceptions.",
+    "new_words": [
+      "师生",
+      "讲课",
+      "解说",
+      "互动",
+      "章",
+      "纠正",
+      "反问"
+    ]
+  },
+  {
+    "passage_id": "H6_14_2",
+    "unit": 14,
+    "module": "Module 3: Education, Academic Growth & Language Learning (教育求学与语言研习)",
+    "unit_title": "课堂教学与师生传承 (Classroom Teaching, Mentorship & Self-Study)",
+    "text_type": "dialogue",
+    "title": "好学精神与高效自学方法 (Studious Spirit and Effective Self-Study Methods)",
+    "scenario": "Two trainees at a learning center share how studious learners use library books, pencils, and ballpoint pens to take notes and master skills through independent study.",
+    "new_words": [
+      "学员",
+      "好学",
+      "自学",
+      "学会",
+      "图书",
+      "铅笔",
+      "圆珠笔"
+    ]
+  },
+  {
+    "passage_id": "H6_14_3",
+    "unit": 14,
+    "module": "Module 3: Education, Academic Growth & Language Learning (教育求学与语言研习)",
+    "unit_title": "课堂教学与师生传承 (Classroom Teaching, Mentorship & Self-Study)",
+    "text_type": "passage",
+    "title": "名师收徒与学艺实践 (A Master Takes an Apprentice and Practical Lessons in Craftsmanship)",
+    "scenario": "A veteran master accepts a new apprentice, sharing insights on recognizing talent, emphasizing hands-on practice, and learning from other artisans' experience.",
+    "new_words": [
+      "大师",
+      "师父",
+      "徒弟",
+      "识",
+      "实践",
+      "借鉴"
+    ]
+  },
+  {
+    "passage_id": "H6_15_1",
+    "unit": 15,
+    "module": "Module 3: Education, Academic Growth & Language Learning (教育求学与语言研习)",
+    "unit_title": "多语研习与学术探讨 (Multilingual Studies & Academic Inquiry)",
+    "text_type": "dialogue",
+    "title": "开设法语、日语与西班牙语课程 (Opening Courses in French, Japanese, and Spanish)",
+    "scenario": "A language center director announces the opening of new courses in French, Japanese, and Spanish, explaining enrollment quotas and how to distinguish grammar patterns.",
+    "new_words": [
+      "开设",
+      "法语",
+      "日语",
+      "西班牙语",
+      "名额",
+      "区分",
+      "墨水"
+    ]
+  },
+  {
+    "passage_id": "H6_15_2",
+    "unit": 15,
+    "module": "Module 3: Education, Academic Growth & Language Learning (教育求学与语言研习)",
+    "unit_title": "多语研习与学术探讨 (Multilingual Studies & Academic Inquiry)",
+    "text_type": "dialogue",
+    "title": "学术协会座谈会与议题探讨 (Academic Association Symposium and Exploring Key Topics)",
+    "scenario": "At an academic association symposium, the association president opens discussions on key conference topics and listens attentively to scholars' insights.",
+    "new_words": [
+      "协会",
+      "会长",
+      "座谈会",
+      "议题",
+      "探讨",
+      "听取"
+    ]
+  },
+  {
+    "passage_id": "H6_15_3",
+    "unit": 15,
+    "module": "Module 3: Education, Academic Growth & Language Learning (教育求学与语言研习)",
+    "unit_title": "多语研习与学术探讨 (Multilingual Studies & Academic Inquiry)",
+    "text_type": "passage",
+    "title": "科研调研与论文稿件撰写 (Scientific Research, Field Surveys, and Drafting Papers)",
+    "scenario": "A guide for graduate researchers explains how to conduct field investigations, analyze core factors and intrinsic essence, and write a clear summary and manuscript draft.",
+    "new_words": [
+      "科研",
+      "调研",
+      "稿子",
+      "简介",
+      "核心",
+      "本质",
+      "因素"
+    ]
+  },
+  {
+    "passage_id": "H6_16_1",
+    "unit": 16,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "求职招聘与岗位职责 (Job Hunting, Recruitment & Workplace Duties)",
+    "text_type": "dialogue",
+    "title": "企业招聘与求职者聘请流程 (Corporate Recruitment and Hiring Job Seekers)",
+    "scenario": "An HR manager interviews a job seeker applying for an open post, explaining the personnel quota, job duties, and how the company selects and hires新人 newcomers.",
+    "new_words": [
+      "求职",
+      "招聘",
+      "聘请",
+      "选拔",
+      "岗位",
+      "编制",
+      "新人"
+    ]
+  },
+  {
+    "passage_id": "H6_16_2",
+    "unit": 16,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "求职招聘与岗位职责 (Job Hunting, Recruitment & Workplace Duties)",
+    "text_type": "dialogue",
+    "title": "白领与蓝领的薪水及补助待遇 (Salary and Subsidies for White-Collar and Blue-Collar Workers)",
+    "scenario": "Two colleagues compare the working conditions of white-collar office staff, blue-collar technicians, and migrant workers, discussing monthly salary, allowances, and overtime late at night.",
+    "new_words": [
+      "白领",
+      "蓝领",
+      "民工",
+      "薪水",
+      "补助",
+      "职责",
+      "开夜车"
+    ]
+  },
+  {
+    "passage_id": "H6_16_3",
+    "unit": 16,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "求职招聘与岗位职责 (Job Hunting, Recruitment & Workplace Duties)",
+    "text_type": "passage",
+    "title": "写字楼日常办公与档案管理 (Daily Office Work and File Management in an Office Building)",
+    "scenario": "An office administration manual describes working in a modern office building, using the printer, stamping official files, and submitting documents before the deadline.",
+    "new_words": [
+      "写字楼",
+      "办公",
+      "打印机",
+      "印",
+      "档案",
+      "档",
+      "提交"
+    ]
+  },
+  {
+    "passage_id": "H6_17_1",
+    "unit": 17,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "团队协作与企业管理 (Team Collaboration & Corporate Governance)",
+    "text_type": "dialogue",
+    "title": "总部高层的战略决策与分工 (Strategic Decision-Making and Division of Labor at Headquarters)",
+    "scenario": "At company headquarters, the CEO, director, and senior executives hold a meeting to make strategic decisions, appoint a project lead, and clarify the division of labor.",
+    "new_words": [
+      "总部",
+      "高层",
+      "总经理",
+      "总监",
+      "首席",
+      "决策",
+      "分工"
+    ]
+  },
+  {
+    "passage_id": "H6_17_2",
+    "unit": 17,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "团队协作与企业管理 (Team Collaboration & Corporate Governance)",
+    "text_type": "dialogue",
+    "title": "团队搭档的协调与业务运作 (Coordinating with Team Partners and Business Operations)",
+    "scenario": "Two work partners coordinate their team and workforce to keep business operations running smoothly, joining hands with industry peers to adopt better workflows.",
+    "new_words": [
+      "团队",
+      "队伍",
+      "搭档",
+      "协调",
+      "运作",
+      "同行",
+      "采纳"
+    ]
+  },
+  {
+    "passage_id": "H6_17_3",
+    "unit": 17,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "团队协作与企业管理 (Team Collaboration & Corporate Governance)",
+    "text_type": "passage",
+    "title": "企业重组整顿与内部监督 (Corporate Restructuring, Reorganization, and Internal Supervision)",
+    "scenario": "A business case study analyzes how a firm underwent restructuring and reorganization, strengthening internal supervision and inspection to eliminate defects.",
+    "new_words": [
+      "重组",
+      "整顿",
+      "整治",
+      "监督",
+      "审查",
+      "查看",
+      "缺陷"
+    ]
+  },
+  {
+    "passage_id": "H6_18_1",
+    "unit": 18,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "品牌策划与市场营销 (Brand Planning, Marketing & Trade Shows)",
+    "text_type": "dialogue",
+    "title": "推出全新品牌与市场定位策略 (Launching an All-New Brand and Market Positioning Strategy)",
+    "scenario": "A marketing planner and a designer discuss launching an all-new brand, defining its market positioning, creative tactics, and exterior appearance.",
+    "new_words": [
+      "推出",
+      "品牌",
+      "全新",
+      "定位",
+      "策划",
+      "策略",
+      "创意"
+    ]
+  },
+  {
+    "passage_id": "H6_18_2",
+    "unit": 18,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "品牌策划与市场营销 (Brand Planning, Marketing & Trade Shows)",
+    "text_type": "dialogue",
+    "title": "厂商参展与优质精品定价 (Manufacturers Exhibiting at a Trade Show and Pricing Premium Goods)",
+    "scenario": "Domestic manufacturers exhibiting at a trade fair showcase high-grade premium products and end products, discussing how to set prices for the shopping mall.",
+    "new_words": [
+      "厂商",
+      "参展",
+      "国产",
+      "高档",
+      "精品",
+      "优质",
+      "定价"
+    ]
+  },
+  {
+    "passage_id": "H6_18_3",
+    "unit": 18,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "品牌策划与市场营销 (Brand Planning, Marketing & Trade Shows)",
+    "text_type": "passage",
+    "title": "拓展销售渠道与仓库物流供给 (Expanding Sales Channels and Warehouse Logistics Supply)",
+    "scenario": "A trade report explains how businesses establish franchise alliances, expand distribution channels, and manage warehouse stockpiles to supply large quantities of finished goods.",
+    "new_words": [
+      "创办",
+      "加盟",
+      "渠道",
+      "仓库",
+      "储存",
+      "供给",
+      "成品"
+    ]
+  },
+  {
+    "passage_id": "H6_19_1",
+    "unit": 19,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "银行账户与个人理财 (Bank Accounts, ATM Services & Personal Finance)",
+    "text_type": "dialogue",
+    "title": "在取款机办理取款与手续费咨询 (Withdrawing Cash at an ATM and Asking About Service Fees)",
+    "scenario": "A customer consults bank staff at the counter window about opening an account, withdrawing cash at the ATM, exchanging foreign currency, and paying the processing fee.",
+    "new_words": [
+      "账户",
+      "账",
+      "取款机",
+      "取款",
+      "外币",
+      "手续费",
+      "收取"
+    ]
+  },
+  {
+    "passage_id": "H6_19_2",
+    "unit": 19,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "银行账户与个人理财 (Bank Accounts, ATM Services & Personal Finance)",
+    "text_type": "dialogue",
+    "title": "个人信用管理与按期还债 (Personal Credit Management and Repaying Debts on Time)",
+    "scenario": "A financial advisor reminds a client to check the loan amount for the current term before it falls due, maintaining good credit and avoiding overdue debt or voided vouchers.",
+    "new_words": [
+      "理财",
+      "信用",
+      "金额",
+      "债",
+      "本期",
+      "到期",
+      "作废"
+    ]
+  },
+  {
+    "passage_id": "H6_19_3",
+    "unit": 19,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "银行账户与个人理财 (Bank Accounts, ATM Services & Personal Finance)",
+    "text_type": "passage",
+    "title": "正确看待金钱财富与赚钱之道 (A Rational View of Money, Wealth, and Earning a Living)",
+    "scenario": "An economic commentary reflects on how ordinary people and wealthy individuals view money, earning a profit, Tipping in service industries, and measuring true value.",
+    "new_words": [
+      "金钱",
+      "赚",
+      "赚钱",
+      "富人",
+      "富有",
+      "小费",
+      "不值"
+    ]
+  },
+  {
+    "passage_id": "H6_20_1",
+    "unit": 20,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "股市投资与宏观经济 (Stock Market Investment & Macroeconomics)",
+    "text_type": "dialogue",
+    "title": "股东大会与股票上市波动 (Shareholders' Meeting and Stock Market Fluctuations)",
+    "scenario": "Two investors discuss a company floating on the stock market, analyzing why shareholders hold shares or speculate in stocks amid market index fluctuations and price drops.",
+    "new_words": [
+      "上市",
+      "股票",
+      "股",
+      "股东",
+      "炒股",
+      "持有",
+      "波动"
+    ]
+  },
+  {
+    "passage_id": "H6_20_2",
+    "unit": 20,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "股市投资与宏观经济 (Stock Market Investment & Macroeconomics)",
+    "text_type": "dialogue",
+    "title": "吸引外资与资产升值潜力 (Attracting Foreign Investment and Asset Appreciation Potential)",
+    "scenario": "Financial analysts optimistic about economic recovery discuss attracting foreign investment, issuing bonds and vouchers, and unlocking appreciation and value-added potential.",
+    "new_words": [
+      "金融",
+      "外资",
+      "券",
+      "升值",
+      "增值",
+      "看好",
+      "潜力"
+    ]
+  },
+  {
+    "passage_id": "H6_20_3",
+    "unit": 20,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "股市投资与宏观经济 (Stock Market Investment & Macroeconomics)",
+    "text_type": "passage",
+    "title": "经济复苏期的指数与产量增长 (Index and Output Growth During Economic Recovery)",
+    "scenario": "A quarterly economic report notes that industrial output and overall volume rose by several percentage points over the same period, signaling a thriving recovery from crisis.",
+    "new_words": [
+      "复苏",
+      "危机",
+      "指数",
+      "百分点",
+      "产量",
+      "总量",
+      "同期"
+    ]
+  },
+  {
+    "passage_id": "H6_21_1",
+    "unit": 21,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "商务谈判与合约签署 (Business Negotiation, Contracts & Dispute Resolution)",
+    "text_type": "dialogue",
+    "title": "面对面协商与签署正式合约 (Face-to-Face Consultation and Signing a Formal Contract)",
+    "scenario": "Representatives from two companies meet face to face to consult on contract clauses, reach a commitment, and sign a long-term agreement for mutual benefit.",
+    "new_words": [
+      "会见",
+      "面对面",
+      "协商",
+      "合约",
+      "约定",
+      "承诺",
+      "利"
+    ]
+  },
+  {
+    "passage_id": "H6_21_2",
+    "unit": 21,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "商务谈判与合约签署 (Business Negotiation, Contracts & Dispute Resolution)",
+    "text_type": "dialogue",
+    "title": "办事处成立与商业周期规划 (Establishing a Branch Office and Business Cycle Planning)",
+    "scenario": "A section chief at the industry and commerce bureau meets with a branch office manager to review medium-term and long-term plans up to the current cutoff date.",
+    "new_words": [
+      "工商",
+      "办事处",
+      "处长",
+      "时期",
+      "中期",
+      "长远",
+      "截至"
+    ]
+  },
+  {
+    "passage_id": "H6_21_3",
+    "unit": 21,
+    "module": "Module 4: Workplace, Business & Financial Management (职场商务与金融理财)",
+    "unit_title": "商务谈判与合约签署 (Business Negotiation, Contracts & Dispute Resolution)",
+    "text_type": "passage",
+    "title": "传统商业兴旺与市场竞争冲击 (Commercial Prosperity and the Impact of Market Competition)",
+    "scenario": "An industry review examines how emerging business models pound traditional malls, urging merchants to pioneer new paths out of difficulty and maintain flourishing growth.",
+    "new_words": [
+      "商城",
+      "新兴",
+      "冲击",
+      "出路",
+      "兴旺",
+      "昌盛",
+      "开创"
+    ]
+  },
+  {
+    "passage_id": "H6_22_1",
+    "unit": 22,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "互联网平台与数字通信 (Internet Platforms, Digital Media & Telecommunications)",
+    "text_type": "dialogue",
+    "title": "浏览网页与保护个人网络隐私 (Browsing Web Pages and Protecting Online Privacy)",
+    "scenario": "Two friends at an Internet cafe discuss browsing web pages on a social platform, leaving comments, and protecting personal privacy during data transmission.",
+    "new_words": [
+      "网页",
+      "平台",
+      "网吧",
+      "留言",
+      "隐私",
+      "传输",
+      "通讯"
+    ]
+  },
+  {
+    "passage_id": "H6_22_2",
+    "unit": 22,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "互联网平台与数字通信 (Internet Platforms, Digital Media & Telecommunications)",
+    "text_type": "dialogue",
+    "title": "拨打客服热线与电话通话 (Dialing a Service Hotline and Holding a Phone Call)",
+    "scenario": "A user dials the customer service hotline to consult an agent over the phone, receiving a prompt response and official notification before the service deadline.",
+    "new_words": [
+      "拨打",
+      "热线",
+      "通话",
+      "咨询",
+      "回应",
+      "通报",
+      "截止"
+    ]
+  },
+  {
+    "passage_id": "H6_22_3",
+    "unit": 22,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "互联网平台与数字通信 (Internet Platforms, Digital Media & Telecommunications)",
+    "text_type": "passage",
+    "title": "多媒体音像设备与屏幕调试 (Multimedia Audiovisual Equipment and Screen Calibration)",
+    "scenario": "A technical manual explains how to read the instruction book to operate a tape recorder, videotape, and multimedia screen while adjusting the sound volume.",
+    "new_words": [
+      "说明书",
+      "屏幕",
+      "多媒体",
+      "音像",
+      "录像",
+      "录音机",
+      "音量"
+    ]
+  },
+  {
+    "passage_id": "H6_23_1",
+    "unit": 23,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "高新科技与工业研发 (High-Tech Innovation, Machinery & Aerospace)",
+    "text_type": "dialogue",
+    "title": "高科技仪器研发与系统升级 (High-Tech Instrument R&D and System Upgrades)",
+    "scenario": "Engineers in an R&D center discuss innovating high-tech precision instruments, deploying new hardware configurations, and upgrading automated machinery.",
+    "new_words": [
+      "高科技",
+      "研发",
+      "革新",
+      "仪器",
+      "配置",
+      "升级",
+      "机械"
+    ]
+  },
+  {
+    "passage_id": "H6_23_2",
+    "unit": 23,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "高新科技与工业研发 (High-Tech Innovation, Machinery & Aerospace)",
+    "text_type": "dialogue",
+    "title": "机械故障排查与数据监测 (Troubleshooting Mechanical Malfunctions and Data Monitoring)",
+    "scenario": "When an industrial machine suffers an unusual malfunction, technicians use sensors to monitor and evaluate chemical elements and circuits to find the cause.",
+    "new_words": [
+      "故障",
+      "异常",
+      "监测",
+      "测定",
+      "元素",
+      "线路",
+      "查出"
+    ]
+  },
+  {
+    "passage_id": "H6_23_3",
+    "unit": 23,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "高新科技与工业研发 (High-Tech Innovation, Machinery & Aerospace)",
+    "text_type": "passage",
+    "title": "火箭飞船发射与宇航员太空探索 (Rocket and Spaceship Launches and Astronaut Space Exploration)",
+    "scenario": "A popular science article describes how astronauts aboard a spaceship launched by a carrier rocket enter orbit and explore the vast universe.",
+    "new_words": [
+      "火箭",
+      "飞船",
+      "宇航员",
+      "轨道",
+      "探索",
+      "广阔",
+      "无边"
+    ]
+  },
+  {
+    "passage_id": "H6_24_1",
+    "unit": 24,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "新闻传媒与公众舆论 (News Media, Journalism & Public Opinion)",
+    "text_type": "dialogue",
+    "title": "电视栏目主持人与热点播报 (TV Column Host and Broadcasting Hot Topics)",
+    "scenario": "A television host and a media producer discuss broadcasting a popular news column, analyzing public reaction and mainstream opinion on trending topics.",
+    "new_words": [
+      "传媒",
+      "报刊",
+      "栏目",
+      "主持人",
+      "播",
+      "热点",
+      "主流"
+    ]
+  },
+  {
+    "passage_id": "H6_24_2",
+    "unit": 24,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "新闻传媒与公众舆论 (News Media, Journalism & Public Opinion)",
+    "text_type": "dialogue",
+    "title": "拒绝媒体炒作与澄清网络传言 (Rejecting Media Hype and Clarifying Online Rumors)",
+    "scenario": "A spokesperson steps forward at a press briefing to disclose the truth, refuting media hype and baseless rumors that were disseminated online.",
+    "new_words": [
+      "发言人",
+      "出面",
+      "透露",
+      "传出",
+      "传言",
+      "炒作",
+      "焦点"
+    ]
+  },
+  {
+    "passage_id": "H6_24_3",
+    "unit": 24,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "新闻传媒与公众舆论 (News Media, Journalism & Public Opinion)",
+    "text_type": "passage",
+    "title": "公众评选投票与年度排行榜 (Public Voting Selection and Annual Rankings)",
+    "scenario": "An annual media survey invites the public to vote for their favorite works, generating strong feedback and a bestselling chart that wins wide recognition.",
+    "new_words": [
+      "公众",
+      "评选",
+      "投票",
+      "排行榜",
+      "反响",
+      "认同",
+      "出名"
+    ]
+  },
+  {
+    "passage_id": "H6_25_1",
+    "unit": 25,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "影视戏剧与舞台表演 (Film, Drama & Stage Performance)",
+    "text_type": "dialogue",
+    "title": "新剧上演与影迷追星热潮 (Staging a New Drama and Movie Fans' Enthusiasm)",
+    "scenario": "Two movie fans look at a promotional poster outside the theater, excited to watch a famous film star play the leading role in every episode of a new drama.",
+    "new_words": [
+      "剧",
+      "集",
+      "上演",
+      "海报",
+      "主角",
+      "影星",
+      "影迷"
+    ]
+  },
+  {
+    "passage_id": "H6_25_2",
+    "unit": 25,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "影视戏剧与舞台表演 (Film, Drama & Stage Performance)",
+    "text_type": "dialogue",
+    "title": "礼堂文艺演出与热烈掌声 (Cultural Performance in the Auditorium and Warm Applause)",
+    "scenario": "In the grand auditorium, performers and dancers come on stage to present a folk dance and traditional Chinese opera, winning thunderous applause.",
+    "new_words": [
+      "礼堂",
+      "艺人",
+      "上台",
+      "出场",
+      "舞蹈",
+      "戏曲",
+      "掌声"
+    ]
+  },
+  {
+    "passage_id": "H6_25_3",
+    "unit": 25,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "影视戏剧与舞台表演 (Film, Drama & Stage Performance)",
+    "text_type": "passage",
+    "title": "动画短片制作与武侠动作场景 (Animated Short Film Production and Wuxia Action Scenes)",
+    "scenario": "An animation director and sound designer review a fantasy action short film: evaluating combat scenes with swords and bows, accompanied by fierce choreography and thunderous sound effects.",
+    "new_words": [
+      "动画",
+      "短片",
+      "场景",
+      "剑",
+      "箭",
+      "响声",
+      "猛"
+    ]
+  },
+  {
+    "passage_id": "H6_26_1",
+    "unit": 26,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "音乐绘画与审美收藏 (Music, Fine Arts, Fashion & Collecting)",
+    "text_type": "dialogue",
+    "title": "古典乐曲演奏与动人歌词 (Performing Classical Music and Moving Lyrics)",
+    "scenario": "After a concert, two music lovers discuss how the musician performed a classical musical composition with a brisk tempo and how the famous singer sang the lyrics.",
+    "new_words": [
+      "古典",
+      "乐曲",
+      "演奏",
+      "奏",
+      "节奏",
+      "歌星",
+      "歌唱"
+    ]
+  },
+  {
+    "passage_id": "H6_26_2",
+    "unit": 26,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "音乐绘画与审美收藏 (Music, Fine Arts, Fashion & Collecting)",
+    "text_type": "dialogue",
+    "title": "时装设计师的审美与美容风尚 (Fashion Designers' Aesthetics and Beauty Trends)",
+    "scenario": "A fashion designer discusses how folk songs and painting inspire cool modern fashion, exquisite exterior patterns, and popular beauty treatments.",
+    "new_words": [
+      "歌词",
+      "民歌",
+      "绘画",
+      "设计师",
+      "时装",
+      "美容",
+      "酷"
+    ]
+  },
+  {
+    "passage_id": "H6_26_3",
+    "unit": 26,
+    "module": "Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)",
+    "unit_title": "音乐绘画与审美收藏 (Music, Fine Arts, Fashion & Collecting)",
+    "text_type": "passage",
+    "title": "精美珠宝收藏与真伪鉴定 (Collecting Exquisite Jewelry and Authenticating Antiques)",
+    "scenario": "An art column explains how collectors authenticate exquisite jewelry and cultural relics, evaluating their form, pattern, and exterior appearance while rejecting pirated copies.",
+    "new_words": [
+      "珠宝",
+      "精美",
+      "收藏",
+      "鉴定",
+      "外观",
+      "形",
+      "盗版"
+    ]
+  },
+  {
+    "passage_id": "H6_27_1",
+    "unit": 27,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "体育赛事与竞技运动 (Sports Competitions, Athletics & Ball Games)",
+    "text_type": "dialogue",
+    "title": "报名参加田径长跑与跳水大赛 (Entering the Track-and-Field Distance Running and Diving Contest)",
+    "scenario": "Two athletes at the sports arena prepare to compete in a major tournament, discussing track-and-field long-distance running, diving, and winning a bronze medal.",
+    "new_words": [
+      "参赛",
+      "大赛",
+      "赛",
+      "赛场",
+      "场馆",
+      "田径",
+      "长跑"
+    ]
+  },
+  {
+    "passage_id": "H6_27_2",
+    "unit": 27,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "体育赛事与竞技运动 (Sports Competitions, Athletics & Ball Games)",
+    "text_type": "dialogue",
+    "title": "球星单双打半决赛的精彩对决 (Thrilling Singles and Doubles Semifinals featuring Sports Stars)",
+    "scenario": "Spectators watch a league semifinal match where a star player uses a new racket to compete in both singles and doubles, while a child kicks a rubber ball nearby.",
+    "new_words": [
+      "跳水",
+      "铜牌",
+      "联赛",
+      "半决赛",
+      "单打",
+      "双打",
+      "球拍"
+    ]
+  },
+  {
+    "passage_id": "H6_27_3",
+    "unit": 27,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "体育赛事与竞技运动 (Sports Competitions, Athletics & Ball Games)",
+    "text_type": "passage",
+    "title": "赛场规则与高手竞技风采 (Competition Rules and the Poise of Top Athletes)",
+    "scenario": "A sports commentary describes how ball game players and martial arts experts show agile movements on the field without committing fouls.",
+    "new_words": [
+      "球员",
+      "球星",
+      "皮球",
+      "踢",
+      "高手",
+      "犯规",
+      "灵活"
+    ]
+  },
+  {
+    "passage_id": "H6_28_1",
+    "unit": 28,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "文娱休闲与传统佳节 (Cultural Recreation, Games & Traditional Festivals)",
+    "text_type": "dialogue",
+    "title": "周末文娱活动与打牌游戏 (Weekend Cultural Recreation, Card Games, and Consoles)",
+    "scenario": "Friends gathering on a holiday discuss ways to pass the time and have fun, choosing between playing cards or video game consoles while warning against gambling.",
+    "new_words": [
+      "娱乐",
+      "文娱",
+      "打发",
+      "打牌",
+      "游戏机",
+      "赌",
+      "赌博"
+    ]
+  },
+  {
+    "passage_id": "H6_28_2",
+    "unit": 28,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "文娱休闲与传统佳节 (Cultural Recreation, Games & Traditional Festivals)",
+    "text_type": "dialogue",
+    "title": "清明节、端午节与圣诞节习俗 (Customs of Qingming, Dragon Boat Festival, and Christmas)",
+    "scenario": "International students compare festival holidays across cultures, talking about Tomb Sweeping Day, Dragon Boat Festival, Christmas, and setting off festive fireworks and firecrackers.",
+    "new_words": [
+      "节假日",
+      "假日",
+      "清明节",
+      "端午节",
+      "圣诞节",
+      "烟花",
+      "炮"
+    ]
+  },
+  {
+    "passage_id": "H6_28_3",
+    "unit": 28,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "文娱休闲与传统佳节 (Cultural Recreation, Games & Traditional Festivals)",
+    "text_type": "passage",
+    "title": "传统庆典仪式与吉祥祝福 (Traditional Celebration Ceremonies and Auspicious Wishes)",
+    "scenario": "A cultural article describes traditional celebration ceremonies where people express auspicious wishes for good fortune and prosperity in the coming year.",
+    "new_words": [
+      "仪式",
+      "吉祥",
+      "吉利",
+      "祝愿",
+      "少儿",
+      "活跃",
+      "盛行"
+    ]
+  },
+  {
+    "passage_id": "H6_29_1",
+    "unit": 29,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "观光旅游与名胜古迹 (Sightseeing, Scenic Spots & Cultural Heritage)",
+    "text_type": "dialogue",
+    "title": "长假出游行程与旅店预订 (Long Vacation Travel Itinerary and Booking a Small Hotel)",
+    "scenario": "Before a long vacation, two travelers plan their round-trip itinerary, make an advance reservation at a cozy inn, and prepare to go sightseeing at scenic attractions.",
+    "new_words": [
+      "长假",
+      "出行",
+      "外出",
+      "趟",
+      "行程",
+      "预约",
+      "旅店"
+    ]
+  },
+  {
+    "passage_id": "H6_29_2",
+    "unit": 29,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "观光旅游与名胜古迹 (Sightseeing, Scenic Spots & Cultural Heritage)",
+    "text_type": "dialogue",
+    "title": "游览名胜古迹与壮观古塔 (Visiting Historic Sites and a Magnificent Ancient Pagoda)",
+    "scenario": "Tourists strolling through a famous scenic spot admire magnificent ancient architecture, stone pillars, and a towering historic pagoda while taking in the grand view.",
+    "new_words": [
+      "景点",
+      "名胜",
+      "观光",
+      "游人",
+      "壮观",
+      "宏大",
+      "塔"
+    ]
+  },
+  {
+    "passage_id": "H6_29_3",
+    "unit": 29,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "观光旅游与名胜古迹 (Sightseeing, Scenic Spots & Cultural Heritage)",
+    "text_type": "passage",
+    "title": "中华名胜游览与海外同胞聚首 (Touring National Landmarks and Overseas Compatriots Reunion)",
+    "scenario": "Overseas Chinese compatriots and domestic visitors tour China's magnificent historic landmarks: gathering in the capital to watch the national flag rise to the national anthem, celebrating cultural heritage across all ethnic groups.",
+    "new_words": [
+      "中华",
+      "祖国",
+      "国旗",
+      "国歌",
+      "族",
+      "同胞",
+      "海外"
+    ]
+  },
+  {
+    "passage_id": "H6_30_1",
+    "unit": 30,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "铁路民航与水路交通 (Railways, Aviation & Maritime Transport)",
+    "text_type": "dialogue",
+    "title": "火车站台候车与卧铺退票 (Waiting on the Station Platform and Refunding a Sleeper Ticket)",
+    "scenario": "At the railway station, a traveler passes through the security check, compares express, fast, and slow trains, and asks at the window how to refund a sleeper ticket before seeing a friend off.",
+    "new_words": [
+      "安检",
+      "站台",
+      "窗口",
+      "特快",
+      "快车",
+      "慢车",
+      "卧铺"
+    ]
+  },
+  {
+    "passage_id": "H6_30_2",
+    "unit": 30,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "铁路民航与水路交通 (Railways, Aviation & Maritime Transport)",
+    "text_type": "dialogue",
+    "title": "客车晕车与沿途风景 (Carsickness on a Passenger Coach and Scenery Along the Way)",
+    "scenario": "After seeing off a friend, a traveler riding a long-distance passenger coach feels carsick along the way, but cheers up upon arriving at the destination.",
+    "new_words": [
+      "退票",
+      "送行",
+      "客车",
+      "晕车",
+      "一路上",
+      "抵达",
+      "远方"
+    ]
+  },
+  {
+    "passage_id": "H6_30_3",
+    "unit": 30,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "铁路民航与水路交通 (Railways, Aviation & Maritime Transport)",
+    "text_type": "passage",
+    "title": "港口船只远航与飞行员翱翔 (Harbor Vessels Sailing and Pilots Soaring in the Sky)",
+    "scenario": "A transportation feature portrays captains and crew members steering vessels out of busy ports to cross the sea, alongside airline pilots flying helicopters.",
+    "new_words": [
+      "港口",
+      "船只",
+      "船长",
+      "船员",
+      "渡",
+      "飞行员",
+      "直升机"
+    ]
+  },
+  {
+    "passage_id": "H6_31_1",
+    "unit": 31,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "城市道路与车辆出行 (Urban Roads, Vehicles & Traffic Flow)",
+    "text_type": "dialogue",
+    "title": "车展看车与机动车牌照办理 (Visiting an Auto Show and Registering a License Plate)",
+    "scenario": "At a motor show, a buyer inspects electric-powered motor vehicles and trolleybuses, asking about license plate registration, car numbers, and vehicle remodeling.",
+    "new_words": [
+      "车展",
+      "机动车",
+      "电动",
+      "电车",
+      "车牌",
+      "车号",
+      "改装"
+    ]
+  },
+  {
+    "passage_id": "H6_31_2",
+    "unit": 31,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "城市道路与车辆出行 (Urban Roads, Vehicles & Traffic Flow)",
+    "text_type": "dialogue",
+    "title": "早晚高峰路况与修车经历 (Rush-Hour Road Conditions and Repairing a Vehicle)",
+    "scenario": "During rush hour, a driver passing by the main avenue finds the road blocked, turns at the corner to repair a flat tire, and waits for traffic to flow smoothly again.",
+    "new_words": [
+      "高峰",
+      "大道",
+      "大街",
+      "通行",
+      "不通",
+      "畅通",
+      "修车"
+    ]
+  },
+  {
+    "passage_id": "H6_31_3",
+    "unit": 31,
+    "module": "Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)",
+    "unit_title": "城市道路与车辆出行 (Urban Roads, Vehicles & Traffic Flow)",
+    "text_type": "passage",
+    "title": "从传统马车到现代桥梁道路 (From Traditional Horse Carriages to Modern Bridges and Roads)",
+    "scenario": "An urban history article traces how winding country paths used by horse-drawn carriages evolved into wide modern avenues with newly opened bridges and smooth intersections.",
+    "new_words": [
+      "马车",
+      "桥梁",
+      "开通",
+      "宽阔",
+      "阔",
+      "弯曲",
+      "拐"
+    ]
+  },
+  {
+    "passage_id": "H6_32_1",
+    "unit": 32,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "山川海洋与自然奇观 (Mountains, Oceans & Natural Landscapes)",
+    "text_type": "dialogue",
+    "title": "户外登山与探访山谷山峰 (Outdoor Mountaineering and Exploring Valleys and Peaks)",
+    "scenario": "Hikers gearing up for an outdoor trek climb a steep hillside slope, traverse a deep valley toward the mountain peak, and spot a clear landscape in the distance.",
+    "new_words": [
+      "户外",
+      "装备",
+      "山峰",
+      "山谷",
+      "山坡",
+      "坡",
+      "景"
+    ]
+  },
+  {
+    "passage_id": "H6_32_2",
+    "unit": 32,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "山川海洋与自然奇观 (Mountains, Oceans & Natural Landscapes)",
+    "text_type": "dialogue",
+    "title": "沿海岛屿与海底世界探秘 (Coastal Islands and Exploring the Undersea World)",
+    "scenario": "Visitors touring a coastal bay and island watch ocean waves roll across the sea and take a submersible tour to observe the bottom of the sea.",
+    "new_words": [
+      "海洋",
+      "沿海",
+      "海湾",
+      "岛",
+      "海浪",
+      "波浪",
+      "海底"
+    ]
+  },
+  {
+    "passage_id": "H6_32_3",
+    "unit": 32,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "山川海洋与自然奇观 (Mountains, Oceans & Natural Landscapes)",
+    "text_type": "passage",
+    "title": "昼夜更替与四季时节之美 (The Cycle of Day and Night and the Beauty of the Seasons)",
+    "scenario": "A nature essay depicts the changing seasons under the blue sky, from sunshine illuminating the earth to dusk, dark night, and plum blossoms blooming in winter.",
+    "new_words": [
+      "蓝天",
+      "照耀",
+      "傍晚",
+      "昏",
+      "黑夜",
+      "时节",
+      "梅花"
+    ]
+  },
+  {
+    "passage_id": "H6_33_1",
+    "unit": 33,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "气象灾害与应急撤离 (Weather Disasters, Floods & Emergency Evacuation)",
+    "text_type": "dialogue",
+    "title": "乌云密布与暴风雨前的防范 (Dark Clouds Gathering and Precautions Before a Storm)",
+    "scenario": "As dark clouds cover the sky and fierce winds blow, residents keep a lookout for the approaching rainstorm, storm, and low temperatures.",
+    "new_words": [
+      "乌云",
+      "布满",
+      "刮",
+      "暴雨",
+      "暴风雨",
+      "风暴",
+      "低温"
+    ]
+  },
+  {
+    "passage_id": "H6_33_2",
+    "unit": 33,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "气象灾害与应急撤离 (Weather Disasters, Floods & Emergency Evacuation)",
+    "text_type": "dialogue",
+    "title": "洪水来袭时的应急撤离与重建 (Emergency Evacuation and Reconstruction During a Flood)",
+    "scenario": "When a sudden flood threatens a riverside town, authorities organize an emergency evacuation to move villagers away from danger and later start post-disaster reconstruction.",
+    "new_words": [
+      "洪水",
+      "险",
+      "威胁",
+      "防范",
+      "应急",
+      "撤离",
+      "重建"
+    ]
+  },
+  {
+    "passage_id": "H6_33_3",
+    "unit": 33,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "气象灾害与应急撤离 (Weather Disasters, Floods & Emergency Evacuation)",
+    "text_type": "passage",
+    "title": "工业爆燃事故与消防扑救 (Industrial Explosion Accidents and Firefighting Rescue)",
+    "scenario": "A safety bulletin reports how firefighters rushed to extinguish a dangerous blast caused by explosives, preventing further destruction and keeping people away from the site.",
+    "new_words": [
+      "爆炸",
+      "爆",
+      "炸药",
+      "炸弹",
+      "扑",
+      "灭",
+      "毁"
+    ]
+  },
+  {
+    "passage_id": "H6_34_1",
+    "unit": 34,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "乡村农牧与野生生态 (Rural Agriculture, Livestock & Wildlife Ecology)",
+    "text_type": "dialogue",
+    "title": "探访村庄果树与农田水井 (Visiting Village Fruit Trees, Farmland, and Water Wells)",
+    "scenario": "Walking through a peaceful rural village, visitors see farmland, an old water well, and fruit trees with lush branches growing in natural surroundings.",
+    "new_words": [
+      "村庄",
+      "田",
+      "园",
+      "井",
+      "果树",
+      "枝",
+      "天然"
+    ]
+  },
+  {
+    "passage_id": "H6_34_2",
+    "unit": 34,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "乡村农牧与野生生态 (Rural Agriculture, Livestock & Wildlife Ecology)",
+    "text_type": "dialogue",
+    "title": "农场饲养奶牛母鸡与野生动物保护 (Raising Dairy Cows and Hens on a Farm and Protecting Wildlife)",
+    "scenario": "A farmer feeding grain to dairy cows, roosters, and hens explains why people must never capture undomesticated wild animals in the open plains.",
+    "new_words": [
+      "奶牛",
+      "公鸡",
+      "母鸡",
+      "料",
+      "野",
+      "野生",
+      "捕"
+    ]
+  },
+  {
+    "passage_id": "H6_34_3",
+    "unit": 34,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "乡村农牧与野生生态 (Rural Agriculture, Livestock & Wildlife Ecology)",
+    "text_type": "passage",
+    "title": "清洁能源利用与生态循环 (Clean Energy Utilization and Ecological Cycles)",
+    "scenario": "An environmental report discusses how solar energy, power generation, and mineral resource conservation reduce energy consumption and promote sustainable ecological cycles.",
+    "new_words": [
+      "太阳能",
+      "电力",
+      "发电",
+      "矿",
+      "消耗",
+      "循环",
+      "常年"
+    ]
+  },
+  {
+    "passage_id": "H6_35_1",
+    "unit": 35,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "城乡发展与市政建设 (Urban-Rural Development & Municipal Construction)",
+    "text_type": "dialogue",
+    "title": "都市城区拆迁与城镇绿化 (Metropolitan Demolition, Relocation, and Urban Greening)",
+    "scenario": "City residents discuss how urban-rural integration, old neighborhood relocation, and street greening have transformed metropolitan areas and small towns.",
+    "new_words": [
+      "都市",
+      "城区",
+      "城镇",
+      "镇",
+      "城乡",
+      "拆迁",
+      "绿化"
+    ]
+  },
+  {
+    "passage_id": "H6_35_2",
+    "unit": 35,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "城乡发展与市政建设 (Urban-Rural Development & Municipal Construction)",
+    "text_type": "dialogue",
+    "title": "市政管道铺设与水泥施工 (Municipal Pipeline Laying and Cement Construction)",
+    "scenario": "Construction workers dig trenches in the mud, use cement and poles to build a sturdy frame, and lay underground water pipelines.",
+    "new_words": [
+      "水泥",
+      "泥",
+      "管道",
+      "挖",
+      "钻",
+      "搭",
+      "杆"
+    ]
+  },
+  {
+    "passage_id": "H6_35_3",
+    "unit": 35,
+    "module": "Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)",
+    "unit_title": "城乡发展与市政建设 (Urban-Rural Development & Municipal Construction)",
+    "text_type": "passage",
+    "title": "街头清洁工的辛勤付出与市民文明 (Street Cleaners' Hard Work and Civic Civility)",
+    "scenario": "A civic tribute praises sanitation workers who sweep city streets day and night and pick up litter, calling on city residents to cherish their hometown environment.",
+    "new_words": [
+      "市民",
+      "街头",
+      "清洁工",
+      "日夜",
+      "捡",
+      "本地",
+      "本土"
+    ]
+  },
+  {
+    "passage_id": "H6_36_1",
+    "unit": 36,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "治安防范与打击犯罪 (Public Security, Policing & Combating Crime)",
+    "text_type": "dialogue",
+    "title": "公安民警破获走私与吸毒案件 (Police Officers Cracking Smuggling and Drug Cases)",
+    "scenario": "Public security police officers arrest criminals involved in smuggling and narcotics, confiscating illegal drugs and stolen goods to eradicate crime.",
+    "new_words": [
+      "公安",
+      "民警",
+      "犯罪",
+      "罪",
+      "罪恶",
+      "毒品",
+      "吸毒"
+    ]
+  },
+  {
+    "passage_id": "H6_36_2",
+    "unit": 36,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "治安防范与打击犯罪 (Public Security, Policing & Combating Crime)",
+    "text_type": "dialogue",
+    "title": "抓捕强盗凶手与揭露阴谋 (Capturing Robbers and Perpetrators and Exposing a Plot)",
+    "scenario": "Detectives foil a robber's attempt to deceive victims, exposing a hidden conspiracy and capturing the perpetrator before anyone is taken in.",
+    "new_words": [
+      "走私",
+      "没收",
+      "强盗",
+      "凶手",
+      "捉",
+      "企图",
+      "阴谋"
+    ]
+  },
+  {
+    "passage_id": "H6_36_3",
+    "unit": 36,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "治安防范与打击犯罪 (Public Security, Policing & Combating Crime)",
+    "text_type": "passage",
+    "title": "严防诈骗上当与关押违法分子 (Preventing Fraud and Imprisoning Lawbreakers)",
+    "scenario": "A legal awareness article warns citizens how swindlers try to deceive people, explaining how lawbreakers who commit violent offenses are locked in prison.",
+    "new_words": [
+      "上当",
+      "蒙",
+      "犯",
+      "暴力",
+      "挨打",
+      "牢",
+      "暴露"
+    ]
+  },
+  {
+    "passage_id": "H6_37_1",
+    "unit": 37,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "法庭诉讼与维权公正 (Court Litigation, Lawsuits & Legal Rights)",
+    "text_type": "dialogue",
+    "title": "民事纠纷起诉与法庭打官司 (Filing a Lawsuit Over a Civil Dispute and Going to Court)",
+    "scenario": "Unable to settle a property dispute privately, the plaintiff decides to sue the defendant and go to court so the judge can render a fair verdict.",
+    "new_words": [
+      "纠纷",
+      "官司",
+      "打官司",
+      "起诉",
+      "原告",
+      "被告",
+      "法庭"
+    ]
+  },
+  {
+    "passage_id": "H6_37_2",
+    "unit": 37,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "法庭诉讼与维权公正 (Court Litigation, Lawsuits & Legal Rights)",
+    "text_type": "dialogue",
+    "title": "保护合法权利与追究侵权责任 (Protecting Legitimate Rights and Investigating Infringement)",
+    "scenario": "A lawyer explains how the law protects legitimate rights, personal reputation, and human rights, investigating and holding accountable anyone who infringes on others.",
+    "new_words": [
+      "判",
+      "权",
+      "人权",
+      "正当",
+      "名誉",
+      "侵犯",
+      "追究"
+    ]
+  },
+  {
+    "passage_id": "H6_37_3",
+    "unit": 37,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "法庭诉讼与维权公正 (Court Litigation, Lawsuits & Legal Rights)",
+    "text_type": "passage",
+    "title": "依法允许与撤销无效行政决定 (Permitting by Law and Revoking Invalid Administrative Decisions)",
+    "scenario": "An administrative law overview explains how government agencies issue permits, prohibit unlawful interference, and revoke invalid decisions.",
+    "new_words": [
+      "允许",
+      "止",
+      "干涉",
+      "撤销",
+      "无效",
+      "涉及",
+      "公"
+    ]
+  },
+  {
+    "passage_id": "H6_38_1",
+    "unit": 38,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "公共政策与国际外交 (Public Policy, Governance & International Diplomacy)",
+    "text_type": "dialogue",
+    "title": "新政策出台与税收试点改革 (Introducing New Policies and Tax Pilot Reforms)",
+    "scenario": "A bureau chief and deputy director discuss rolling out a new tax policy, launching a local pilot scheme, and listening to public opinion.",
+    "new_words": [
+      "政策",
+      "出台",
+      "税",
+      "试点",
+      "民意",
+      "司长",
+      "副"
+    ]
+  },
+  {
+    "passage_id": "H6_38_2",
+    "unit": 38,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "公共政策与国际外交 (Public Policy, Governance & International Diplomacy)",
+    "text_type": "dialogue",
+    "title": "政党选举、国会与民主政治 (Political Party Elections, Congress, and Governance)",
+    "scenario": "Two political science students discuss how political parties, elections, congressional debates, and political power operate across different systems.",
+    "new_words": [
+      "党",
+      "政党",
+      "选举",
+      "国会",
+      "民主",
+      "政权",
+      "权力"
+    ]
+  },
+  {
+    "passage_id": "H6_38_3",
+    "unit": 38,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "公共政策与国际外交 (Public Policy, Governance & International Diplomacy)",
+    "text_type": "passage",
+    "title": "首脑峰会与大使出访交流 (Summit Meetings and Ambassadors Traveling on Official Visits)",
+    "scenario": "A diplomatic report covers a state leader and prime minister attending an international summit alongside an ambassador and delegation to enhance foreign relations.",
+    "new_words": [
+      "领袖",
+      "首脑",
+      "首相",
+      "峰会",
+      "大使",
+      "出访",
+      "一行"
+    ]
+  },
+  {
+    "passage_id": "H6_39_1",
+    "unit": 39,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "国防军事与历史风云 (National Defense, Military Affairs & Historical Events)",
+    "text_type": "dialogue",
+    "title": "海陆空三军建设与国防军事 (Building the Land, Sea, and Air Forces and National Defense)",
+    "scenario": "Visiting a military museum, a veteran explains the history of the armed forces, including the ground army, navy warships, and air force.",
+    "new_words": [
+      "军事",
+      "军队",
+      "部队",
+      "陆军",
+      "海军",
+      "军舰",
+      "空军"
+    ]
+  },
+  {
+    "passage_id": "H6_39_2",
+    "unit": 39,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "国防军事与历史风云 (National Defense, Military Affairs & Historical Events)",
+    "text_type": "dialogue",
+    "title": "将军指挥作战与战略战术运用 (A General Commanding Combat and Applying Strategy and Tactics)",
+    "scenario": "In a historical documentary, a general and his comrades-in-arms devise strategy and tactics on the battlefield to defend their position and repel an attack.",
+    "new_words": [
+      "将军",
+      "战友",
+      "战场",
+      "战略",
+      "战术",
+      "作战",
+      "防守"
+    ]
+  },
+  {
+    "passage_id": "H6_39_3",
+    "unit": 39,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "国防军事与历史风云 (National Defense, Military Affairs & Historical Events)",
+    "text_type": "passage",
+    "title": "反抗压迫的英雄斗争与烈士墓 (Heroic Struggles Against Oppression and Martyrs' Tombs)",
+    "scenario": "A historical tribute commemorates national heroes who fought against brutal oppression, sacrificed their lives on the front lines, and rest in a memorial tomb.",
+    "new_words": [
+      "压迫",
+      "反抗",
+      "斗争",
+      "对抗",
+      "英雄",
+      "牺牲",
+      "墓"
+    ]
+  },
+  {
+    "passage_id": "H6_40_1",
+    "unit": 40,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "宗教、信仰与王朝 (Religion, Belief & Dynasties)",
+    "text_type": "dialogue",
+    "title": "寺庙与教堂 (Temples and Churches)",
+    "scenario": "A traveller and an architect visit three historic buildings in one city: a Buddhist temple with its statue of the Buddha, a Daoist shrine, and a Christian church, discussing religious heritage and daily spiritual life.",
+    "new_words": [
+      "寺",
+      "教堂",
+      "佛",
+      "佛教",
+      "道教",
+      "宗教"
+    ]
+  },
+  {
+    "passage_id": "H6_40_2",
+    "unit": 40,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "宗教、信仰与王朝 (Religion, Belief & Dynasties)",
+    "text_type": "dialogue",
+    "title": "上帝与天堂 (God and Heaven)",
+    "scenario": "Two philosophy students explore comparative religion: Christianity, the idea of God, the promise of heaven, the nature of belief, and why wisdom is not the same as faith.",
+    "new_words": [
+      "基督教",
+      "上帝",
+      "天堂",
+      "信仰",
+      "哲学",
+      "智慧"
+    ]
+  },
+  {
+    "passage_id": "H6_40_3",
+    "unit": 40,
+    "module": "Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)",
+    "unit_title": "宗教、信仰与王朝 (Religion, Belief & Dynasties)",
+    "text_type": "passage",
+    "title": "从皇帝到国王 (From Emperor to King)",
+    "scenario": "A history column walks through ancient imperial palaces: the emperor's throne room, foreign kings and queens, princes and princesses, and the court rituals of earlier dynasties.",
+    "new_words": [
+      "皇帝",
+      "国王",
+      "王后",
+      "王子",
+      "公主",
+      "宫"
+    ]
+  },
+  {
+    "passage_id": "H6_41_1",
+    "unit": 41,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "中外融合与公私奉献 (Cross-Cultural Integration & Dedication to the Public Good)",
+    "text_type": "dialogue",
+    "title": "中外文化融合与增进对外交流 (Chinese-Foreign Cultural Integration and Enhancing Foreign Exchanges)",
+    "scenario": "Organizers of an international cultural festival discuss integrating domestic and foreign artistic traditions to enhance mutual understanding across the world.",
+    "new_words": [
+      "中外",
+      "对外",
+      "内外",
+      "天下",
+      "融合",
+      "融入",
+      "增进"
+    ]
+  },
+  {
+    "passage_id": "H6_41_2",
+    "unit": 41,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "中外融合与公私奉献 (Cross-Cultural Integration & Dedication to the Public Good)",
+    "text_type": "dialogue",
+    "title": "杰出先锋的无私奉献与贡献 (Selfless Dedication and Contributions of Outstanding Pioneers)",
+    "scenario": "Colleagues praise an outstanding pioneer who has made glorious contributions in an ordinary post, showing yüksek awareness and full devotion.",
+    "new_words": [
+      "杰出",
+      "先锋",
+      "光辉",
+      "平凡",
+      "奉献",
+      "贡献",
+      "觉悟"
+    ]
+  },
+  {
+    "passage_id": "H6_41_3",
+    "unit": 41,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "中外融合与公私奉献 (Cross-Cultural Integration & Dedication to the Public Good)",
+    "text_type": "passage",
+    "title": "大国工匠精神与全力打造精品 (Craftsmanship Spirit and All-Out Efforts to Build Excellence)",
+    "scenario": "An editorial highlights how government agencies and enterprises vigorously support public initiatives, going all out to build optimal systems and deepen reform.",
+    "new_words": [
+      "机关",
+      "大力",
+      "全力",
+      "打造",
+      "构建",
+      "深化",
+      "强化"
+    ]
+  },
+  {
+    "passage_id": "H6_42_1",
+    "unit": 42,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "军事行动与攻防较量 (Deployment, Seizure & Tactical Operations)",
+    "text_type": "dialogue",
+    "title": "驻军出动与占据有利地形 (Stationed Troops Setting Off and Occupying Favorable Terrain)",
+    "scenario": "In a tactical drill, stationed personnel are dispatched to set off at dawn, occupy the high ground, and launch a coordinated assault to eradicate the target.",
+    "new_words": [
+      "驻",
+      "派出",
+      "出动",
+      "发起",
+      "攻击",
+      "占据",
+      "消灭"
+    ]
+  },
+  {
+    "passage_id": "H6_42_2",
+    "unit": 42,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "军事行动与攻防较量 (Deployment, Seizure & Tactical Operations)",
+    "text_type": "dialogue",
+    "title": "激烈争夺与最终夺取胜利 (Fierce Contest and Finally Seizing Victory)",
+    "scenario": "Two commentators review a fierce competition where the team endured heavy pressure, contested every point, and finally seized the championship.",
+    "new_words": [
+      "争夺",
+      "夺取",
+      "夺",
+      "遭到",
+      "遭受",
+      "遭遇",
+      "最终"
+    ]
+  },
+  {
+    "passage_id": "H6_42_3",
+    "unit": 42,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "军事行动与攻防较量 (Deployment, Seizure & Tactical Operations)",
+    "text_type": "passage",
+    "title": "危机应对与扭转不利局面 (Crisis Response and Turning Around an Unfavorable Situation)",
+    "scenario": "A strategic analysis explains how organizations respond to sudden crises, avoid losing their initiative, and usher in a turn for the better.",
+    "new_words": [
+      "应对",
+      "支援",
+      "丧失",
+      "好转",
+      "迎来",
+      "必将",
+      "强势"
+    ]
+  },
+  {
+    "passage_id": "H6_43_1",
+    "unit": 43,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "肢体动作与日常劳作 (Bodily Movements, Posture & Manual Actions)",
+    "text_type": "dialogue",
+    "title": "跨步奔跑与不小心跌倒扭伤 (Striding, Running, and Accidentally Falling and Spraining an Ankle)",
+    "scenario": "While running across a muddy path, a hiker steps on a loose stone, tumbles down, and sprains an ankle, squatting down before kneeling to check the shoe.",
+    "new_words": [
+      "奔跑",
+      "跨",
+      "踏",
+      "踩",
+      "跌",
+      "扭",
+      "蹲"
+    ]
+  },
+  {
+    "passage_id": "H6_43_2",
+    "unit": 43,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "肢体动作与日常劳作 (Bodily Movements, Posture & Manual Actions)",
+    "text_type": "dialogue",
+    "title": "背着行囊与手牵手前行 (Carrying a Backpack and Walking Hand in Hand)",
+    "scenario": "On a family outing, a father carries a heavy bag on his back while pulling his child by the hand, pointing toward a distant landmark.",
+    "new_words": [
+      "跪",
+      "背着",
+      "牵",
+      "拖",
+      "指着",
+      "托",
+      "负"
+    ]
+  },
+  {
+    "passage_id": "H6_43_3",
+    "unit": 43,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "肢体动作与日常劳作 (Bodily Movements, Posture & Manual Actions)",
+    "text_type": "passage",
+    "title": "手工打磨、悬挂与精细操作 (Hand Grinding, Hanging, and Precision Manipulation)",
+    "scenario": "A workshop note describes how artisans grind sharp edges smooth, string beads together, stuff padding into cushions, and hang finished ornaments.",
+    "new_words": [
+      "磨",
+      "尖",
+      "扁",
+      "串",
+      "塞",
+      "吊",
+      "悬"
+    ]
+  },
+  {
+    "passage_id": "H6_44_1",
+    "unit": 44,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "物体状态与隐藏显露 (Object States, Concealment & Disclosure)",
+    "text_type": "dialogue",
+    "title": "寻找隐藏的钥匙与揭开谜底 (Finding a Hidden Key and Uncovering the Mystery)",
+    "scenario": "Searching for a lost item, a brother reaches into his pocket to pull out a note, uncovers a box buried under old books, and reveals what was concealed inside.",
+    "new_words": [
+      "掏",
+      "藏",
+      "隐藏",
+      "埋",
+      "揭",
+      "露",
+      "显出"
+    ]
+  },
+  {
+    "passage_id": "H6_44_2",
+    "unit": 44,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "物体状态与隐藏显露 (Object States, Concealment & Disclosure)",
+    "text_type": "dialogue",
+    "title": "水滴渗漏、裂缝变形与支撑加固 (Water Dripping, Cracks, Deformation, and Reinforcement)",
+    "scenario": "Inspecting an old shed, a repairman notices water dripping from a cracked roof, deformed wooden beams, and a floating board, using a pole to prop up the frame.",
+    "new_words": [
+      "滴",
+      "浮",
+      "裂",
+      "变形",
+      "旋转",
+      "撑",
+      "支撑"
+    ]
+  },
+  {
+    "passage_id": "H6_44_3",
+    "unit": 44,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "物体状态与隐藏显露 (Object States, Concealment & Disclosure)",
+    "text_type": "passage",
+    "title": "去除杂质与溶液混合操作 (Removing Impurities and Mixing Solutions)",
+    "scenario": "A laboratory guide explains how to remove surface impurities, mix different liquids evenly, manipulate the valve carefully, and never swallow test samples.",
+    "new_words": [
+      "去掉",
+      "混合",
+      "混",
+      "操纵",
+      "吞",
+      "变换",
+      "变更"
+    ]
+  },
+  {
+    "passage_id": "H6_45_1",
+    "unit": 45,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "空间方位与远近距离 (Spatial Orientation, Boundaries & Distance)",
+    "text_type": "dialogue",
+    "title": "道路两侧与建筑物外部方位 (Both Sides of the Road and the Exterior Orientation of Buildings)",
+    "scenario": "Giving directions on campus, a student explains that the hall sits adjacent to the library, with trees along both sides of the path and a plaza outside.",
+    "new_words": [
+      "沿",
+      "挨着",
+      "侧",
+      "两侧",
+      "前方",
+      "外头",
+      "外部"
+    ]
+  },
+  {
+    "passage_id": "H6_45_2",
+    "unit": 45,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "空间方位与远近距离 (Spatial Orientation, Boundaries & Distance)",
+    "text_type": "dialogue",
+    "title": "路过此处与望见远方脚印 (Passing By This Place and Spotting Footprints in the Distance)",
+    "scenario": "While passing through a border area, a ranger spots a line of footprints extending from the starting point to the far edge and everywhere across the open field.",
+    "new_words": [
+      "此处",
+      "路过",
+      "出入",
+      "入",
+      "起点",
+      "边缘",
+      "端"
+    ]
+  },
+  {
+    "passage_id": "H6_45_3",
+    "unit": 45,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "空间方位与远近距离 (Spatial Orientation, Boundaries & Distance)",
+    "text_type": "passage",
+    "title": "四外遍地的景致与地名渊源 (Scenery Everywhere Around and the Origin of Place Names)",
+    "scenario": "A geographical essay describes standing on a ridge where villages are visible far away in all directions, tracing how local place names and boundaries evolved.",
+    "new_words": [
+      "四外",
+      "处处",
+      "遍地",
+      "远远",
+      "望见",
+      "看得见",
+      "地名"
+    ]
+  },
+  {
+    "passage_id": "H6_46_1",
+    "unit": 46,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "时间顺序与频率长短 (Time Sequence, Duration & Frequency)",
+    "text_type": "dialogue",
+    "title": "等了两个钟头与待会儿的安排 (Waiting for Two Hours and Plans for a Moment Later)",
+    "scenario": "After waiting at the venue for two hours on the same day, an assistant sets a fixed timer and tells the guests that the speaker will arrive in a moment.",
+    "new_words": [
+      "钟头",
+      "当天",
+      "待会儿",
+      "一时",
+      "眼看",
+      "定时",
+      "早晚"
+    ]
+  },
+  {
+    "passage_id": "H6_46_2",
+    "unit": 46,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "时间顺序与频率长短 (Time Sequence, Duration & Frequency)",
+    "text_type": "dialogue",
+    "title": "往年与近日的对比及明日展望 (Comparing Previous Years with Recent Days and Looking to Tomorrow)",
+    "scenario": "Two store managers compare sales from previous years and prior months with recent days, planning how to maintain long-term growth from tomorrow onward.",
+    "new_words": [
+      "往年",
+      "此前",
+      "近日",
+      "明日",
+      "往后",
+      "事后",
+      "过后"
+    ]
+  },
+  {
+    "passage_id": "H6_46_3",
+    "unit": 46,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "时间顺序与频率长短 (Time Sequence, Duration & Frequency)",
+    "text_type": "passage",
+    "title": "做事的先后顺序与持之以恒 (Order of Priority and Long-Lasting Consistency)",
+    "scenario": "A time-management article explains how starting from a clear beginning, proceeding in proper order, and staying consistent over the long term prevents missed opportunities.",
+    "new_words": [
+      "开头",
+      "依次",
+      "次数",
+      "时时",
+      "时而",
+      "长久",
+      "一贯"
+    ]
+  },
+  {
+    "passage_id": "H6_47_1",
+    "unit": 47,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "数量比例与程度比较 (Quantity, Proportion, Size & Degree Comparison)",
+    "text_type": "dialogue",
+    "title": "大批物资发放与领取的核对 (Verifying the Distribution and Collection of Large Quantities of Supplies)",
+    "scenario": "Warehouse staff distribute a large batch of relief goods to designated recipients, verifying that the vast majority have drawn their share.",
+    "new_words": [
+      "大批",
+      "绝大多数",
+      "多半",
+      "发放",
+      "领取",
+      "接收",
+      "指定"
+    ]
+  },
+  {
+    "passage_id": "H6_47_2",
+    "unit": 47,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "数量比例与程度比较 (Quantity, Proportion, Size & Degree Comparison)",
+    "text_type": "dialogue",
+    "title": "衡量尺寸长短与超出预期标准 (Measuring Length and Exceeding Expected Standards)",
+    "scenario": "Inspectors measure the length and size of extra-large components, noting that the quality far surpasses the baseline and is never less than the required standard.",
+    "new_words": [
+      "长短",
+      "特大",
+      "超",
+      "超出",
+      "小于",
+      "衡量",
+      "足"
+    ]
+  },
+  {
+    "passage_id": "H6_47_3",
+    "unit": 47,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "数量比例与程度比较 (Quantity, Proportion, Size & Degree Comparison)",
+    "text_type": "passage",
+    "title": "极端情况下的多方面评估 (Multi-Faceted Evaluation Under Extreme Conditions)",
+    "scenario": "An analytical report examines various aspects and levels of a complex issue, warning against extreme judgments and seeking the optimal, practical solution.",
+    "new_words": [
+      "多方面",
+      "层面",
+      "种种",
+      "极端",
+      "最佳",
+      "切实",
+      "恰当"
+    ]
+  },
+  {
+    "passage_id": "H6_48_1",
+    "unit": 48,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "异同比较与巧合契机 (Similarity, Difference & Timely Coincidence)",
+    "text_type": "dialogue",
+    "title": "一模一样的款式与细微差异 (Identical Styles and Subtle Differences)",
+    "scenario": "Shopping for gifts, two sisters notice that two bags look almost identical on the surface, yet upon closer comparison they have subtle differences in pattern.",
+    "new_words": [
+      "同",
+      "同一",
+      "如一",
+      "一模一样",
+      "好似",
+      "仿佛",
+      "差异"
+    ]
+  },
+  {
+    "passage_id": "H6_48_2",
+    "unit": 48,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "异同比较与巧合契机 (Similarity, Difference & Timely Coincidence)",
+    "text_type": "dialogue",
+    "title": "刚好赶上末班车的巧妙巧合 (The Lucky Coincidence of Just Catching the Last Bus)",
+    "scenario": "Hurrying to the station, two travelers arrive just in time to catch the last bus instead of missing it or falling behind, marveling at the clever timing.",
+    "new_words": [
+      "刚好",
+      "恰好",
+      "恰恰",
+      "赶忙",
+      "赶上",
+      "赶不上",
+      "错过"
+    ]
+  },
+  {
+    "passage_id": "H6_48_3",
+    "unit": 48,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "异同比较与巧合契机 (Similarity, Difference & Timely Coincidence)",
+    "text_type": "passage",
+    "title": "一齐携手行动与协同推进 (Acting Together Simultaneously and Advancing in Unison)",
+    "scenario": "A project summary describes how multiple departments joined hands to act together simultaneously, following the same standard routine to achieve a clever breakthrough.",
+    "new_words": [
+      "一齐",
+      "一同",
+      "一道",
+      "联手",
+      "常规",
+      "巧妙",
+      "妙"
+    ]
+  },
+  {
+    "passage_id": "H6_49_1",
+    "unit": 49,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "因果关联与看待视角 (Causality, Relevance & Perspectives)",
+    "text_type": "dialogue",
+    "title": "分析事情缘故与内在关联 (Analyzing the Reason for a Matter and Internal Links)",
+    "scenario": "In a discussion, two colleagues analyze the underlying reason for this matter, distinguishing what is directly relevant from what is completely irrelevant.",
+    "new_words": [
+      "此事",
+      "缘故",
+      "因",
+      "为此",
+      "有关",
+      "无关",
+      "关联"
+    ]
+  },
+  {
+    "passage_id": "H6_49_2",
+    "unit": 49,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "因果关联与看待视角 (Causality, Relevance & Perspectives)",
+    "text_type": "dialogue",
+    "title": "把挫折当作磨炼的积极态度 (The Positive Attitude of Regarding Setbacks as Training)",
+    "scenario": "A life coach encourages a young graduate to regard temporary setbacks as valuable training, explaining that external labels do not change the thing itself.",
+    "new_words": [
+      "当作",
+      "当成",
+      "看作",
+      "算是",
+      "表面上",
+      "名义",
+      "本身"
+    ]
+  },
+  {
+    "passage_id": "H6_49_3",
+    "unit": 49,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "因果关联与看待视角 (Causality, Relevance & Perspectives)",
+    "text_type": "passage",
+    "title": "克服过度依赖与培养独立倾向 (Overcoming Over-Reliance and Cultivating Independence)",
+    "scenario": "An educational commentary discusses why young people should not rely excessively on others or indulge in unrealistic fantasies, urging them to develop independent thinking.",
+    "new_words": [
+      "依赖",
+      "赖",
+      "倾向",
+      "幻想",
+      "只顾",
+      "只管",
+      "理"
+    ]
+  },
+  {
+    "passage_id": "H6_50_1",
+    "unit": 50,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "逻辑连词与话语衔接 (Logical Conjunctions, Conditionals & Discourse Markers)",
+    "text_type": "dialogue",
+    "title": "打断谈话与进一步解释说明 (Interrupting a Conversation and Clarifying One's Meaning)",
+    "scenario": "During a debate, a speaker politely asks not to be interrupted, using clear discourse markers to explain what a policy means and what other options exist.",
+    "new_words": [
+      "打断",
+      "就是说",
+      "这就是说",
+      "再说",
+      "至于",
+      "另",
+      "之类"
+    ]
+  },
+  {
+    "passage_id": "H6_50_2",
+    "unit": 50,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "逻辑连词与话语衔接 (Logical Conjunctions, Conditionals & Discourse Markers)",
+    "text_type": "dialogue",
+    "title": "权衡利弊中的假设与选择 (Hypotheticals and Choices When Weighing Pros and Cons)",
+    "scenario": "Two partners weigh their options: either they upgrade their equipment now, or they risk falling behind; even if difficulties arise, they will still succeed.",
+    "new_words": [
+      "要么",
+      "要不然",
+      "若",
+      "就算",
+      "虽",
+      "却是",
+      "照样"
+    ]
+  },
+  {
+    "passage_id": "H6_50_3",
+    "unit": 50,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "逻辑连词与话语衔接 (Logical Conjunctions, Conditionals & Discourse Markers)",
+    "text_type": "passage",
+    "title": "正式书信结语与文言虚词运用 (Formal Letter Closings and Classical Function Words)",
+    "scenario": "A writing style guide explains how formal Chinese correspondence uses classical prepositions, conjunctions, and polite salutations at the end of a letter.",
+    "new_words": [
+      "与",
+      "于",
+      "如",
+      "据",
+      "便",
+      "便是",
+      "此致"
+    ]
+  },
+  {
+    "passage_id": "H6_51_1",
+    "unit": 51,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "否定评价与语气表达 (Negation, Evaluation & Conversational Modalities)",
+    "text_type": "dialogue",
+    "title": "坦率评价与口语语气词的妙用 (Candid Evaluations and Conversational Modal Particles)",
+    "scenario": "Two friends chatting about a newly opened restaurant remark that the service is nothing special, using natural modal particles to soften their candid evaluation.",
+    "new_words": [
+      "不怎么",
+      "不怎么样",
+      "不至于",
+      "不成",
+      "罢了",
+      "嘛",
+      "啦"
+    ]
+  },
+  {
+    "passage_id": "H6_51_2",
+    "unit": 51,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "否定评价与语气表达 (Negation, Evaluation & Conversational Modalities)",
+    "text_type": "dialogue",
+    "title": "好不容易完成任务与不再犯错 (Completing a Task with Great Difficulty and Never Repeating Mistakes)",
+    "scenario": "After working through a tough problem with great difficulty, a technician says he has never seen such a tricky case before and will never make the same error again.",
+    "new_words": [
+      "好不容易",
+      "从不",
+      "从没",
+      "不再",
+      "不见",
+      "很难说",
+      "有没有"
+    ]
+  },
+  {
+    "passage_id": "H6_51_3",
+    "unit": 51,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "否定评价与语气表达 (Negation, Evaluation & Conversational Modalities)",
+    "text_type": "passage",
+    "title": "迎难而上的决心与全方位提升 (Determination to Overcome Difficulties and All-Round Improvement)",
+    "scenario": "A motivational essay argues that success is not just about luck; anyone willing to dared to try and give their utmost effort can elevate their capabilities.",
+    "new_words": [
+      "不仅仅",
+      "更是",
+      "凡是",
+      "肯",
+      "敢于",
+      "尽",
+      "提升"
+    ]
+  },
+  {
+    "passage_id": "H6_52_1",
+    "unit": 52,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "处境抉择与行为方式 (Situational Choices, Persistence & Methods)",
+    "text_type": "dialogue",
+    "title": "被迫无奈的抉择与苦苦挨过难关 (An Obliged Choice Under Pressure and Enduring Hardship)",
+    "scenario": "Pressed by urgent circumstances, a small business owner has no choice but to endure temporary hardship, wondering why the approval process is so slow and whether it can go smoothly.",
+    "new_words": [
+      "逼",
+      "只得",
+      "挨",
+      "为何",
+      "能否",
+      "顺",
+      "晓得"
+    ]
+  },
+  {
+    "passage_id": "H6_52_2",
+    "unit": 52,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "处境抉择与行为方式 (Situational Choices, Persistence & Methods)",
+    "text_type": "dialogue",
+    "title": "一番苦心钻研与想出新招 (Painstaking Effort and Coming Up with a Clever Move)",
+    "scenario": "After putting in a great deal of effort for the first time this season, a coach devises a clever new move and evaluates the players' performance.",
+    "new_words": [
+      "一番",
+      "番",
+      "首次",
+      "此次",
+      "招",
+      "评",
+      "特"
+    ]
+  },
+  {
+    "passage_id": "H6_52_3",
+    "unit": 52,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "处境抉择与行为方式 (Situational Choices, Persistence & Methods)",
+    "text_type": "passage",
+    "title": "面向大众的专用设施与要素整合 (Dedicated Public Facilities and Integrating Key Elements)",
+    "scenario": "An urban planning article explains how public facilities catering to diverse groups integrate essential elements and protect users from potential hazards.",
+    "new_words": [
+      "面向",
+      "专用",
+      "要素",
+      "界",
+      "护",
+      "远离",
+      "足以"
+    ]
+  },
+  {
+    "passage_id": "H6_53_1",
+    "unit": 53,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "区域合作、扶贫发展与社会创建 (Regional Cooperation, Poverty Alleviation & Social Development)",
+    "text_type": "dialogue",
+    "title": "内地摆脱贫困与跨区域发展联盟 (Inland Poverty Alleviation and Cross-Regional Development Alliances)",
+    "scenario": "Two regional planners discuss how inland provinces formed a development alliance, exploring effective channels to lift impoverished areas out of poverty and give local communities strong support.",
+    "new_words": [
+      "内地",
+      "贫困",
+      "联盟",
+      "途径",
+      "给予",
+      "创建",
+      "诞生"
+    ]
+  },
+  {
+    "passage_id": "H6_53_2",
+    "unit": 53,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "区域合作、扶贫发展与社会创建 (Regional Cooperation, Poverty Alleviation & Social Development)",
+    "text_type": "dialogue",
+    "title": "筹备活动场地与核算经费花费 (Preparing the Event Venue and Calculating Budget Expenditures)",
+    "scenario": "Event organizers inspect an exhibition venue as guests arrive, hanging a horizontal banner, calculating the total expenditure, and entrusting a colleague to handle the remaining arrangements.",
+    "new_words": [
+      "场地",
+      "前来",
+      "花费",
+      "横",
+      "脚印",
+      "托",
+      "发放"
+    ]
+  },
+  {
+    "passage_id": "H6_53_3",
+    "unit": 53,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "区域合作、扶贫发展与社会创建 (Regional Cooperation, Poverty Alleviation & Social Development)",
+    "text_type": "passage",
+    "title": "探讨外来词汇、洋文化与传统器物样式 (Exploring Loanwords, Foreign Culture, and Traditional Patterns)",
+    "scenario": "A cultural essay examines how foreign goods and loanwords entered modern life, comparing original patterns and traditional rules of craftsmanship with contemporary creations.",
+    "new_words": [
+      "外来",
+      "洋",
+      "原",
+      "样",
+      "道道",
+      "讲攻",
+      "作"
+    ]
+  },
+  {
+    "passage_id": "H6_54_1",
+    "unit": 54,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "社会变迁、博弈应对与深层化解 (Social Transitions, Strategic Maneuvers & Resolving Conflicts)",
+    "text_type": "dialogue",
+    "title": "劳工罢工抗议与社会平稳过渡 (Labor Strikes, Protests, and Social Transition)",
+    "scenario": "Two social commentators discuss a historical labor strike and street protest march, analyzing how to resolve sudden social chaos, avoid community division, and achieve a stable transition.",
+    "new_words": [
+      "罢工",
+      "抗议",
+      "游行",
+      "爆发",
+      "混乱",
+      "分裂",
+      "过渡"
+    ]
+  },
+  {
+    "passage_id": "H6_54_2",
+    "unit": 54,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "社会变迁、博弈应对与深层化解 (Social Transitions, Strategic Maneuvers & Resolving Conflicts)",
+    "text_type": "dialogue",
+    "title": "棋局博弈中的将军与化解之道 (Checkmate, Tactics, and Resolving Crises in Chess)",
+    "scenario": "Playing Chinese chess, a veteran player calls checkmate with a sharp move, explaining how anticipating the opponent's moves, preparing dual tactics, and resolving complex crises earn true respect.",
+    "new_words": [
+      "将军",
+      "两手",
+      "料",
+      "服",
+      "权",
+      "牢",
+      "解"
+    ]
+  },
+  {
+    "passage_id": "H6_54_3",
+    "unit": 54,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "社会变迁、博弈应对与深层化解 (Social Transitions, Strategic Maneuvers & Resolving Conflicts)",
+    "text_type": "passage",
+    "title": "刻苦钻研理科与探究学术命题 (Delving Deeply into Natural Science and Investigating Academic Theses)",
+    "scenario": "An academic memoir recounts how a physics researcher devoted his life to natural science, formulated rigorous propositions, used division to verify calculations, and resolved questions that once hung in doubt.",
+    "new_words": [
+      "钻",
+      "理",
+      "除",
+      "出入",
+      "不通",
+      "悬",
+      "命"
+    ]
+  },
+  {
+    "passage_id": "H6_55_1",
+    "unit": 55,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "多义词活用与高阶语境综合 (Polysemous Word Mastery & Advanced Contextual Integration)",
+    "text_type": "dialogue",
+    "title": "结伴同行渡河与沿途游玩体验 (Traveling Together, Crossing a River, and Touring Along the Way)",
+    "scenario": "Two companions traveling together cross a river by ferry, discussing how to pass the time during the transit, touring scenic spots along the route, and sharpening their resolve without delay.",
+    "new_words": [
+      "同行",
+      "过渡",
+      "磨",
+      "利",
+      "拖",
+      "打发",
+      "游玩"
+    ]
+  },
+  {
+    "passage_id": "H6_55_2",
+    "unit": 55,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "多义词活用与高阶语境综合 (Polysemous Word Mastery & Advanced Contextual Integration)",
+    "text_type": "dialogue",
+    "title": "工地板房搭建与野外现场施工 (Assembling Prefab Structures and On-Site Construction Work)",
+    "scenario": "On-site project supervisors oversee field construction near an oilfield: directing workers to erect support pillars, fasten buckles, secure steel bundles, and protect machinery from dust.",
+    "new_words": [
+      "集",
+      "蒙",
+      "扣",
+      "扎",
+      "田",
+      "搭",
+      "柱子"
+    ]
+  },
+  {
+    "passage_id": "H6_55_3",
+    "unit": 55,
+    "module": "Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)",
+    "unit_title": "多义词活用与高阶语境综合 (Polysemous Word Mastery & Advanced Contextual Integration)",
+    "text_type": "passage",
+    "title": "从容面对人生磨难与坚守初心 (Facing Life's Trials Calmly and Staying True to One's Original Aspiration)",
+    "scenario": "A closing essay encourages learners not to muddle along or blame others when dizzy with exhaustion, but to hold fast to their goals until they reach the summit.",
+    "new_words": [
+      "聊",
+      "混",
+      "昏",
+      "据",
+      "罪",
+      "梅花"
+    ]
+  }
+]
