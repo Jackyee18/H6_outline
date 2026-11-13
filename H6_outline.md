@@ -72,11 +72,11 @@
 - **Unit 45**: 空间方位与远近距离 (Spatial Orientation, Boundaries & Distance)
 - **Unit 46**: 时间顺序与频率长短 (Time Sequence, Duration & Frequency)
 - **Unit 47**: 数量比例与程度比较 (Quantity, Proportion, Size & Degree Comparison)
-- **Unit 48**: 异同比较与巧合契机 (Similarity, Difference & Timely Coincidence)
+- **Unit 48**: 异同辨析、赶乘出行与科研协同 (Comparison, Commute Catch-Up & R&D Collaboration)
 - **Unit 49**: 因果关联与看待视角 (Causality, Relevance & Perspectives)
-- **Unit 50**: 逻辑连词与话语衔接 (Logical Conjunctions, Conditionals & Discourse Markers)
-- **Unit 51**: 否定评价与语气表达 (Negation, Evaluation & Conversational Modalities)
-- **Unit 52**: 处境抉择与行为方式 (Situational Choices, Persistence & Methods)
+- **Unit 50**: 话语衔接、租房抉择与正式函件 (Discourse Transitions, Living Choices & Formal Letters)
+- **Unit 51**: 坦率评价、日常守则与迎难拼搏 (Candid Evaluation, Daily Habits & Athletic Grit)
+- **Unit 52**: 危机应对、舞台初秀与公共要素 (Crisis Response, Stage Debut & Public Facilities)
 - **Unit 53**: 区域合作、扶贫发展与社会创建 (Regional Cooperation, Poverty Alleviation & Social Development)
 - **Unit 54**: 社会变迁、博弈应对与深层化解 (Social Transitions, Strategic Maneuvers & Resolving Conflicts)
 - **Unit 55**: 多义词活用与高阶语境综合 (Polysemous Word Mastery & Advanced Contextual Integration)
@@ -104,25 +104,25 @@
 
 ---
 
-### `H6_1_2` — 丰盛的中西式早餐准备 (Preparing a Hearty Chinese and Western Breakfast) (🗣️ Dialogue)
+### `H6_1_2` — 加热馒头与备餐的轻松早晨 (Heating Steamed Buns for a Relaxed Breakfast) (🗣️ Dialogue)
 
-**Scenario**: Two roommates prepare breakfast in the kitchen, heating steamed buns and porridge in the microwave while making a sandwich with jam and fried snacks for their meal.
+**Scenario**: Two roommates prepare a quick meal in the kitchen, reminding each other casually to warm up steamed buns in the microwave alongside jam and fried snacks.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **馒头** | `mántou` | *Noun* | steamed bun | màn thầu, bánh bao không nhân |
-| 2 | **粥** | `zhōu` | *Noun* | porridge | cháo |
+| 2 | **啦** | `la` | *Particle* | combination of the sounds of “了（le）” and “啊（a）”, expressing exclamation, interrogation, etc | đấy, nhé |
 | 3 | **微波炉** | `wēibōlú` | *Noun* | microwave oven | Lò vi ba |
-| 4 | **三明治** | `sānmíngzhì` | *Noun* | sandwich (loanword) | Sandwich (món ăn) |
+| 4 | **嘛** | `ma` | *Particle* | indicating that the reason is obvious | đi, mà |
 | 5 | **果酱** | `guǒjiàng` | *Noun* | jam | tương hoa quả, mứt hoa quả loãng |
 | 6 | **炸** | `zhà` | *Noun* | fry | chiên, rán |
 | 7 | **餐** | `cān` | *Noun* | meal | bữa ăn |
 
 ---
 
-### `H6_1_3` — 日常食材与休闲零食的采购 (Stocking Up on Daily Ingredients and Casual Snacks) (📖 Passage)
+### `H6_1_3` — 采购米面蔬果与零食的日常计划 (Stocking Up on Grains, Produce, and Snacks) (📖 Passage)
 
-**Scenario**: A household food guide introduces how families stock up on staples like rice and wheat alongside fresh tomatoes, eggplants, peanuts, potato chips, and french fries.
+**Scenario**: Shopping together at the market, a family stocks up on rice, wheat, tomatoes, eggplants, and peanuts, teasing whether buying potato chips could possibly count as healthy eating.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -132,16 +132,16 @@
 | 4 | **茄子** | `qiézi` | *Noun* | aubergine | cà, cây cà |
 | 5 | **花生** | `huāshēng` | *Noun* | peanut | đậu phộng |
 | 6 | **薯片** | `shǔpiàn` | *Noun* | fried potato chips | khoai miếng |
-| 7 | **薯条** | `shǔtiáo` | *Noun* | french fried potatoes, chip | khoai tây miếng, khoai tây chiên |
+| 7 | **不成** | `bùchéng` | *Verb* | unable to, won't do | không thành |
 
 ---
 
 ## Unit 2: 饮品冲泡与营养膳食 (Beverages, Brewing & Nutritious Diets)
 *Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)*
 
-### `H6_2_1` — 用热水壶冲泡奶粉与饮品 (Brewing Milk Powder and Drinks with a Kettle) (🗣️ Dialogue)
+### `H6_2_1` — 烧水冲泡奶粉与日常饮水习惯 (Boiling Water for Milk Powder and Everyday Hydration) (🗣️ Dialogue)
 
-**Scenario**: A parent boils tap water in a kettle to brew warm milk powder for the baby, reminding a guest not to drink unboiled cold water and offering beverages instead.
+**Scenario**: A parent boils tap water in a kettle to mix baby milk powder with hot water, telling a guest not to worry — drinking a sip of unboiled cold water once probably won't go so far as to upset their stomach, it's merely a precaution.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -149,9 +149,9 @@
 | 2 | **冷水** | `lěngshuǐ` | *Noun* | cold water, unboiled water | nước lạnh |
 | 3 | **热水** | `rèshuǐ` | *Noun* | hot water | nước nóng |
 | 4 | **壶** | `hú` | *Noun* | pot, kettle | ấm, bình, hũ |
-| 5 | **泡** | `pào` | *Noun* | 1. bubble, soak; 2. soak | 1. bọt, bóng; 2. ngâm |
+| 5 | **罢了** | `bàle` | *Phrase* | a modal particle indicating (that's all, only, nothing much) | mà thôi, thôi |
 | 6 | **奶粉** | `nǎifěn` | *Noun* | powdered milk | sữa bột, bột sữa |
-| 7 | **酒水** | `jiǔshuǐ` | *Noun* | a drink, beverage | thức uống và rượu |
+| 7 | **不至于** | `bùzhìyú` | *Phrase* | unlikely, can't go far as to, not so as to | không đến mức, chưa đến nỗi |
 
 ---
 
@@ -190,9 +190,9 @@
 ## Unit 3: 房屋租售与居家布置 (Housing, Appliances & Home Furnishing)
 *Module 1: Home, Culinary Arts & Family Life (居家生活与家庭温情)*
 
-### `H6_3_1` — 实地看房与核算租金房价 (Viewing an Apartment and Calculating Rent and Housing Prices) (🗣️ Dialogue)
+### `H6_3_1` — 对比楼房房价与家庭生活预算 (Comparing Apartment Prices and Household Living Costs) (🗣️ Dialogue)
 
-**Scenario**: A young couple inspects a multi-story residential building with a spacious floor area in square meters, comparing the monthly rent, housing price, and living expenses to save money.
+**Scenario**: Inspecting a multi-story residential building, a couple calculates the price per square meter, noting that even if housing prices stay high, they still have to manage daily living expenses carefully.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -200,31 +200,31 @@
 | 2 | **楼房** | `lóufáng` | *Noun* | a building of two or more stories | nhà lầu (từ hai tầng trở lên) |
 | 3 | **平方米** | `píngfāngmǐ` | *Noun* | square metre | m2, met vuông |
 | 4 | **房价** | `fángjià` | *Noun* | house price | giá nhà |
-| 5 | **租金** | `zūjīn` | *Noun* | charter money | tiền thuê |
+| 5 | **若** | `ruò` | *Conjunction* | 1. if, as; 2. seem | 1. nếu như, nếu; 2. dường như, như |
 | 6 | **生活费** | `shēnghuófèi` | *Noun* | cost of living, living expenses | phí sinh hoạt |
-| 7 | **省钱** | `shěngqián` | *Verb* | save money | tiết kiệm tiền |
+| 7 | **照样** | `zhàoyàng` | *Adverb* | in the same way, all the same | làm theo, rập khuôn |
 
 ---
 
-### `H6_3_2` — 添置节能家电与设备安装 (Buying Energy-Saving Appliances and Installation) (🗣️ Dialogue)
+### `H6_3_2` — 挑选节能电器与检查开关设施 (Choosing Energy-Saving Appliances and Checking Switches) (🗣️ Dialogue)
 
-**Scenario**: Homeowners shop for energy-efficient household appliances, testing the air conditioning, water heater, and power switch in the apartment and checking the basement storage.
+**Scenario**: Homeowners inspect the electrical appliances, water heater, and basement power switches in an older apartment, pleasantly surprised that although the setup looks simple, it is genuinely energy-saving.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **电器** | `diànqì` | *Noun* | (electrical) appliance | đồ điện, đồ điện gia dụng |
-| 2 | **家电** | `jiādiàn` | *Noun* | household electric appliance | đồ điện gia dụng |
+| 2 | **虽** | `suī` | *Noun* | although, even though | mặc dù, tuy rằng |
 | 3 | **节能** | `jiénéng` | *Noun* | energy-efficient | tiết kiệm năng lượng |
-| 4 | **冷气** | `lěngqì` | *Noun* | air conditioning (Tw) | khí lạnh, hơi lạnh |
+| 4 | **却是** | `quèshì` | *Adverb* | actually, nevertheless | lại là, mà là |
 | 5 | **热水器** | `rèshuǐqì` | *Noun* | water heater | Máy nước nóng |
 | 6 | **开关** | `kāiguān` | *Noun* | power switch, open and close | công tắc, cái bật điện |
 | 7 | **地下室** | `dìxiàshì` | *Noun* | basement, cellar | nhà dưới đất |
 
 ---
 
-### `H6_3_3` — 温馨书房与居室细节布置 (Arranging a Cozy Study Room and Interior Details) (📖 Passage)
+### `H6_3_3` — 布置书房桌面与预留空间 (Arranging a Study Desk and Planning Room Space) (📖 Passage)
 
-**Scenario**: An interior design passage describes laying wooden flooring, placing a desk lamp and flower vase on the writing desk in the study room, and keeping the corridor tidy.
+**Scenario**: An interior design conversation discusses placing a desk lamp and flower vase on a writing desk in the study and laying out the room neatly, though even with careful planning it is hard to say if everything will fit.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -232,9 +232,9 @@
 | 2 | **写字台** | `xiězìtái` | *Noun* | writing desk | bàn làm việc (thường có nhiều ngăn kéo, có khi có cả tủ) |
 | 3 | **台灯** | `táidēng` | *Noun* | desk lamp, table lamp | đèn bàn |
 | 4 | **花瓶** | `huāpíng` | *Noun* | flower vase | bình hoa, lọ hoa |
-| 5 | **地板** | `dìbǎn` | *Noun* | running plate | sàn nhà, nền nhà, đất đai |
+| 5 | **就算** | `jiùsuàn` | *Noun* | even if | cho dù, dù |
 | 6 | **铺** | `pù` | *Verb* | spread, unfold | rải, trải, lót |
-| 7 | **楼道** | `lóudào` | *Noun* | passageway, corridor | hàng hiên, hành lang |
+| 7 | **很难说** | `hěnnánshuō` | *Noun* | hard to say | rất khó nói |
 
 ---
 
@@ -257,15 +257,15 @@
 
 ---
 
-### `H6_4_2` — 出行鞋履与雨天随身物品 (Footwear for Going Out and Rainy-Day Essentials) (🗣️ Dialogue)
+### `H6_4_2` — 打包便携日用品与出行凉鞋 (Packing Travel Supplies and Summer Sandals) (🗣️ Dialogue)
 
-**Scenario**: Before heading out on a rainy afternoon, family members swap their indoor slippers and summer sandals for raincoats and pack pocket-sized disposable daily supplies.
+**Scenario**: Before a trip, family members check whether they have pocket-sized daily supplies and disposable travel items alongside lightweight sandals, making sure they no longer forget essentials.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **拖鞋** | `tuōxié` | *Noun* | slippers, sandals | dép, dép lê |
+| 1 | **有没有** | `yǒuméiyǒu` | *Verb* | Is there a ...? | có hay không |
 | 2 | **凉鞋** | `liángxié` | *Noun* | sandal | giày xăng-̣đan |
-| 3 | **雨衣** | `yǔyī` | *Noun* | raincoat | áo mưa |
+| 3 | **不再** | `bùzài` | *Adverb* | not reappear, anymore | từ bỏ, không tiếp nữa |
 | 4 | **物品** | `wùpǐn` | *Noun* | article | vật phẩm |
 | 5 | **用品** | `yòngpǐn` | *Noun* | goods | đồ dùng |
 | 6 | **一次性** | `yícìxìng` | *Adjective* | disposable (goods), one-time | mang tính 1 lần |
@@ -359,14 +359,14 @@
 
 ---
 
-### `H6_6_2` — 社区溜宠与邻里互助 (Walking Pets in the Community and Neighborly Help) (🗣️ Dialogue)
+### `H6_6_2` — 社区园地重逢与邻里欢笑 (Reuniting in the Community Garden with Smiles and Laughter) (🗣️ Dialogue)
 
-**Scenario**: Neighbors walking their pets in the community garden greet each other with warm smiles and laughter, offering to look after a dog while the owner has urgent business.
+**Scenario**: Having not seen each other for ages around the community garden, neighbors finally catch up with warm smiles, bright faces, and laughter, offering to help whenever someone has urgent business.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **宠物** | `chǒngwù` | *Noun* | pet | thú cưng, vật nuôi |
-| 2 | **看管** | `kānguǎn` | *Verb* | look after | trông giữ, trông coi |
+| 1 | **不见** | `bújiàn` | *Verb* | not to see, not to meet | không gặp, không thấy, chưa gặp mặt |
+| 2 | **好不容易** | `hǎobùróngyì` | *Noun* | very difficult,  with great difficulty | không dễ dàng gì mà |
 | 3 | **园地** | `yuándì` | *Noun* | garden area | vườn, vườn tược |
 | 4 | **笑容** | `xiàoróng` | *Noun* | smile, smiling expression | nụ cười |
 | 5 | **笑脸** | `xiàoliǎn` | *Noun* | smiling face, smiley | mặt cười, mặt mày tươi tắn, vui vẻ |
@@ -547,16 +547,16 @@
 ## Unit 10: 情绪调节与人际化解 (Emotional Regulation & Resolving Misunderstandings)
 *Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)*
 
-### `H6_10_1` — 平复愤怒情绪与保持理智 (Calming Anger and Maintaining Rationality) (🗣️ Dialogue)
+### `H6_10_1` — 调节发怒情绪与化解误会 (Calming Down and Resolving Misunderstandings) (🗣️ Dialogue)
 
-**Scenario**: After a heated argument at work, a friend advises a colleague not to get angry or lose their temper, urging them to stay rational, let go of frustration, and resolve the bad mood.
+**Scenario**: Seeing a colleague sigh after a workplace disagreement, a friend asks why they are losing their temper, reminding them that they already know how to resolve tension and let frustrations go.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **情绪** | `qíngxù` | *Noun* | emotion, mood | tình tự, tâm trạng, nỗi buồn, ưu tư |
-| 2 | **愤怒** | `fènnù` | *Noun* | angry | phẫn nộ |
+| 2 | **为何** | `wèihé` | *Noun* | why | vì sao, vì cái gì, tại sao |
 | 3 | **发怒** | `fānù` | *Verb* | get angry | phát cáu, nổi giận |
-| 4 | **理智** | `lǐzhì` | *Noun* | rational, sensible | lý trí |
+| 4 | **晓得** | `xiǎode` | *Noun* | know | biết, hiểu |
 | 5 | **化解** | `huàjiě` | *Verb* | eliminate | hoá giải, giải trừ |
 | 6 | **叹气** | `tànqì` | *Noun* | sigh | thở dài, than thở |
 | 7 | **算了** | `suànle` | *Phrase* | forget it, drop it, let it go at that | thôi bỏ đi |
@@ -598,19 +598,19 @@
 ## Unit 11: 性格品行与人际态度 (Personality Traits, Attitude & Character)
 *Module 2: Health, Medicine, Body & Psychology (医疗健康与心理情绪)*
 
-### `H6_11_1` — 谦虚踏实与戒骄戒躁 (Staying Modest and Steady vs. Being Arrogant and Lazy) (🗣️ Dialogue)
+### `H6_11_1` — 谦虚用心的品行与戒骄戒躁 (Modesty, Diligence, and Avoiding Arrogance) (🗣️ Dialogue)
 
-**Scenario**: A mentor praises a young professional for being modest, attentive, and dependable, contrasting those qualities with people who are conceited, lazy, or picky.
+**Scenario**: A mentor explains what truly counts as admirable professional character, noting that anyone who stays modest and attentive rather than arrogant, lazy, or picky earns lasting respect.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **谦虚** | `qiānxū` | *Adjective* | modest | khiêm tốn |
-| 2 | **踏实** | `tàshí` | *Adjective* | dependable, reliable, steady and sure | thiết thực, thực tiễn, thực dụng (tính cách) |
+| 2 | **凡是** | `fánshì` | *Adverb* | usually, whatever, any | phàm là |
 | 3 | **用心** | `yòngxīn` | *Adjective* | careful, intention | chăm chỉ, để tâm, dụng tâm |
 | 4 | **骄傲** | `jiāoào` | *Adjective* | arrogant, conceited | tự hào, kiêu ngạo |
 | 5 | **懒** | `lǎn` | *Adjective* | lazy | lười |
 | 6 | **嫌** | `xián` | *Verb* | dislike, mind, complain of | ghét, chê |
-| 7 | **素质** | `sùzhì` | *Noun* | character | tố chất |
+| 7 | **算是** | `suànshì` | *Verb* | at last, considered to be | coi là, xem là |
 
 ---
 
@@ -732,15 +732,15 @@
 
 ---
 
-### `H6_13_3` — 必修课程复习与补课补考安排 (Compulsory Course Review, Make-Up Classes, and Resits) (📖 Passage)
+### `H6_13_3` — 补课巩固基础与应对补考 (Make-Up Classes for Solid Foundations and Resits) (📖 Passage)
 
-**Scenario**: An academic notice outlines how students who miss compulsory classes can take extra tutoring lessons to solidify their foundation and avoid having to sit a make-up exam.
+**Scenario**: An academic advisor recommends extra tutoring sessions and review workshops to solidify foundational knowledge, adding that studying steadily now prevents having to sit a make-up exam later.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **必修** | `bìxiū` | *Noun* | must learn according to a curriculum | bắt buộc, môn học bắt buộc |
+| 1 | **之类** | `zhīlèi` | *Phrase* | a certain type of thing | loại |
 | 2 | **补课** | `bǔkè` | *Verb* | make up a missed lesson, reschedule a class | học bù, dạy bù |
-| 3 | **补习** | `bǔxí` | *Verb* | take extra lessons | học bổ túc |
+| 3 | **再说** | `zàishuō` | *Verb* | besides, moreover | hẵn nói, lại nói |
 | 4 | **补考** | `bǔkǎo` | *Noun* | resit | thi bù, thi bổ sung |
 | 5 | **巩固** | `gǒnggù` | *Verb* | strengthen | kiên cố |
 | 6 | **扎实** | `zhāshí` | *Adjective* | solid, sound | vững chắc, chắc chắn |
@@ -832,15 +832,15 @@
 
 ---
 
-### `H6_15_3` — 科研调研与论文稿件撰写 (Scientific Research, Field Surveys, and Drafting Papers) (📖 Passage)
+### `H6_15_3` — 协作调研与提炼核心本质因素 (Collaborative Field Surveys and Identifying Core Factors) (📖 Passage)
 
-**Scenario**: A guide for graduate researchers explains how to conduct field investigations, analyze core factors and intrinsic essence, and write a clear summary and manuscript draft.
+**Scenario**: A research guide explains how team members investigate together through field surveys, summarizing key elements such as core mechanisms and essential factors in a concise overview.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **科研** | `kēyán` | *Noun* | scientific research | nghiên cứu khoa học |
+| 1 | **一齐** | `yīqí` | *Adverb* | together, simultaneously | đồng thời, đồng loạt |
 | 2 | **调研** | `diàoyán` | *Verb* | investigate and research | điều nghiên (điều tra nghiên cứu) |
-| 3 | **稿子** | `gǎozi` | *Noun* | draft of a document | bản thảo, bản nháp |
+| 3 | **如** | `rú` | *Conjunction* | as, as if | Như: giống như, dường như |
 | 4 | **简介** | `jiǎnjiè` | *Noun* | brief introduction, summary | giới thiệu vắn tắt |
 | 5 | **核心** | `héxīn` | *Noun* | core | hạt nhân, trung tâm, chính |
 | 6 | **本质** | `běnzhì` | *Noun* | essence, nature, intrinstic quality | bản chất |
@@ -867,31 +867,31 @@
 
 ---
 
-### `H6_16_2` — 白领与蓝领的薪水及补助待遇 (Salary and Subsidies for White-Collar and Blue-Collar Workers) (🗣️ Dialogue)
+### `H6_16_2` — 不同岗位的补助待遇与加班常态 (Work Allowances and Overtime Across Professions) (🗣️ Dialogue)
 
-**Scenario**: Two colleagues compare the working conditions of white-collar office staff, blue-collar technicians, and migrant workers, discussing monthly salary, allowances, and overtime late at night.
+**Scenario**: Two colleagues compare white-collar staff, blue-collar technicians, and migrant workers, discussing meal subsidies, late-night overtime, and why people shouldn't treat the job itself as their entire life.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **白领** | `báilǐng` | *Noun* | white collar, white collar worker | thành phần tri thức, cán bộ lãnh đạo, chất xám, lãnh đạo |
 | 2 | **蓝领** | `lánlǐng` | *Noun* | blue-collar, blue-collar worker | đồ công nhân, quần áo lao động |
 | 3 | **民工** | `míngōng` | *Noun* | migrant worker, temporary worker enlisted on a public project | dân công |
-| 4 | **薪水** | `xīnshuǐ` | *Noun* | salary, pay | tiền lương |
+| 4 | **本身** | `běnshēn` | *Pronoun* | itself | bản thân, chính mình |
 | 5 | **补助** | `bǔzhù` | *Noun* | allowance, subsidy, subsidize | phụ trợ, giúp đỡ (về kinh tế) (thường là tổ chức giúp cho cá nhân) |
-| 6 | **职责** | `zhízé` | *Noun* | duty, obligation, responsibility | chức trách, trách nhiệm |
+| 6 | **当成** | `dàngchéng` | *Verb* | consider as, ake to be | cho rằng, xem như, làm |
 | 7 | **开夜车** | `kāiyèchē` | *Verb* | work late into the night | làm đêm, làm thêm ban đêm, làm thâu đêm |
 
 ---
 
-### `H6_16_3` — 写字楼日常办公与档案管理 (Daily Office Work and File Management in an Office Building) (📖 Passage)
+### `H6_16_3` — 写字楼档案盖章与分档提交流程 (Office Building Stamping and Filing Submission Rules) (📖 Passage)
 
-**Scenario**: An office administration manual describes working in a modern office building, using the printer, stamping official files, and submitting documents before the deadline.
+**Scenario**: An office administration guide explains the procedure for archiving and submitting materials in an office building—meaning documents must be stamped, organized in folders, and another copy filed separately.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **写字楼** | `xiězìlóu` | *Noun* | office building | tòa nhà văn phòng |
-| 2 | **办公** | `bàngōng` | *Verb* | work | làm việc |
-| 3 | **打印机** | `dǎyìnjī` | *Noun* | printer | máy in |
+| 2 | **就是说** | `jiùshìshuō` | *Noun* | that is | chính là nói |
+| 3 | **另** | `lìng` | *Adverb* | another, other | ngoài, khác |
 | 4 | **印** | `yìn` | *Verb* | 1. stamp, print; 2. print; 3. seal, stamp; 4. the Yin family | 1. Ấn:; 2. in, ấn; 3. con ấn, con dấu; 4. họ Ấn |
 | 5 | **档案** | `dàngàn` | *Noun* | files | hồ sơ, tài liệu |
 | 6 | **档** | `dàng` | *Noun* | file, official records | hồ sơ, ngăn hồ sơ, tủ hồ sơ |
@@ -969,9 +969,9 @@
 
 ---
 
-### `H6_18_2` — 厂商参展与优质精品定价 (Manufacturers Exhibiting at a Trade Show and Pricing Premium Goods) (🗣️ Dialogue)
+### `H6_18_2` — 参展国产品牌的一贯品质与定价 (Trade Show Exhibitors and Consistent Quality Pricing) (🗣️ Dialogue)
 
-**Scenario**: Domestic manufacturers exhibiting at a trade fair showcase high-grade premium products and end products, discussing how to set prices for the shopping mall.
+**Scenario**: Domestic manufacturers exhibiting at a trade fair showcase high-grade domestic goods, explaining how keeping quality consistently high supports fair retail pricing.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -979,7 +979,7 @@
 | 2 | **参展** | `cānzhǎn` | *Verb* | exhibit at or take part in a trade show etc | tham gia triển lãm |
 | 3 | **国产** | `guóchǎn` | *Noun* | domestically produced | quốc sản, sản phẩm của một nước, hàng nội địa, hàng trong nước |
 | 4 | **高档** | `gāodàng` | *Noun* | high-grade, top-grade | hảo hạng, cao cấp |
-| 5 | **精品** | `jīngpǐn` | *Noun* | quality goods, premium product | sản phẩm tinh xảo |
+| 5 | **如一** | `rú yī` | *Adverb* | as one | như một, trước sau như một |
 | 6 | **优质** | `yōuzhì` | *Noun* | excellent quality | chất lượng tốt, ưu chất |
 | 7 | **定价** | `dìngjià` | *Verb* | fix a price, set a price | định giá, giá quy định |
 
@@ -1036,16 +1036,16 @@
 
 ---
 
-### `H6_19_3` — 正确看待金钱财富与赚钱之道 (A Rational View of Money, Wealth, and Earning a Living) (📖 Passage)
+### `H6_19_3` — 看待赚钱之道与财富价值 (Viewing Wealth, Earnings, and True Value) (📖 Passage)
 
-**Scenario**: An economic commentary reflects on how ordinary people and wealthy individuals view money, earning a profit, Tipping in service industries, and measuring true value.
+**Scenario**: A commentary reflects on how people earn profits, leave service tips, and evaluate what is worth paying for, cautioning against treating a wealthy lifestyle in name only as true fulfillment.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **金钱** | `jīnqián` | *Idiom* | money | tiền, kim tiền |
+| 1 | **看作** | `kànzuò` | *Verb* | look upon as, regard as | xem xét, cân nhắc |
 | 2 | **赚** | `zhuàn` | *Verb* | earn | kiếm (tiền) |
 | 3 | **赚钱** | `zhuànqián` | *Verb* | make money, to earn money | kiếm tiền |
-| 4 | **富人** | `fùrén` | *Noun* | rich man | người giàu |
+| 4 | **名义** | `míngyì` | *Noun* | name, nominal | danh nghĩa |
 | 5 | **富有** | `fùyǒu` | *Adjective* | wealthy, be full of | giàu có |
 | 6 | **小费** | `xiǎofèi` | *Noun* | tip | tiền boa, tiền trà nước, tiền típ |
 | 7 | **不值** | `bùzhí` | *Verb* | beneath | không đáng, không có giá trị |
@@ -1087,14 +1087,14 @@
 
 ---
 
-### `H6_20_3` — 经济复苏期的指数与产量增长 (Index and Output Growth During Economic Recovery) (📖 Passage)
+### `H6_20_3` — 经济复苏期的顺畅增长与指数分析 (Smooth Recovery Growth and Economic Index Trends) (📖 Passage)
 
-**Scenario**: A quarterly economic report notes that industrial output and overall volume rose by several percentage points over the same period, signaling a thriving recovery from crisis.
+**Scenario**: A quarterly economic report notes that output, total volume, and key indexes rose by several percentage points over the same period last year, indicating a smooth economic recovery.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **复苏** | `fùsū` | *Verb* | anabiosis, recover (health, economic) | sống lại, hồi phục |
-| 2 | **危机** | `wēijī` | *Noun* | crisis | nguy cơ, khủng hoảng |
+| 2 | **顺** | `shùn` | *Adjective* | 1. along; 2. arrange, follow | 1. thuận, xuôi, theo; 2. sắp xếp, theo |
 | 3 | **指数** | `zhǐshù` | *Noun* | index | chỉ số |
 | 4 | **百分点** | `bǎifēndiǎn` | *Noun* | percentage point | 100 điểm |
 | 5 | **产量** | `chǎnliàng` | *Noun* | volume of output | sản lượng |
@@ -1173,18 +1173,18 @@
 
 ---
 
-### `H6_22_2` — 拨打客服热线与电话通话 (Dialing a Service Hotline and Holding a Phone Call) (🗣️ Dialogue)
+### `H6_22_2` — 拨打客服热线与事后跟进回应 (Calling the Service Hotline and Follow-Up Responses) (🗣️ Dialogue)
 
-**Scenario**: A user dials the customer service hotline to consult an agent over the phone, receiving a prompt response and official notification before the service deadline.
+**Scenario**: A customer dials the service hotline before the cutoff time to resolve an issue over the phone, clarifying that any follow-up response afterward still counts under the service guarantee.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **拨打** | `bōdǎ` | *Verb* | dial or press buttons on the touch pad of a phone | gọi số, quay số |
 | 2 | **热线** | `rèxiàn` | *Noun* | hotline (communications link) | hotline, đường dây nóng |
 | 3 | **通话** | `tōnghuà` | *Verb* | talk over the telephone, hold a conversation | trò chuyện, nói chuyệ |
-| 4 | **咨询** | `zīxún` | *Verb* | seek advice from | tư vấn, hỏi ý kiến |
+| 4 | **这就是说** | `zhèjiùshìshuō` | *Phrase* | this means that | cũng chính là nói, điều đó có nghĩa là |
 | 5 | **回应** | `huíyìng` | *Verb* | response, respond | trả lời, đáp ứng |
-| 6 | **通报** | `tōngbào` | *Noun* | announce, inform | thông báo |
+| 6 | **事后** | `shìhòu` | *Adverb* | after the event, in hindsight | sau, sau đó, sau khi sự việc xảy ra |
 | 7 | **截止** | `jiézhǐ` | *Noun* | up to, until | cho đến, đến |
 
 ---
@@ -1208,34 +1208,34 @@
 ## Unit 23: 高新科技与工业研发 (High-Tech Innovation, Machinery & Aerospace)
 *Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)*
 
-### `H6_23_1` — 高科技仪器研发与系统升级 (High-Tech Instrument R&D and System Upgrades) (🗣️ Dialogue)
+### `H6_23_1` — 高科技机械革新与巧妙系统升级 (High-Tech Machinery Innovation and Smart Upgrades) (🗣️ Dialogue)
 
-**Scenario**: Engineers in an R&D center discuss innovating high-tech precision instruments, deploying new hardware configurations, and upgrading automated machinery.
+**Scenario**: Engineers work together on technological innovation, praising a clever hardware configuration that upgrades industrial machinery.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **高科技** | `gāokējì` | *Noun* | high tech, high technology | khoa học kĩ thuật cao |
-| 2 | **研发** | `yánfā` | *Verb* | research and development | nghiên phát (nghiên cứu phát triển), R&D |
+| 2 | **一同** | `yītóng` | *Adverb* | along, together | cùng, chung |
 | 3 | **革新** | `géxīn` | *Noun* | innovation, innovate | cách tân, đổi mới |
-| 4 | **仪器** | `yíqì` | *Noun* | instrument, apparatus | máy móc, dụng cụ |
+| 4 | **妙** | `miào` | *Adjective* | clever, wonderful | đẹp, tuyệt diệu, tuyệt vời |
 | 5 | **配置** | `pèizhì` | *Noun* | deploy | phân phối, bố trí |
 | 6 | **升级** | `shēngjí` | *Verb* | upgrade, go up | nâng cấp |
 | 7 | **机械** | `jīxiè` | *Adjective* | machinery, rigid | máy móc, cơ giới |
 
 ---
 
-### `H6_23_2` — 机械故障排查与数据监测 (Troubleshooting Mechanical Malfunctions and Data Monitoring) (🗣️ Dialogue)
+### `H6_23_2` — 协同排查异常与超越常规监测 (Jointly Detecting Anomalies Beyond Routine Monitoring) (🗣️ Dialogue)
 
-**Scenario**: When an industrial machine suffers an unusual malfunction, technicians use sensors to monitor and evaluate chemical elements and circuits to find the cause.
+**Scenario**: When industrial readings show abnormal behavior, technicians inspect sensors together and measure chemical elements beyond routine checks to pinpoint the issue.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **故障** | `gùzhàng` | *Noun* | malfunction, breakdown | trục trặc, cản trở |
+| 1 | **一道** | `yīdào` | *Noun* | together | cùng, cùng nhau |
 | 2 | **异常** | `yìcháng` | *Adjective* | unusual | dị thường, đặc biệt |
 | 3 | **监测** | `jiāncè` | *Verb* | monitor | giám sát |
 | 4 | **测定** | `cèdìng` | *Verb* | survey and evaluate | xác định, đo định |
 | 5 | **元素** | `yuánsù` | *Noun* | component, factor, element | nguyên tố |
-| 6 | **线路** | `xiànlù` | *Noun* | circuits | tuyến, đường dây, mạng lưới, tuyến đường (tải điện, ô tô...) |
+| 6 | **常规** | `chángguī` | *Noun* | routine, common practice | lệ thường, thông thường |
 | 7 | **查出** | `cháchū` | *Verb* | discover, find out | tra ra |
 
 ---
@@ -1259,15 +1259,15 @@
 ## Unit 24: 新闻传媒与公众舆论 (News Media, Journalism & Public Opinion)
 *Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)*
 
-### `H6_24_1` — 电视栏目主持人与热点播报 (TV Column Host and Broadcasting Hot Topics) (🗣️ Dialogue)
+### `H6_24_1` — 传媒热点播报与近日及明日预告 (Media Hot-Topic Broadcasts and Program Previews) (🗣️ Dialogue)
 
-**Scenario**: A television host and a media producer discuss broadcasting a popular news column, analyzing public reaction and mainstream opinion on trending topics.
+**Scenario**: A television host and media producer discuss broadcasting mainstream hot topics from recent days and previewing tomorrow's special segment.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **传媒** | `chuánméi` | *Noun* | media | người phổ biến, người truyền bá |
-| 2 | **报刊** | `bàokān` | *Noun* | newspapers and periodicals | báo chí |
-| 3 | **栏目** | `lánmù` | *Noun* | column | chuyên mục |
+| 2 | **近日** | `jìnrì` | *Noun* | in the last few days | mấy ngày qua, gần đây, dạo này |
+| 3 | **明日** | `míngrì` | *Noun* | tomorrow | ngày mai |
 | 4 | **主持人** | `zhǔchírén` | *Noun* | host or hostess | người dẫn chương trình (phát thanh, truyền hình) |
 | 5 | **播** | `bō` | *Verb* | broadcast | phát, phổ biến, lan truyền |
 | 6 | **热点** | `rèdiǎn` | *Noun* | prime site | điểm nóng |
@@ -1275,19 +1275,19 @@
 
 ---
 
-### `H6_24_2` — 拒绝媒体炒作与澄清网络传言 (Rejecting Media Hype and Clarifying Online Rumors) (🗣️ Dialogue)
+### `H6_24_2` — 澄清此前传言与平息炒作风波 (Clarifying Earlier Rumors and Calming Media Hype) (🗣️ Dialogue)
 
-**Scenario**: A spokesperson steps forward at a press briefing to disclose the truth, refuting media hype and baseless rumors that were disseminated online.
+**Scenario**: An official representative steps forward to disclose what happened previously, debunking rumors spread online so the media hype subsides afterward.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **发言人** | `fāyánrén` | *Noun* | spokesperson | người phát ngôn |
+| 1 | **此前** | `cǐqián` | *Adverb* | previously, before this, before then | trước này, trước điều này |
 | 2 | **出面** | `chūmiàn` | *Verb* | come out | ra mặt, đứng ra |
 | 3 | **透露** | `tòulù` | *Noun* | disclose, reveal | tiết lộ, để lộ |
 | 4 | **传出** | `chuánchū` | *Verb* | transmit outwards, disseminate | truyền ra, truyền ra ngoài |
 | 5 | **传言** | `chuányán` | *Noun* | gossip, rumor | lời đồn, tiếng đồn |
 | 6 | **炒作** | `chǎozuò` | *Verb* | hype, promote (in the media) | xào làm |
-| 7 | **焦点** | `jiāodiǎn` | *Noun* | focal point | tiêu điểm |
+| 7 | **过后** | `guòhòu` | *Noun* | after the event | sau này, mai sau |
 
 ---
 
@@ -1326,19 +1326,19 @@
 
 ---
 
-### `H6_25_2` — 礼堂文艺演出与热烈掌声 (Cultural Performance in the Auditorium and Warm Applause) (🗣️ Dialogue)
+### `H6_25_2` — 艺人一番排练后的上台展演与点评 (Performers' Stage Debut After Rehearsal and Critique) (🗣️ Dialogue)
 
-**Scenario**: In the grand auditorium, performers and dancers come on stage to present a folk dance and traditional Chinese opera, winning thunderous applause.
+**Scenario**: After putting in thorough rehearsal, folk dancers and traditional opera artists take the stage in turn while judges evaluate their performances.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **礼堂** | `lǐtáng` | *Noun* | hall | lễ đường, hội trường |
+| 1 | **一番** | `yīfān` | *Noun* | some | 1 lần |
 | 2 | **艺人** | `yìrén` | *Noun* | 1. performer, entertainer; 2. artisan | 1. nghệ sĩ; 2. nghệ nhân |
 | 3 | **上台** | `shàngtái` | *Verb* | go on stage (in the theater), rise to power (in politics) | lên sân khấu, lên bục giảng |
 | 4 | **出场** | `chūchǎng` | *Verb* | come on the stage, enter the playing ground | lên sân khấu, lên biểu diễn, ra sàn diễn (diễn viên) |
 | 5 | **舞蹈** | `wǔdǎo` | *Noun* | dance | vũ đạo, điệu múa |
 | 6 | **戏曲** | `xìqǔ` | *Noun* | 1. Chinese opera; 2. traditional Chinese opera | 1. lời hát; 2. hí khúc (các loại hí kịch truyền thống của Trung Quốc và các loại kịch hát địa phương, kết hợp múa hát để diễn một cốt truyện) |
-| 7 | **掌声** | `zhǎngshēng` | *Noun* | applause | tiếng vỗ tay |
+| 7 | **评** | `píng` | *Verb* | 1. comment, criticize, discuss; 2. comment, criticize, evaluate; 3. vote, choose | 1. Bình:; 2. bình luận, phê bình, đánh giá; 3. bình bầu, lựa chọn |
 
 ---
 
@@ -1361,15 +1361,15 @@
 ## Unit 26: 音乐绘画与审美收藏 (Music, Fine Arts, Fashion & Collecting)
 *Module 5: Science, Technology, Media & Arts (科技传媒与文化艺术)*
 
-### `H6_26_1` — 古典乐曲演奏与动人歌词 (Performing Classical Music and Moving Lyrics) (🗣️ Dialogue)
+### `H6_26_1` — 古典节奏与特邀歌星的舞台献唱 (Classical Rhythm and a Specially Invited Singer) (🗣️ Dialogue)
 
-**Scenario**: After a concert, two music lovers discuss how the musician performed a classical musical composition with a brisk tempo and how the famous singer sang the lyrics.
+**Scenario**: After a round of live music featuring brisk classical rhythms played onstage, two fans praise the specially invited pop star's singing.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **古典** | `gǔdiǎn` | *Adjective* | classics, classical | cổ điển |
-| 2 | **乐曲** | `yuèqǔ` | *Noun* | musical composition | nhạc khúc, bản nhạc |
-| 3 | **演奏** | `yǎnzòu` | *Verb* | perform on a musical instrument | diễn tấu |
+| 2 | **番** | `fān` | *Noun* | (used with certain numerals to indicate a process or an action that takes time and effort) time | nước ngoài, ngoại biên |
+| 3 | **特** | `tè` | *Noun* | especially, unique | Đặc: đặc biệt, đặc thù |
 | 4 | **奏** | `zòu` | *Verb* | play music, present a memorial to the emperor (old) | Tấu: diễn tấu, tấu, biểu diễn |
 | 5 | **节奏** | `jiézòu` | *Noun* | rhythm, tempo | tiết tấu, nhịp điệu |
 | 6 | **歌星** | `gēxīng` | *Noun* | famous singer | ngôi sao ca nhạc, ca sĩ nổi tiếng |
@@ -1377,44 +1377,44 @@
 
 ---
 
-### `H6_26_2` — 时装设计师的审美与美容风尚 (Fashion Designers' Aesthetics and Beauty Trends) (🗣️ Dialogue)
+### `H6_26_2` — 民歌意境与酷炫时装美容风尚 (Folk Lyrics and Cool Fashion & Beauty Trends) (🗣️ Dialogue)
 
-**Scenario**: A fashion designer discusses how folk songs and painting inspire cool modern fashion, exquisite exterior patterns, and popular beauty treatments.
+**Scenario**: A style columnist explores how folk song lyrics evoke visuals that seem just like contemporary art, blending with cool modern fashion and beauty trends.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **歌词** | `gēcí` | *Noun* | lyrics, words of a song | ca từ, lời bài hát |
 | 2 | **民歌** | `míngē` | *Noun* | folk song | dân ca |
-| 3 | **绘画** | `huìhuà` | *Noun* | draw, paint | hội họa |
-| 4 | **设计师** | `shèjìshī` | *Noun* | designer, constructor | nhà thiết kế |
+| 3 | **好似** | `hǎosì` | *Noun* | be like, seem | hình như, như, tựa như |
+| 4 | **同** | `tóng` | *Noun* | alike, same, similar | giống nhau, tương đồng |
 | 5 | **时装** | `shízhuāng` | *Noun* | fashion | thời trang |
 | 6 | **美容** | `měiróng` | *Verb* | beautify, improve one's appearance (using cosmetics or cosmetic surgery) | mỹ dung, làm đẹp |
 | 7 | **酷** | `kù` | *Adjective* | 1. (loanword) cool; 2. ruthless, strong (e.g. of wine); 3. extreme, very | 1. Khốc:; 2. tàn khốc, tàn bạo; 3. cực, quá, rất |
 
 ---
 
-### `H6_26_3` — 精美珠宝收藏与真伪鉴定 (Collecting Exquisite Jewelry and Authenticating Antiques) (📖 Passage)
+### `H6_26_3` — 精美藏品外观与真伪细节鉴定 (Authenticating Exquisite Collectibles and Look-Alikes) (📖 Passage)
 
-**Scenario**: An art column explains how collectors authenticate exquisite jewelry and cultural relics, evaluating their form, pattern, and exterior appearance while rejecting pirated copies.
+**Scenario**: An appraisal guide explains how experts inspect exquisite collectibles, examining subtle details of form and exterior when two pieces look nearly identical, as if made from the same mold.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **珠宝** | `zhūbǎo` | *Noun* | jewels | châu báu |
+| 1 | **仿佛** | `fǎngfú` | *Noun* | 1. as if; 2. similar | 1. dường như; 2. giống như |
 | 2 | **精美** | `jīngměi` | *Adjective* | exquisite | tinh xảo đẹp đẽ, tinh vi sắc sảo. |
 | 3 | **收藏** | `shōucáng` | *Verb* | collect, store up | cất giữ, thu gom, góp nhặt |
 | 4 | **鉴定** | `jiàndìng` | *Verb* | authenticate | giám định |
 | 5 | **外观** | `wàiguān` | *Noun* | exterior appearance, exterior condition | bên ngoài, bề ngoài |
 | 6 | **形** | `xíng` | *Noun* | 1. form, shape; 2. shape, form; 3. figure, form | 1. Hình:; 2. hình dáng, hình dạng; 3. hình thể, hình thức |
-| 7 | **盗版** | `dàobǎn` | *Noun* | illegal, pirated | sách lậu (sách không có bản quyền mà đem in hoặc dịch) |
+| 7 | **一模一样** | `yīmúyīyàng` | *Adjective* | exactly the same (idiom) | 1 khuôn 1 dạng, ý chỉ giống nhau như đúc |
 
 ---
 
 ## Unit 27: 体育赛事与竞技运动 (Sports Competitions, Athletics & Ball Games)
 *Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)*
 
-### `H6_27_1` — 报名参加田径长跑与跳水大赛 (Entering the Track-and-Field Distance Running and Diving Contest) (🗣️ Dialogue)
+### `H6_27_1` — 备战重大赛事与赛场全力提升 (Preparing for Major Tournaments and Giving One's All) (🗣️ Dialogue)
 
-**Scenario**: Two athletes at the sports arena prepare to compete in a major tournament, discussing track-and-field long-distance running, diving, and winning a bronze medal.
+**Scenario**: Entering the newly built sports stadium before a major competition, two athletes talk about sharpening their skills to raise their performance and giving their utmost effort on the field.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -1423,30 +1423,30 @@
 | 3 | **赛** | `sài` | *Verb* | competition, match | thi đấu |
 | 4 | **赛场** | `sàichǎng` | *Noun* | playing area, competition ground | nơi thi đấu, đường đua |
 | 5 | **场馆** | `chǎngguǎn` | *Noun* | arena | nơi lập toà xử án |
-| 6 | **田径** | `tiánjìng` | *Noun* | track and field | điền kinh |
-| 7 | **长跑** | `chángpǎo` | *Noun* | go long-distance running | chạy đường dài |
+| 6 | **提升** | `tíshēng` | *Verb* | promote, upgrade | đề bạt, thăng cấp |
+| 7 | **尽** | `jǐn` | *Noun* | 1. the utmost; 2. exhausted, entirely | 1. hết sức, cố; 2. hết, tận (hết sức, tận lực) |
 
 ---
 
-### `H6_27_2` — 球星单双打半决赛的精彩对决 (Thrilling Singles and Doubles Semifinals featuring Sports Stars) (🗣️ Dialogue)
+### `H6_27_2` — 单双打联赛与竞技项目的全面较量 (Singles, Doubles Leagues, and All-Round Competition) (🗣️ Dialogue)
 
-**Scenario**: Spectators watch a league semifinal match where a star player uses a new racket to compete in both singles and doubles, while a child kicks a rubber ball nearby.
+**Scenario**: Spectators watch a league match using new rackets across singles and doubles alongside diving highlights, noting that tournaments test not only technique but even more teamwork and composure.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **跳水** | `tiàoshuǐ` | *Noun* | (sports) diving, dive (into water) | nhảy cầu, nhảy nước (thể thao) |
-| 2 | **铜牌** | `tóngpái` | *Noun* | bronze medal, bronze plaque bearing a business name or logo etc | huy chương đồng |
+| 2 | **不仅仅** | `bùjǐnjǐn` | *Adverb* | not just | không chỉ là |
 | 3 | **联赛** | `liánsài` | *Noun* | league tournament | thi đấu vòng tròn, đấu vòng tròn (bóng rổ, bóng chuyền, bóng đá...) |
-| 4 | **半决赛** | `bànjuésài` | *Noun* | semifinals | vòng bán kết, bán kết |
+| 4 | **更是** | `gèngshì` | *Noun* | even more | đặc biệt là, nhất là |
 | 5 | **单打** | `dāndǎ` | *Verb* | singles (in sports) | đánh đơn |
 | 6 | **双打** | `shuāngdǎ` | *Noun* | doubles (in sports) | đánh kép, đánh đôi |
 | 7 | **球拍** | `qiúpāi` | *Noun* | racket | vợt bóng bàn, vợt ten- nít |
 
 ---
 
-### `H6_27_3` — 赛场规则与高手竞技风采 (Competition Rules and the Poise of Top Athletes) (📖 Passage)
+### `H6_27_3` — 球星灵活出招与赛场规则把控 (Agile Moves by Sports Stars and Rules on the Pitch) (📖 Passage)
 
-**Scenario**: A sports commentary describes how ball game players and martial arts experts show agile movements on the field without committing fouls.
+**Scenario**: A sports commentary describes how agile football players and stars kick the ball and pull off clever tactical moves without committing fouls.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -1454,7 +1454,7 @@
 | 2 | **球星** | `qiúxīng` | *Noun* | sports star (ball sport) | ngôi sao bóng đá, ngôi sao bóng rổ |
 | 3 | **皮球** | `píqiú` | *Noun* | ball (made of rubber, leather etc) | bóng da, bóng cao su |
 | 4 | **踢** | `tī` | *Verb* | kick | đá |
-| 5 | **高手** | `gāoshǒu` | *Noun* | expert | cao thủ |
+| 5 | **招** | `zhāo` | *Verb* | trick, move, method | chiêu, tuyển gọi, vẫy gọi |
 | 6 | **犯规** | `fànguī` | *Verb* | break the rules | phạm quy |
 | 7 | **灵活** | `línghuó` | *Adjective* | flexible, elastic | linh hoạt |
 
@@ -1565,14 +1565,14 @@
 ## Unit 30: 铁路民航与水路交通 (Railways, Aviation & Maritime Transport)
 *Module 6: Sports, Leisure, Travel & Transportation (体育休闲与交通旅游)*
 
-### `H6_30_1` — 火车站台候车与卧铺退票 (Waiting on the Station Platform and Refunding a Sleeper Ticket) (🗣️ Dialogue)
+### `H6_30_1` — 窗口改签卧铺车票与列车选择 (Changing Sleeper Tickets at the Window Just in Time) (🗣️ Dialogue)
 
-**Scenario**: At the railway station, a traveler passes through the security check, compares express, fast, and slow trains, and asks at the window how to refund a sleeper ticket before seeing a friend off.
+**Scenario**: Worried they won't make it to the express train, a traveler arrives at the ticket window just in time to compare fast and slow trains and secure a sleeper berth.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **安检** | `ānjiǎn` | *Noun* | security check | kiểm tra an ninh |
-| 2 | **站台** | `zhàntái` | *Noun* | platform (at a railway station) | sân ga |
+| 1 | **刚好** | `gānghǎo` | *Adverb* | exactly, just | vừa vặn, vừa khít, vừa, vừa khớp |
+| 2 | **赶不上** | `gǎnbùshàng` | *Verb* | can't catch up with, can't keep up with | không đuổi kịp, không theo kịp |
 | 3 | **窗口** | `chuāngkǒu` | *Noun* | window | cửa sổ, lỗ cửa nhỏ (ở quầy bán vé, phát thuốc...), cửa bán vé. |
 | 4 | **特快** | `tèkuài` | *Noun* | express (train, delivery etc) | tốc hành, nhanh, đặc biệt nhanh |
 | 5 | **快车** | `kuàichē` | *Noun* | express (train, bus etc) | xe tốc hành, tàu nhanh, xe con cao tốc |
@@ -1581,19 +1581,19 @@
 
 ---
 
-### `H6_30_2` — 客车晕车与沿途风景 (Carsickness on a Passenger Coach and Scenery Along the Way) (🗣️ Dialogue)
+### `H6_30_2` — 送行途中恰逢好景与顺利抵达 (Coincidental Send-Off Scenery and Arriving Safely) (🗣️ Dialogue)
 
-**Scenario**: After seeing off a friend, a traveler riding a long-distance passenger coach feels carsick along the way, but cheers up upon arriving at the destination.
+**Scenario**: After seeing off a friend—and deciding against refunding the ticket—a traveler riding through the journey happens to feel better from motion sickness and enjoys seeing clear scenery out the window until arrival.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **退票** | `tuìpiào` | *Verb* | return a ticket, get a refund for a ticket | trả vé, nhường lại vé |
 | 2 | **送行** | `sòngxíng` | *Verb* | see … off | tiễn đưa, tiễn biệt |
-| 3 | **客车** | `kèchē` | *Noun* | passenger train | xe khách, toa hành khách |
+| 3 | **恰好** | `qiàhǎo` | *Adverb* | (of number, time, size etc) just right, by lucky coincidence | vừa lúc, đúng lúc, vừa đúng, vừa may |
 | 4 | **晕车** | `yùnchē` | *Verb* | be carsick | say xe |
 | 5 | **一路上** | `yīlùshàng` | *Adverb* | along the way | suốt trên một đường |
 | 6 | **抵达** | `dǐdá` | *Verb* | arrive at, reach | đến nơi, đạt được |
-| 7 | **远方** | `yuǎnfāng` | *Noun* | afar | viễn phương, phương xa, phía xa |
+| 7 | **看得见** | `kàndéjiàn` | *Verb* | visible, can see | nhìn thấy |
 
 ---
 
@@ -1632,14 +1632,14 @@
 
 ---
 
-### `H6_31_2` — 早晚高峰路况与修车经历 (Rush-Hour Road Conditions and Repairing a Vehicle) (🗣️ Dialogue)
+### `H6_31_2` — 赶忙绕行大街与修车后的畅通 (Hurrying Down Side Streets and Clearing Traffic) (🗣️ Dialogue)
 
-**Scenario**: During rush hour, a driver passing by the main avenue finds the road blocked, turns at the corner to repair a flat tire, and waits for traffic to flow smoothly again.
+**Scenario**: Finding the road blocked right when heading to an appointment, a driver hurries down a side street to get a quick vehicle repair just as traffic clears and flows smoothly again.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **高峰** | `gāofēng` | *Noun* | peak, summit | đỉnh cao, cao điểm |
-| 2 | **大道** | `dàdào` | *Noun* | avenue, main street | đại lộ, đường thênh thang |
+| 1 | **赶忙** | `gǎnmáng` | *Adverb* | hasten, hurry | vội vàng, mau, gấp |
+| 2 | **恰恰** | `qiàqià` | *Adverb* | exactly, just | vừa vặn, vừa lúc, vừa may, vừa đúng |
 | 3 | **大街** | `dàjiē` | *Noun* | main street, street | đường phố, phố phường, phố lớn |
 | 4 | **通行** | `tōngxíng` | *Verb* | pass through, be in general use | thông hành, qua lại, đi lại |
 | 5 | **不通** | `bùtōng` | *Adjective* | 1. be blocked up, be impassable; 2. make no sense | 1. bất thông, không bị tắc nghẽn; 2. không có ý nghĩa |
@@ -1667,16 +1667,16 @@
 ## Unit 32: 山川海洋与自然奇观 (Mountains, Oceans & Natural Landscapes)
 *Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)*
 
-### `H6_32_1` — 户外登山与探访山谷山峰 (Outdoor Mountaineering and Exploring Valleys and Peaks) (🗣️ Dialogue)
+### `H6_32_1` — 户外登山坡远眺四外风光 (Climbing a Hillside and Gazing Around Outdoors) (🗣️ Dialogue)
 
-**Scenario**: Hikers gearing up for an outdoor trek climb a steep hillside slope, traverse a deep valley toward the mountain peak, and spot a clear landscape in the distance.
+**Scenario**: Equipped with outdoor gear, hikers climb a steep mountain slope and look around in every direction, admiring natural scenery stretching far into the distance.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **户外** | `hùwài` | *Noun* | outdoors, outside | ngoài trời |
 | 2 | **装备** | `zhuāngbèi` | *Noun* | equipment, equip | trang bị |
-| 3 | **山峰** | `shānfēng` | *Noun* | (mountain) peak | đỉnh núi, chóp núi |
-| 4 | **山谷** | `shāngǔ` | *Noun* | ravine, valley | khe núi, thung lũng |
+| 3 | **四外** | `sì wài` | *Noun* | four outside | khắp nơi, xung quanh |
+| 4 | **远远** | `yuǎnyuǎn` | *Adverb* | by far, distant | xa xa |
 | 5 | **山坡** | `shānpō` | *Noun* | hillside | sườn núi, dốc núi |
 | 6 | **坡** | `pō` | *Noun* | slope | sườn dốc, dốc |
 | 7 | **景** | `jǐng` | *Noun* | scenery, circumstance | cảnh trí, phong cảnh, cảnh |
@@ -1718,13 +1718,13 @@
 ## Unit 33: 气象灾害与应急撤离 (Weather Disasters, Floods & Emergency Evacuation)
 *Module 7: Nature, Geography, Urban-Rural & Environment (自然地理与城乡环境)*
 
-### `H6_33_1` — 乌云密布与暴风雨前的防范 (Dark Clouds Gathering and Precautions Before a Storm) (🗣️ Dialogue)
+### `H6_33_1` — 望见天色突变与暴风雨前的防范 (Spotting Gathering Storm Clouds and Taking Precautions) (🗣️ Dialogue)
 
-**Scenario**: As dark clouds cover the sky and fierce winds blow, residents keep a lookout for the approaching rainstorm, storm, and low temperatures.
+**Scenario**: Looking up as heavy overcast spreads across the sky and fierce winds begin to blow, residents prepare for an approaching rainstorm, severe storm, and sudden temperature drop.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **乌云** | `wūyún` | *Noun* | black cloud | mây đen |
+| 1 | **望见** | `wàngjiàn` | *Verb* | espy, spot | trông mong |
 | 2 | **布满** | `bùmǎn` | *Verb* | be covered with, be filled with | bố trí đầy |
 | 3 | **刮** | `guā` | *Verb* | blow (of the wind) | thổi (gió thổi) |
 | 4 | **暴雨** | `bàoyǔ` | *Noun* | rainstorm | mưa xối xả |
@@ -1887,16 +1887,16 @@
 
 ---
 
-### `H6_36_2` — 抓捕强盗凶手与揭露阴谋 (Capturing Robbers and Perpetrators and Exposing a Plot) (🗣️ Dialogue)
+### `H6_36_2` — 查获走私阴谋与追捕涉案人员 (Cracking Down on Smuggling Plots and Tracking Suspects) (🗣️ Dialogue)
 
-**Scenario**: Detectives foil a robber's attempt to deceive victims, exposing a hidden conspiracy and capturing the perpetrator before anyone is taken in.
+**Scenario**: Detectives expose a smuggling conspiracy, confiscating contraband goods while investigating whether all suspects behind the scheme can be caught after victims suffered losses.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **走私** | `zǒusī` | *Verb* | smuggle | buôn lậu |
 | 2 | **没收** | `mòshōu` | *Verb* | confiscate, seize | tịch thu, tịch biên |
-| 3 | **强盗** | `qiángdào` | *Noun* | bandit, robber | cường đạo, bọn giặc, bọn cướp |
-| 4 | **凶手** | `xiōngshǒu` | *Noun* | murderer | hung thủ |
+| 3 | **挨** | `āi` | *Verb* | delay, endure | bị(đánh), chịu đựng |
+| 4 | **能否** | `néngfǒu` | *Verb* | can it or can't it, is it possible? | liệu sẽ |
 | 5 | **捉** | `zhuō` | *Verb* | capture, grab | cầm, nắm, bắt, tóm |
 | 6 | **企图** | `qǐtú` | *Verb* | try, attempt | ý đồ, mưu đồ |
 | 7 | **阴谋** | `yīnmóu` | *Noun* | plot, conspiracy | âm mưu, mưu đồ |
@@ -1922,25 +1922,25 @@
 ## Unit 37: 法庭诉讼与维权公正 (Court Litigation, Lawsuits & Legal Rights)
 *Module 8: History, Culture, Religion & Governance (历史文化、宗教信仰与社会演进)*
 
-### `H6_37_1` — 民事纠纷起诉与法庭打官司 (Filing a Lawsuit Over a Civil Dispute and Going to Court) (🗣️ Dialogue)
+### `H6_37_1` — 依法起诉被告与开庭打官司 (Filing a Lawsuit Against a Defendant in Court) (🗣️ Dialogue)
 
-**Scenario**: Unable to settle a property dispute privately, the plaintiff decides to sue the defendant and go to court so the judge can render a fair verdict.
+**Scenario**: After a legal conflict escalates to a formal lawsuit, the plaintiff sues the defendant, and once proceedings begin in session, both sides present evidence for a fair ruling.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **纠纷** | `jiūfēn` | *Noun* | dispute | tranh chấp, bất hòa |
+| 1 | **于** | `yú` | *Noun* | from, out of | từ, ở, vào |
 | 2 | **官司** | `guānsī` | *Noun* | lawsuit | kiện cáo, tố tụng, kiện |
 | 3 | **打官司** | `dǎguānsī` | *Verb* | litigate, go to law | đi kiện, thưa kiện |
 | 4 | **起诉** | `qǐsù` | *Verb* | sue, bring a lawsuit against, prosecute | khởi tố, truy tố |
 | 5 | **原告** | `yuángào` | *Noun* | plaintiff | nguyên cáo |
 | 6 | **被告** | `bèigào` | *Noun* | defendant | bị cáo |
-| 7 | **法庭** | `fǎtíng` | *Noun* | court of law | toà án (nơi xử án) |
+| 7 | **便** | `biàn` | *Adverb* | used to indicate that sth. comes naturally under certain conditions or circumstances | bèn, liền |
 
 ---
 
-### `H6_37_2` — 保护合法权利与追究侵权责任 (Protecting Legitimate Rights and Investigating Infringement) (🗣️ Dialogue)
+### `H6_37_2` — 依据法律条文判定正当权益 (Judging Legitimate Rights According to the Law) (🗣️ Dialogue)
 
-**Scenario**: A lawyer explains how the law protects legitimate rights, personal reputation, and human rights, investigating and holding accountable anyone who infringes on others.
+**Scenario**: A legal commentary explains how courts render verdicts based on statutory evidence to protect human rights and legitimate interests, defining clearly what constitutes infringement.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -1948,9 +1948,9 @@
 | 2 | **权** | `quán` | *Noun* | 1. power, right; 2. scale, weight; 3. power, rights | 1. QUYỀN:; 2. quả cân, cái cân; 3. quyền lực, quyền lợi |
 | 3 | **人权** | `rénquán` | *Noun* | human rights | nhân quyền |
 | 4 | **正当** | `zhèngdāng` | *Adjective* | legitimate | giữa lúc, trong lúc, chính đáng |
-| 5 | **名誉** | `míngyù` | *Noun* | fame, reputation | danh dự |
+| 5 | **据** | `jù` | *Verb* | 1. according to; 2. depend on; 3. occupy, seize | 1. CƯ, CỨ:; 2. căn cứ, dựa vào; 3. chiếm cứ, chiếm |
 | 6 | **侵犯** | `qīnfàn` | *Verb* | invade, encroach or infringe on | xâm phạm, can thiệp |
-| 7 | **追究** | `zhuījiū` | *Verb* | investigate, look into | truy cứu |
+| 7 | **便是** | `biànshì` | *Phrase* | even, exactly | thì là |
 
 ---
 
@@ -2359,18 +2359,18 @@
 
 ---
 
-### `H6_45_3` — 四外遍地的景致与地名渊源 (Scenery Everywhere Around and the Origin of Place Names) (📖 Passage)
+### `H6_45_3` — 山峰与山谷间的远方景致 (Mountain Peaks, Valleys, and Distant Scenery) (📖 Passage)
 
-**Scenario**: A geographical essay describes standing on a ridge where villages are visible far away in all directions, tracing how local place names and boundaries evolved.
+**Scenario**: A geographical travel essay describes standing between mountain peaks and valleys where streams flow everywhere and wildflowers cover the ground, noticing dark clouds gathering over the distant horizon and tracing the origins of local place names.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **四外** | `sì wài` | *Noun* | four outside | khắp nơi, xung quanh |
+| 1 | **山峰** | `shānfēng` | *Noun* | (mountain) peak | đỉnh núi, chóp núi |
 | 2 | **处处** | `chǔchù` | *Adverb* | everywhere, here and there | nơi nơi, mọi nơi |
 | 3 | **遍地** | `biàndì` | *Adverb* | all over, everywhere | khắp nơi, khắp cả |
-| 4 | **远远** | `yuǎnyuǎn` | *Adverb* | by far, distant | xa xa |
-| 5 | **望见** | `wàngjiàn` | *Verb* | espy, spot | trông mong |
-| 6 | **看得见** | `kàndéjiàn` | *Verb* | visible, can see | nhìn thấy |
+| 4 | **山谷** | `shāngǔ` | *Noun* | ravine, valley | khe núi, thung lũng |
+| 5 | **乌云** | `wūyún` | *Noun* | black cloud | mây đen |
+| 6 | **远方** | `yuǎnfāng` | *Noun* | afar | viễn phương, phương xa, phía xa |
 | 7 | **地名** | `dìmíng` | *Noun* | Place Name | địa danh |
 
 ---
@@ -2394,19 +2394,19 @@
 
 ---
 
-### `H6_46_2` — 往年与近日的对比及明日展望 (Comparing Previous Years with Recent Days and Looking to Tomorrow) (🗣️ Dialogue)
+### `H6_46_2` — 往年回顾与媒体聚焦展望 (Past-Year Review and Media Focus Going Forward) (🗣️ Dialogue)
 
-**Scenario**: Two store managers compare sales from previous years and prior months with recent days, planning how to maintain long-term growth from tomorrow onward.
+**Scenario**: Two editors and a spokesperson review newspapers and special columns from past years, discussing the official briefing on current focal issues and planning coverage from now on.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **往年** | `wǎngnián` | *Noun* | in former years, in previous years | những năm qua, trước kia, năm xưa |
-| 2 | **此前** | `cǐqián` | *Adverb* | previously, before this, before then | trước này, trước điều này |
-| 3 | **近日** | `jìnrì` | *Noun* | in the last few days | mấy ngày qua, gần đây, dạo này |
-| 4 | **明日** | `míngrì` | *Noun* | tomorrow | ngày mai |
+| 2 | **发言人** | `fāyánrén` | *Noun* | spokesperson | người phát ngôn |
+| 3 | **报刊** | `bàokān` | *Noun* | newspapers and periodicals | báo chí |
+| 4 | **栏目** | `lánmù` | *Noun* | column | chuyên mục |
 | 5 | **往后** | `wǎnghòu` | *Adverb* | from now on, in the future | từ nay về sau, trong tương lai |
-| 6 | **事后** | `shìhòu` | *Adverb* | after the event, in hindsight | sau, sau đó, sau khi sự việc xảy ra |
-| 7 | **过后** | `guòhòu` | *Noun* | after the event | sau này, mai sau |
+| 6 | **通报** | `tōngbào` | *Noun* | announce, inform | thông báo |
+| 7 | **焦点** | `jiāodiǎn` | *Noun* | focal point | tiêu điểm |
 
 ---
 
@@ -2477,54 +2477,54 @@
 
 ---
 
-## Unit 48: 异同比较与巧合契机 (Similarity, Difference & Timely Coincidence)
+## Unit 48: 异同辨析、赶乘出行与科研协同 (Comparison, Commute Catch-Up & R&D Collaboration)
 *Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)*
 
-### `H6_48_1` — 一模一样的款式与细微差异 (Identical Styles and Subtle Differences) (🗣️ Dialogue)
+### `H6_48_1` — 同一风格下的正品与盗版差异 (Authentic Boutique Works vs. Pirated Copies Under One Style) (🗣️ Dialogue)
 
-**Scenario**: Shopping for gifts, two sisters notice that two bags look almost identical on the surface, yet upon closer comparison they have subtle differences in pattern.
+**Scenario**: Visiting a studio exhibition, two collectors compare exquisite jewelry, paintings, and designer pieces from the same collection, spotting subtle differences in craftsmanship that distinguish authentic works from pirated copies.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **同** | `tóng` | *Noun* | alike, same, similar | giống nhau, tương đồng |
+| 1 | **设计师** | `shèjìshī` | *Noun* | designer, constructor | nhà thiết kế |
 | 2 | **同一** | `tóngyī` | *Noun* | identical, the same | đồng nhất |
-| 3 | **如一** | `rú yī` | *Adverb* | as one | như một, trước sau như một |
-| 4 | **一模一样** | `yīmúyīyàng` | *Adjective* | exactly the same (idiom) | 1 khuôn 1 dạng, ý chỉ giống nhau như đúc |
-| 5 | **好似** | `hǎosì` | *Noun* | be like, seem | hình như, như, tựa như |
-| 6 | **仿佛** | `fǎngfú` | *Noun* | 1. as if; 2. similar | 1. dường như; 2. giống như |
+| 3 | **精品** | `jīngpǐn` | *Noun* | quality goods, premium product | sản phẩm tinh xảo |
+| 4 | **盗版** | `dàobǎn` | *Noun* | illegal, pirated | sách lậu (sách không có bản quyền mà đem in hoặc dịch) |
+| 5 | **绘画** | `huìhuà` | *Noun* | draw, paint | hội họa |
+| 6 | **珠宝** | `zhūbǎo` | *Noun* | jewels | châu báu |
 | 7 | **差异** | `chāyì` | *Noun* | difference | sai biệt, khác nhau |
 
 ---
 
-### `H6_48_2` — 刚好赶上末班车的巧妙巧合 (The Lucky Coincidence of Just Catching the Last Bus) (🗣️ Dialogue)
+### `H6_48_2` — 避开高峰赶往站台乘车 (Beating Rush Hour to Catch the Train at the Platform) (🗣️ Dialogue)
 
-**Scenario**: Hurrying to the station, two travelers arrive just in time to catch the last bus instead of missing it or falling behind, marveling at the clever timing.
+**Scenario**: Navigating evening rush-hour traffic along the main avenue, two travelers hurry off a shuttle bus and clear station security just in time to reach the platform and catch their train instead of missing it.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **刚好** | `gānghǎo` | *Adverb* | exactly, just | vừa vặn, vừa khít, vừa, vừa khớp |
-| 2 | **恰好** | `qiàhǎo` | *Adverb* | (of number, time, size etc) just right, by lucky coincidence | vừa lúc, đúng lúc, vừa đúng, vừa may |
-| 3 | **恰恰** | `qiàqià` | *Adverb* | exactly, just | vừa vặn, vừa lúc, vừa may, vừa đúng |
-| 4 | **赶忙** | `gǎnmáng` | *Adverb* | hasten, hurry | vội vàng, mau, gấp |
+| 1 | **安检** | `ānjiǎn` | *Noun* | security check | kiểm tra an ninh |
+| 2 | **客车** | `kèchē` | *Noun* | passenger train | xe khách, toa hành khách |
+| 3 | **大道** | `dàdào` | *Noun* | avenue, main street | đại lộ, đường thênh thang |
+| 4 | **高峰** | `gāofēng` | *Noun* | peak, summit | đỉnh cao, cao điểm |
 | 5 | **赶上** | `gǎnshàng` | *Verb* | catch up with, keep up with | bắt kịp, đuổi kịp, kịp |
-| 6 | **赶不上** | `gǎnbùshàng` | *Verb* | can't catch up with, can't keep up with | không đuổi kịp, không theo kịp |
+| 6 | **站台** | `zhàntái` | *Noun* | platform (at a railway station) | sân ga |
 | 7 | **错过** | `cuòguò` | *Verb* | miss, cross | lỡ mất, lạc mất |
 
 ---
 
-### `H6_48_3` — 一齐携手行动与协同推进 (Acting Together Simultaneously and Advancing in Unison) (📖 Passage)
+### `H6_48_3` — 科研团队联手排查仪器故障 (Research Teams Joining Forces to Troubleshoot Instrument Faults) (📖 Passage)
 
-**Scenario**: A project summary describes how multiple departments joined hands to act together simultaneously, following the same standard routine to achieve a clever breakthrough.
+**Scenario**: A science report highlights how two research and development teams joined forces, using precision instruments and an ingenious diagnostic method to trace circuit faults and resolve equipment problems.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **一齐** | `yīqí` | *Adverb* | together, simultaneously | đồng thời, đồng loạt |
-| 2 | **一同** | `yītóng` | *Adverb* | along, together | cùng, chung |
-| 3 | **一道** | `yīdào` | *Noun* | together | cùng, cùng nhau |
+| 1 | **科研** | `kēyán` | *Noun* | scientific research | nghiên cứu khoa học |
+| 2 | **研发** | `yánfā` | *Verb* | research and development | nghiên phát (nghiên cứu phát triển), R&D |
+| 3 | **故障** | `gùzhàng` | *Noun* | malfunction, breakdown | trục trặc, cản trở |
 | 4 | **联手** | `liánshǒu` | *Verb* | join hands, act together | liên kết, hợp lại, cùng nhau |
-| 5 | **常规** | `chángguī` | *Noun* | routine, common practice | lệ thường, thông thường |
+| 5 | **线路** | `xiànlù` | *Noun* | circuits | tuyến, đường dây, mạng lưới, tuyến đường (tải điện, ô tô...) |
 | 6 | **巧妙** | `qiǎomiào` | *Adjective* | clever | kỳ diệu, khôn khéo |
-| 7 | **妙** | `miào` | *Adjective* | clever, wonderful | đẹp, tuyệt diệu, tuyệt vời |
+| 7 | **仪器** | `yíqì` | *Noun* | instrument, apparatus | máy móc, dụng cụ |
 
 ---
 
@@ -2547,19 +2547,19 @@
 
 ---
 
-### `H6_49_2` — 把挫折当作磨炼的积极态度 (The Positive Attitude of Regarding Setbacks as Training) (🗣️ Dialogue)
+### `H6_49_2` — 职场职责、素质与金钱观 (Workplace Duties, Personal Quality, and Views on Money) (🗣️ Dialogue)
 
-**Scenario**: A life coach encourages a young graduate to regard temporary setbacks as valuable training, explaining that external labels do not change the thing itself.
+**Scenario**: In a career mentoring chat, two colleagues discuss why one should not treat salary and money as the sole measure of success, noting that wealthy people on the surface still depend on solid character and fulfilling their duties.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **当作** | `dàngzuò` | *Verb* | regard as, treat as | xem làm, coi làm, làm là |
-| 2 | **当成** | `dàngchéng` | *Verb* | consider as, ake to be | cho rằng, xem như, làm |
-| 3 | **看作** | `kànzuò` | *Verb* | look upon as, regard as | xem xét, cân nhắc |
-| 4 | **算是** | `suànshì` | *Verb* | at last, considered to be | coi là, xem là |
+| 2 | **职责** | `zhízé` | *Noun* | duty, obligation, responsibility | chức trách, trách nhiệm |
+| 3 | **金钱** | `jīnqián` | *Idiom* | money | tiền, kim tiền |
+| 4 | **素质** | `sùzhì` | *Noun* | character | tố chất |
 | 5 | **表面上** | `biǎomiàn shàng` | *Adverb* | on the surface | trên bề mặt |
-| 6 | **名义** | `míngyì` | *Noun* | name, nominal | danh nghĩa |
-| 7 | **本身** | `běnshēn` | *Pronoun* | itself | bản thân, chính mình |
+| 6 | **富人** | `fùrén` | *Noun* | rich man | người giàu |
+| 7 | **薪水** | `xīnshuǐ` | *Noun* | salary, pay | tiền lương |
 
 ---
 
@@ -2579,140 +2579,140 @@
 
 ---
 
-## Unit 50: 逻辑连词与话语衔接 (Logical Conjunctions, Conditionals & Discourse Markers)
+## Unit 50: 话语衔接、租房抉择与正式函件 (Discourse Transitions, Living Choices & Formal Letters)
 *Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)*
 
-### `H6_50_1` — 打断谈话与进一步解释说明 (Interrupting a Conversation and Clarifying One's Meaning) (🗣️ Dialogue)
+### `H6_50_1` — 办公室里的培训咨询与交流 (Training Inquiries and Office Communication) (🗣️ Dialogue)
 
-**Scenario**: During a debate, a speaker politely asks not to be interrupted, using clear discourse markers to explain what a policy means and what other options exist.
+**Scenario**: During a busy afternoon in the office, an intern politely interrupts a supervisor by the printer to ask for advice about evening tutoring and required training courses, while clarifying other work arrangements.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **打断** | `dǎduàn` | *Verb* | interrupt, break off | cắt ngang, ngắt lời |
-| 2 | **就是说** | `jiùshìshuō` | *Noun* | that is | chính là nói |
-| 3 | **这就是说** | `zhèjiùshìshuō` | *Phrase* | this means that | cũng chính là nói, điều đó có nghĩa là |
-| 4 | **再说** | `zàishuō` | *Verb* | besides, moreover | hẵn nói, lại nói |
+| 2 | **办公** | `bàngōng` | *Verb* | work | làm việc |
+| 3 | **咨询** | `zīxún` | *Verb* | seek advice from | tư vấn, hỏi ý kiến |
+| 4 | **补习** | `bǔxí` | *Verb* | take extra lessons | học bổ túc |
 | 5 | **至于** | `zhìyú` | *Preposition* | 1. go so far as to; 2. as for | 1. đến nỗi, đến mức; 2. còn, còn như |
-| 6 | **另** | `lìng` | *Adverb* | another, other | ngoài, khác |
-| 7 | **之类** | `zhīlèi` | *Phrase* | a certain type of thing | loại |
+| 6 | **打印机** | `dǎyìnjī` | *Noun* | printer | máy in |
+| 7 | **必修** | `bìxiū` | *Noun* | must learn according to a curriculum | bắt buộc, môn học bắt buộc |
 
 ---
 
-### `H6_50_2` — 权衡利弊中的假设与选择 (Hypotheticals and Choices When Weighing Pros and Cons) (🗣️ Dialogue)
+### `H6_50_2` — 权衡租金与家电配置的租房选择 (Weighing Rent and Appliance Setups When Choosing a Flat) (🗣️ Dialogue)
 
-**Scenario**: Two partners weigh their options: either they upgrade their equipment now, or they risk falling behind; even if difficulties arise, they will still succeed.
+**Scenario**: Two roommates compare two rental apartments: either pay higher rent for a unit with full appliances, strong air conditioning, and clean wooden floors, or else take the simpler flat to save money each month.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **要么** | `yàome` | *Conjunction* | either one or the other | hoặc là |
 | 2 | **要不然** | `yàobùrán` | *Phrase* | otherwise | nếu không thì |
-| 3 | **若** | `ruò` | *Conjunction* | 1. if, as; 2. seem | 1. nếu như, nếu; 2. dường như, như |
-| 4 | **就算** | `jiùsuàn` | *Noun* | even if | cho dù, dù |
-| 5 | **虽** | `suī` | *Noun* | although, even though | mặc dù, tuy rằng |
-| 6 | **却是** | `quèshì` | *Adverb* | actually, nevertheless | lại là, mà là |
-| 7 | **照样** | `zhàoyàng` | *Adverb* | in the same way, all the same | làm theo, rập khuôn |
+| 3 | **租金** | `zūjīn` | *Noun* | charter money | tiền thuê |
+| 4 | **地板** | `dìbǎn` | *Noun* | running plate | sàn nhà, nền nhà, đất đai |
+| 5 | **家电** | `jiādiàn` | *Noun* | household electric appliance | đồ điện gia dụng |
+| 6 | **冷气** | `lěngqì` | *Noun* | air conditioning (Tw) | khí lạnh, hơi lạnh |
+| 7 | **省钱** | `shěngqián` | *Verb* | save money | tiết kiệm tiền |
 
 ---
 
-### `H6_50_3` — 正式书信结语与文言虚词运用 (Formal Letter Closings and Classical Function Words) (📖 Passage)
+### `H6_50_3` — 就名誉纠纷致函法庭的正式文稿 (Formal Court Letter Regarding a Reputation Dispute) (📖 Passage)
 
-**Scenario**: A writing style guide explains how formal Chinese correspondence uses classical prepositions, conjunctions, and polite salutations at the end of a letter.
+**Scenario**: A formal legal correspondence guide walks through drafting a statement with supporting materials to submit to the court over a reputation dispute, pursuing legal accountability before closing with a standard salutation.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **与** | `yǔ` | *Conjunction* | with, and | với, cùng |
-| 2 | **于** | `yú` | *Noun* | from, out of | từ, ở, vào |
-| 3 | **如** | `rú` | *Conjunction* | as, as if | Như: giống như, dường như |
-| 4 | **据** | `jù` | *Verb* | 1. according to; 2. depend on; 3. occupy, seize | 1. CƯ, CỨ:; 2. căn cứ, dựa vào; 3. chiếm cứ, chiếm |
-| 5 | **便** | `biàn` | *Adverb* | used to indicate that sth. comes naturally under certain conditions or circumstances | bèn, liền |
-| 6 | **便是** | `biànshì` | *Phrase* | even, exactly | thì là |
+| 2 | **纠纷** | `jiūfēn` | *Noun* | dispute | tranh chấp, bất hòa |
+| 3 | **稿子** | `gǎozi` | *Noun* | draft of a document | bản thảo, bản nháp |
+| 4 | **名誉** | `míngyù` | *Noun* | fame, reputation | danh dự |
+| 5 | **法庭** | `fǎtíng` | *Noun* | court of law | toà án (nơi xử án) |
+| 6 | **追究** | `zhuījiū` | *Verb* | investigate, look into | truy cứu |
 | 7 | **此致** | `cǐzhì` | *Adverb* | (used at the end of a letter to introduce a polite salutation) | từ chào cuối thư thể hiện lễ phép |
 
 ---
 
-## Unit 51: 否定评价与语气表达 (Negation, Evaluation & Conversational Modalities)
+## Unit 51: 坦率评价、日常守则与迎难拼搏 (Candid Evaluation, Daily Habits & Athletic Grit)
 *Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)*
 
-### `H6_51_1` — 坦率评价与口语语气词的妙用 (Candid Evaluations and Conversational Modal Particles) (🗣️ Dialogue)
+### `H6_51_1` — 对新开餐馆餐点与饮品的坦率评价 (A Candid Review of a New Diner's Food and Drinks) (🗣️ Dialogue)
 
-**Scenario**: Two friends chatting about a newly opened restaurant remark that the service is nothing special, using natural modal particles to soften their candid evaluation.
+**Scenario**: After trying a newly opened cafe, two friends remark candidly that the porridge and sandwiches taste nothing special and the fries, brewed tea, and beverages are not very fresh.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **不怎么** | `bùzěnme` | *Adverb* | not particularly, not very | không thực sự, không ... lắm |
 | 2 | **不怎么样** | `bùzěnmeyàng` | *Phrase* | not up to much, nothing great about it | chẳng ra sao, chẳng ra gì, xoàng xỉnh, thường thôi |
-| 3 | **不至于** | `bùzhìyú` | *Phrase* | unlikely, can't go far as to, not so as to | không đến mức, chưa đến nỗi |
-| 4 | **不成** | `bùchéng` | *Verb* | unable to, won't do | không thành |
-| 5 | **罢了** | `bàle` | *Phrase* | a modal particle indicating (that's all, only, nothing much) | mà thôi, thôi |
-| 6 | **嘛** | `ma` | *Particle* | indicating that the reason is obvious | đi, mà |
-| 7 | **啦** | `la` | *Particle* | combination of the sounds of “了（le）” and “啊（a）”, expressing exclamation, interrogation, etc | đấy, nhé |
+| 3 | **酒水** | `jiǔshuǐ` | *Noun* | a drink, beverage | thức uống và rượu |
+| 4 | **薯条** | `shǔtiáo` | *Noun* | french fried potatoes, chip | khoai tây miếng, khoai tây chiên |
+| 5 | **泡** | `pào` | *Noun* | 1. bubble, soak; 2. soak | 1. bọt, bóng; 2. ngâm |
+| 6 | **三明治** | `sānmíngzhì` | *Noun* | sandwich (loanword) | Sandwich (món ăn) |
+| 7 | **粥** | `zhōu` | *Noun* | porridge | cháo |
 
 ---
 
-### `H6_51_2` — 好不容易完成任务与不再犯错 (Completing a Task with Great Difficulty and Never Repeating Mistakes) (🗣️ Dialogue)
+### `H6_51_2` — 邻里看管宠物与雨天出行习惯 (Helping Watch a Neighbor's Pet and Rainy-Day Habits) (🗣️ Dialogue)
 
-**Scenario**: After working through a tough problem with great difficulty, a technician says he has never seen such a tricky case before and will never make the same error again.
+**Scenario**: Slipping on raincoats and slippers in the hallway, two neighbors arrange to help look after a pet dog, noting with relief that it never barks indoors and has never made a mess in the corridor.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **好不容易** | `hǎobùróngyì` | *Noun* | very difficult,  with great difficulty | không dễ dàng gì mà |
+| 1 | **看管** | `kānguǎn` | *Verb* | look after | trông giữ, trông coi |
 | 2 | **从不** | `cóngbù` | *Adverb* | never | từ không, từ trước đến nay ko |
 | 3 | **从没** | `cóngméi` | *Adverb* | never (in the past), never did | từ trước đến giờ không |
-| 4 | **不再** | `bùzài` | *Adverb* | not reappear, anymore | từ bỏ, không tiếp nữa |
-| 5 | **不见** | `bújiàn` | *Verb* | not to see, not to meet | không gặp, không thấy, chưa gặp mặt |
-| 6 | **很难说** | `hěnnánshuō` | *Noun* | hard to say | rất khó nói |
-| 7 | **有没有** | `yǒuméiyǒu` | *Verb* | Is there a ...? | có hay không |
+| 4 | **雨衣** | `yǔyī` | *Noun* | raincoat | áo mưa |
+| 5 | **宠物** | `chǒngwù` | *Noun* | pet | thú cưng, vật nuôi |
+| 6 | **楼道** | `lóudào` | *Noun* | passageway, corridor | hàng hiên, hành lang |
+| 7 | **拖鞋** | `tuōxié` | *Noun* | slippers, sandals | dép, dép lê |
 
 ---
 
-### `H6_51_3` — 迎难而上的决心与全方位提升 (Determination to Overcome Difficulties and All-Round Improvement) (📖 Passage)
+### `H6_51_3` — 踏实备战田径长跑与敢于拼搏 (Steady Training in Track and Field and Daring to Compete) (📖 Passage)
 
-**Scenario**: A motivational essay argues that success is not just about luck; anyone willing to dared to try and give their utmost effort can elevate their capabilities.
+**Scenario**: A sports feature profiles a grounded track-and-field long-distance runner who was willing to put in daily mileage and dared to push the pace in the semifinals to earn a bronze medal.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **不仅仅** | `bùjǐnjǐn` | *Adverb* | not just | không chỉ là |
-| 2 | **更是** | `gèngshì` | *Noun* | even more | đặc biệt là, nhất là |
-| 3 | **凡是** | `fánshì` | *Adverb* | usually, whatever, any | phàm là |
+| 1 | **铜牌** | `tóngpái` | *Noun* | bronze medal, bronze plaque bearing a business name or logo etc | huy chương đồng |
+| 2 | **半决赛** | `bànjuésài` | *Noun* | semifinals | vòng bán kết, bán kết |
+| 3 | **踏实** | `tàshí` | *Adjective* | dependable, reliable, steady and sure | thiết thực, thực tiễn, thực dụng (tính cách) |
 | 4 | **肯** | `kěn` | *Verb* | 1. agree, be ready (to do sth); 2. be willing | 1. đồng ý, tán thành; 2. bằng lòng, chịu |
 | 5 | **敢于** | `gǎnyú` | *Verb* | dare to, have the courage to do sth | dám, có quyết tâm, có dũng khí |
-| 6 | **尽** | `jǐn` | *Noun* | 1. the utmost; 2. exhausted, entirely | 1. hết sức, cố; 2. hết, tận (hết sức, tận lực) |
-| 7 | **提升** | `tíshēng` | *Verb* | promote, upgrade | đề bạt, thăng cấp |
+| 6 | **长跑** | `chángpǎo` | *Noun* | go long-distance running | chạy đường dài |
+| 7 | **田径** | `tiánjìng` | *Noun* | track and field | điền kinh |
 
 ---
 
-## Unit 52: 处境抉择与行为方式 (Situational Choices, Persistence & Methods)
+## Unit 52: 危机应对、舞台初秀与公共要素 (Crisis Response, Stage Debut & Public Facilities)
 *Module 9: Actions, Spatial-Temporal & Advanced Discourse (动作行为、时空方位与高阶表达)*
 
-### `H6_52_1` — 被迫无奈的抉择与苦苦挨过难关 (An Obliged Choice Under Pressure and Enduring Hardship) (🗣️ Dialogue)
+### `H6_52_1` — 面对危机保持理智与被迫周旋 (Staying Rational in a Crisis and Dealing Under Pressure) (🗣️ Dialogue)
 
-**Scenario**: Pressed by urgent circumstances, a small business owner has no choice but to endure temporary hardship, wondering why the approval process is so slow and whether it can go smoothly.
+**Scenario**: Recounting a tense incident to investigators, a witness explains how a shopkeeper kept rational despite feeling angry when an armed robber and accomplice forced him into a corner, leaving him no choice but to comply until police ended the crisis.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **逼** | `bī` | *Verb* | 1. press for, press on towards, press up to; 2. to force, to compel; 3. to demand, to extort | 1. BỨC:; 2. dồn ép, bức bách; 3. bức, đòi, cưỡng đoạt |
 | 2 | **只得** | `zhǐde` | *Verb* | have no alternative but to, be obliged to, have to | đành phải, buộc lòng phải |
-| 3 | **挨** | `āi` | *Verb* | delay, endure | bị(đánh), chịu đựng |
-| 4 | **为何** | `wèihé` | *Noun* | why | vì sao, vì cái gì, tại sao |
-| 5 | **能否** | `néngfǒu` | *Verb* | can it or can't it, is it possible? | liệu sẽ |
-| 6 | **顺** | `shùn` | *Adjective* | 1. along; 2. arrange, follow | 1. thuận, xuôi, theo; 2. sắp xếp, theo |
-| 7 | **晓得** | `xiǎode` | *Noun* | know | biết, hiểu |
+| 3 | **强盗** | `qiángdào` | *Noun* | bandit, robber | cường đạo, bọn giặc, bọn cướp |
+| 4 | **愤怒** | `fènnù` | *Noun* | angry | phẫn nộ |
+| 5 | **凶手** | `xiōngshǒu` | *Noun* | murderer | hung thủ |
+| 6 | **危机** | `wēijī` | *Noun* | crisis | nguy cơ, khủng hoảng |
+| 7 | **理智** | `lǐzhì` | *Noun* | rational, sensible | lý trí |
 
 ---
 
-### `H6_52_2` — 一番苦心钻研与想出新招 (Painstaking Effort and Coming Up with a Clever Move) (🗣️ Dialogue)
+### `H6_52_2` — 礼堂音乐会上的首次登台演奏 (First Stage Performance at the Auditorium Concert) (🗣️ Dialogue)
 
-**Scenario**: After putting in a great deal of effort for the first time this season, a coach devises a clever new move and evaluates the players' performance.
+**Scenario**: After the curtain falls, two audience members discuss how a young soloist joined seasoned masters to perform a classical musical piece in the auditorium for the first time during this concert, earning warm applause.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
-| 1 | **一番** | `yīfān` | *Noun* | some | 1 lần |
-| 2 | **番** | `fān` | *Noun* | (used with certain numerals to indicate a process or an action that takes time and effort) time | nước ngoài, ngoại biên |
+| 1 | **礼堂** | `lǐtáng` | *Noun* | hall | lễ đường, hội trường |
+| 2 | **乐曲** | `yuèqǔ` | *Noun* | musical composition | nhạc khúc, bản nhạc |
 | 3 | **首次** | `shǒucì` | *Adverb* | first time, for the first time | lần đầu tiên, lần thứ nhất |
 | 4 | **此次** | `cǐcì` | *Adverb* | this time | lần này |
-| 5 | **招** | `zhāo` | *Verb* | trick, move, method | chiêu, tuyển gọi, vẫy gọi |
-| 6 | **评** | `píng` | *Verb* | 1. comment, criticize, discuss; 2. comment, criticize, evaluate; 3. vote, choose | 1. Bình:; 2. bình luận, phê bình, đánh giá; 3. bình bầu, lựa chọn |
-| 7 | **特** | `tè` | *Noun* | especially, unique | Đặc: đặc biệt, đặc thù |
+| 5 | **高手** | `gāoshǒu` | *Noun* | expert | cao thủ |
+| 6 | **掌声** | `zhǎngshēng` | *Noun* | applause | tiếng vỗ tay |
+| 7 | **演奏** | `yǎnzòu` | *Verb* | perform on a musical instrument | diễn tấu |
 
 ---
 
