@@ -2769,7 +2769,7 @@
 
 ### `H6_53_3` — 探讨外来词汇、洋文化与传统器物样式 (Exploring Loanwords, Foreign Culture, and Traditional Patterns) (📖 Passage)
 
-**Scenario**: A cultural essay examines how foreign goods and loanwords entered modern life, comparing original patterns and traditional rules of craftsmanship with contemporary creations.
+**Scenario**: A cultural essay examines how foreign goods and loanwords entered modern life, comparing original patterns, raw materials, and traditional procedures of craftsmanship with contemporary creations.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
@@ -2778,7 +2778,7 @@
 | 3 | **原** | `yuán` | *Noun* | 1. former; 2. original; 3. primary; 4. raw | 1. Nguyên:; 2. khởi đầu, sớm nhất; 3. vốn là, nguyên là; 4. thô, nguyên |
 | 4 | **样** | `yàng` | *Noun* | pattern, shape | mẫu, loại, kiểu |
 | 5 | **道道** | `dào dào` | *Noun* | 1. all the way; 2. rules, methods | 1. biện pháp, phương pháp; 2. lề lối, cách thức |
-| 6 | **讲攻** | `jiǎnggōng` | *Noun* | talk about | tiến công |
+| 6 | **料** | `liào` | *Noun* | 1. feed, grain; 2. anticipate, expect | 1. liệu, dự liệu; 2. dự đoán, mong đợi |
 | 7 | **作** | `zuò` | *Verb* | do, grow | dậy, dấy len, rộ lên |
 
 ---
@@ -2804,13 +2804,13 @@
 
 ### `H6_54_2` — 棋局博弈中的将军与化解之道 (Checkmate, Tactics, and Resolving Crises in Chess) (🗣️ Dialogue)
 
-**Scenario**: Playing Chinese chess, a veteran player calls checkmate with a sharp move, explaining how anticipating the opponent's moves, preparing dual tactics, and resolving complex crises earn true respect.
+**Scenario**: Playing Chinese chess, a veteran player launches a sharp offensive and calls checkmate, explaining how preparing dual tactics, seizing the initiative, and resolving complex crises earn true respect.
 
 | # | Vocabulary | Pinyin | Part of Speech | English Meaning | Nghĩa Tiếng Việt |
 | :-: | :--- | :--- | :---: | :--- | :--- |
 | 1 | **将军** | `jiāngjūn` | *Noun* | 1. (military rank) general; 2. checkmate | 1. tướng quân; 2. chiếu tướng |
 | 2 | **两手** | `liǎngshǒu` | *Noun* | 1. two hands; 2. methods, measures | 1. bản lĩnh, kỹ năng; 2. phương pháp, biện pháp |
-| 3 | **料** | `liào` | *Noun* | 1. feed, grain; 2. anticipate, expect | 1. liệu, dự liệu; 2. dự đoán, mong đợi |
+| 3 | **进攻** | `jìngōng` | *Verb* | attack, assault, offensive | tiến công |
 | 4 | **服** | `fú` | *Verb* | 1. clothes, garment; 2. serve; 3. admire, obey, convince | 1. Phục:; 2. trang phục; 3. phục tùng |
 | 5 | **权** | `quán` | *Noun* | 1. power, right; 2. scale, weight; 3. power, rights | 1. QUYỀN:; 2. quả cân, cái cân; 3. quyền lực, quyền lợi |
 | 6 | **牢** | `láo` | *Noun* | 1. prison; 2. fold (for animals); 3. firm; 4. durable, solid | 1. LAO:; 2. chuồng; 3. tù, ngục; 4. bền vững, chắc |

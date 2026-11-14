@@ -2845,14 +2845,14 @@
     "unit_title": "区域合作、扶贫发展与社会创建 (Regional Cooperation, Poverty Alleviation & Social Development)",
     "text_type": "passage",
     "title": "探讨外来词汇、洋文化与传统器物样式 (Exploring Loanwords, Foreign Culture, and Traditional Patterns)",
-    "scenario": "A cultural essay examines how foreign goods and loanwords entered modern life, comparing original patterns and traditional rules of craftsmanship with contemporary creations.",
+    "scenario": "A cultural essay examines how foreign goods and loanwords entered modern life, comparing original patterns, raw materials, and traditional procedures of craftsmanship with contemporary creations.",
     "new_words": [
       "外来",
       "洋",
       "原",
       "样",
       "道道",
-      "讲攻",
+      "料",
       "作"
     ]
   },
@@ -2881,11 +2881,11 @@
     "unit_title": "社会变迁、博弈应对与深层化解 (Social Transitions, Strategic Maneuvers & Resolving Conflicts)",
     "text_type": "dialogue",
     "title": "棋局博弈中的将军与化解之道 (Checkmate, Tactics, and Resolving Crises in Chess)",
-    "scenario": "Playing Chinese chess, a veteran player calls checkmate with a sharp move, explaining how anticipating the opponent's moves, preparing dual tactics, and resolving complex crises earn true respect.",
+    "scenario": "Playing Chinese chess, a veteran player launches a sharp offensive and calls checkmate, explaining how preparing dual tactics, seizing the initiative, and resolving complex crises earn true respect.",
     "new_words": [
       "将军",
       "两手",
-      "料",
+      "进攻",
       "服",
       "权",
       "牢",
