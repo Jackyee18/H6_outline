@@ -138,7 +138,7 @@ Every lesson and sentence in `H6.json` must satisfy all 5 invariants:
 Students must never encounter untaught vocabulary. Content generation enforces strict cumulative gating:
 $$\text{Tokens}(\text{Lesson } k) \subseteq V_{\text{base}} \cup \left( \bigcup_{j=1}^{k} \text{new\_words}_j \right)$$
 Where:
-- $V_{\text{base}}$: All **4,553 words** from `vocab_h5.json` (HSK 1–5) + approved proper names (`李伟`, `王芳`, `张大夫`, `陈经理`, etc.) + grammatical particles (`啊`, `呢`, `吧`, `呀`, `啦`, `嘛`, `哦`, `嗯`).
+- $V_{\text{base}}$: All **4,553 words** from `vocab_h5.json` (HSK 1–5, plus standard de-erhua forms like `玩儿` $\to$ `玩`, `一点儿` $\to$ `一点`) + approved proper names (`李伟`, `王芳`, `小王`, `小李`, `大卫`, `丽丽`, `小明`, `李老师`, `王老师`, `张老师`, `王经理`, `张大爷`, `王大妈`) + basic grammatical particles/prepositions (`把`, `往`, `嗯`, `啊`, `呀`, `吧`, `呢`, `哦`). *(Note: `另`, `啦`, `嘛` are target words in `vocab_h6.json` and remain strictly gated until their assigned lesson.)*
 - $\text{new\_words}_j$: The target words introduced up to and including lesson $j$.
 
 ### 3.3 Natural Spoken Interaction Rules
@@ -243,3 +243,57 @@ for p in data:
 print(f'H6.json: All 5 invariants 100% Verified across {len(data)} lessons ({total_lines} lines)!')
 "
 ```
+
+---
+
+## 7. Content Generation Execution Plan (`H6_lesson_contents.json` $\to$ `H6.json`)
+
+> **Status**: Draft Plan — awaiting final sign-off on Section 7.5 decisions before generating scripts or lesson content.
+
+### 7.1 Phase 1: Deterministic Whitelist & Validator Engine (`verify_h6_content.py`)
+Modeled on `HSK5 builder/verify_h5_content.py`, enforce zero-tolerance cumulative checks before any full-scale generation:
+1. **Cumulative Vocabulary Builder ($V_k$)**:
+   - Load all **4,553** HSK 1–5 words from `vocab_h5.json` (plus standard de-erhua forms and approved speaker names/extras).
+   - For lesson index $k \in [0, 164]$, union $V_{\text{HSK 1–5}}$ with $\bigcup_{j=0}^{k} \text{new\_words}(j)$ from `H6_outline.json`.
+   - Map every HSK 6 word in `vocab_h6.json` to its **first-appearance** lesson index (`h6_word_to_idx`) so words are unlocked only from their introduction lesson onward.
+2. **Two-Pass Segmentation & Leak Audit**:
+   - **Pass 1 (Forward Max-Match Leak Detection)**: Scans each sentence against `vocab_k | future_h6` to catch any future HSK 6 compound ($j > k$) that might otherwise split into single HSK 1–5 characters.
+   - **Pass 2 (Exact DP Segmentation over $V_k$)**: Confirms 100% of every sentence segments into valid tokens from $V_k$ plus punctuation/digits, reporting the exact lesson ID and offending span on any OOV or leak.
+3. **Structural & Coverage Checks**:
+   - `passage_id`, `text_type`, and `new_words` match `H6_outline.json` 100%.
+   - Line count is in `[4, len(new_words) + 2]` (**6–9 lines** per lesson).
+   - **Dialogues (110 lessons)**: Exactly 2 speakers alternating every turn (`speaker[i] != speaker[i-1]`).
+   - **Passages (55 lessons)**: 1 consistent narrator across all sentences.
+   - 100% of `new_words` appear intact in the lesson text.
+
+### 7.2 Phase 2: Pedagogical & Writing Standards
+1. **Scenario-Anchored Micro-Plots**: Every lesson follows the `title` and `scenario` in `H6_outline.json` with a natural 3-step arc: **Context/Opening $\to$ Development/Contrast $\to$ Resolution/Takeaway**.
+2. **Pacing & Density**: **6–8 lines** per lesson ($\le \text{len}(\text{new\_words}) + 2$), introducing **1 target word (at most 2)** per line so sentences stay conversational and digestible.
+3. **Polysemy Handling**: Units 1–53 use each word's primary contextual sense; **Units 54–55** explicitly showcase the secondary/abstract senses of the 32 reinforced polysemous words.
+4. **Approved Speaker Pool**: `{"李伟", "王芳", "小王", "小李", "大卫", "丽丽", "小明", "李老师", "王老师", "张老师", "王经理", "张大爷", "王大妈"}`.
+
+### 7.3 Phase 3: Batch Generation & Self-Correction Loop
+Generate and verify all **165 lessons** in **6 batches** across the 55 units:
+- **Batch 1**: Units 1–9 (`H6_1_1` – `H6_9_3`, 27 lessons — Modules 1–2)
+- **Batch 2**: Units 10–18 (`H6_10_1` – `H6_18_3`, 27 lessons — Modules 2–4)
+- **Batch 3**: Units 19–27 (`H6_19_1` – `H6_27_3`, 27 lessons — Modules 4–6)
+- **Batch 4**: Units 28–36 (`H6_28_1` – `H6_36_3`, 27 lessons — Modules 6–8)
+- **Batch 5**: Units 37–45 (`H6_37_1` – `H6_45_3`, 27 lessons — Modules 8–9)
+- **Batch 6**: Units 46–55 (`H6_46_1` – `H6_55_3`, 30 lessons — Module 9 & Polysemy Review)
+
+Workflow per batch:
+1. Draft batch JSON (`batch_N.json`) using only $V_k$.
+2. Run `python verify_h6_content.py batch_N.json` and rewrite any flagged line until **0 errors**.
+3. Merge all verified batches into `H6_lesson_contents.json` and render `H6_content.md`.
+
+### 7.4 Phase 4: Full Production JSON Pipeline (`build_h6_json.py` $\to$ `H6.json`)
+Modeled on `HSK5 builder/build_h5_json.py`:
+1. **Stage 1 — Skeleton & Lossless Tokenization (`H6_step1_skeleton.json`)**: Tokenize every line over $V_k$ (`"".join(tokens) == content`) and generate `audio_key = f"{passage_id}_{line_id}"`.
+2. **Stage 2 — Bilingual Translations (`H6_step2_translations_cache.json`)**: Generate idiomatic English (`en`) and persona-appropriate Vietnamese (`vi`) translations for all lines.
+3. **Stage 3 — Token-Aligned Pinyin**: Generate tone-marked `pinyin` strictly aligned 1-to-1 with `tokens` (`len(pinyin.split(" ")) == len(tokens)`), applying `一`/`不` tone sandhi, polyphone rules, and sentence-initial capitalization.
+4. **Stage 4 — Final Assembly & Audit (`H6.json`)**: Assemble `H6.json` and run the 5-invariant test suite across all 165 lessons.
+
+### 7.5 Open Decisions to Finalize Before Execution
+1. **Dictionary Typo in `H6_53_3` (`讲攻` vs `讲究`)**: In `vocab_h6.json` (`id: 3777`, `py: "jiǎngjiu"`), `cn` is `"讲攻"`. Accept both `"讲攻"` and `"讲究"` in `verify_h6_content.py` (like `"贈送"`/`"赠送"` in HSK 5), or keep `"讲攻"`?
+2. **Base Whitelist Extras (`approved_extras`)**: Confirm including standard de-erhua forms from `vocab_h5.json`, `"把", "往", "嗯", "啊", "呀", "吧", "呢", "哦"`, and approved speaker names (with `另`, `啦`, `嘛` strictly gated to their HSK 6 lessons).
+3. **Execution Staging**: Pilot **Unit 1 (`H6_1_1`–`H6_1_3`)** first, complete **Phases 1–3 (`H6_lesson_contents.json` + `H6_content.md`)** before Phase 4, or run end-to-end?
